@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hash.tw/about/index.html</loc>
+    
+    <lastmod>2017-01-08T16:06:36.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hash.tw/categories/index.html</loc>
     
     <lastmod>2017-01-08T15:11:07.000Z</lastmod>
