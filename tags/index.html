@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next muse use-motion" lang="ZH-TW">
+<html class="theme-next muse use-motion" lang="zh-tw">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -106,7 +106,7 @@
     motion: true,
     duoshuo: {
       userId: '0',
-      author: 'Author'
+      author: '博主'
     },
     algolia: {
       applicationID: '',
@@ -135,7 +135,7 @@
 </title>
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="ZH-TW">
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-tw">
 
   
 
@@ -192,7 +192,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
             
-            Startseite
+            首頁
           </a>
         </li>
       
@@ -202,7 +202,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
             
-            Archiv
+            歸檔
           </a>
         </li>
       
@@ -212,7 +212,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
             
-            Tags
+            標籤
           </a>
         </li>
       
@@ -248,7 +248,7 @@
     
       <div class="tag-cloud">
         <div class="tag-cloud-title">
-            Insgesamt 3 Tags
+            目前共計 3 個標籤
         </div>
         <div class="tag-cloud-tags">
           <a href="/tags/SkillTree/" style="font-size: 12px; color: #ccc">SkillTree</a> <a href="/tags/TDD/" style="font-size: 12px; color: #ccc">TDD</a> <a href="/tags/測試/" style="font-size: 12px; color: #ccc">測試</a>
@@ -264,6 +264,13 @@
 
           
   <div class="comments" id="comments">
+    
+      <div id="disqus_thread">
+        <noscript>
+          Please enable JavaScript to view the
+          <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+      </div>
     
   </div>
 
@@ -301,7 +308,7 @@
             <div class="site-state-item site-state-posts">
               <a href="/archives">
                 <span class="site-state-item-count">1</span>
-                <span class="site-state-item-name">Artikel</span>
+                <span class="site-state-item-name">文章</span>
               </a>
             </div>
           
@@ -312,7 +319,7 @@
             <div class="site-state-item site-state-tags">
               <a href="/tags">
                 <span class="site-state-item-count">3</span>
-                <span class="site-state-item-name">Tags</span>
+                <span class="site-state-item-name">標籤</span>
               </a>
             </div>
           
@@ -367,11 +374,11 @@
 
 
 <div class="powered-by">
-  Erstellt mit  <a class="theme-link" href="https://hexo.io">Hexo</a>
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 強力驅動
 </div>
 
 <div class="theme-info">
-  Theme -
+  主題 -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
     NexT.Muse
   </a>
@@ -456,28 +463,39 @@
 
   
 
+    <script type="text/javascript">
+      var disqus_shortname = 'hashman-blog';
+      var disqus_identifier = 'tags/index.html';
+
+      var disqus_title = "tags";
 
 
+      function run_disqus_script(disqus_script) {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      }
 
-	
+      run_disqus_script('count.js');
 
+      
+        var disqus_config = function () {
+            this.page.url = disqus_url;
+            this.page.identifier = disqus_identifier;
+            this.page.title = disqus_title;
+        };
+        run_disqus_script('embed.js');
+      
 
-
-
-
+    </script>
   
 
 
 
 
 
-  
-
-  
-      <!-- UY BEGIN -->
-      <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid="></script>
-      <!-- UY END -->
-  
 
 
 

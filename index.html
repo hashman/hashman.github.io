@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next muse use-motion" lang="ZH-TW">
+<html class="theme-next muse use-motion" lang="zh-tw">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -105,7 +105,7 @@
     motion: true,
     duoshuo: {
       userId: '0',
-      author: 'Author'
+      author: '博主'
     },
     algolia: {
       applicationID: '',
@@ -128,7 +128,7 @@
   <title> Hash's Blog </title>
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="ZH-TW">
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-tw">
 
   
 
@@ -187,7 +187,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
             
-            Startseite
+            首頁
           </a>
         </li>
       
@@ -197,7 +197,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
             
-            Archiv
+            歸檔
           </a>
         </li>
       
@@ -207,7 +207,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
             
-            Tags
+            標籤
           </a>
         </li>
       
@@ -280,7 +280,7 @@
                 <i class="fa fa-calendar-o"></i>
               </span>
               
-                <span class="post-meta-item-text">Veröffentlicht am</span>
+                <span class="post-meta-item-text">發表於</span>
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-01-08T22:49:36+08:00">
                 2017-01-08
@@ -295,6 +295,16 @@
           
 
           
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2017/01/08/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day1/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2017/01/08/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day1/" itemprop="commentCount"></span>
+                </a>
+              </span>
             
           
 
@@ -439,7 +449,7 @@
             <div class="site-state-item site-state-posts">
               <a href="/archives">
                 <span class="site-state-item-count">1</span>
-                <span class="site-state-item-name">Artikel</span>
+                <span class="site-state-item-name">文章</span>
               </a>
             </div>
           
@@ -450,7 +460,7 @@
             <div class="site-state-item site-state-tags">
               <a href="/tags">
                 <span class="site-state-item-count">3</span>
-                <span class="site-state-item-name">Tags</span>
+                <span class="site-state-item-name">標籤</span>
               </a>
             </div>
           
@@ -505,11 +515,11 @@
 
 
 <div class="powered-by">
-  Erstellt mit  <a class="theme-link" href="https://hexo.io">Hexo</a>
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 強力驅動
 </div>
 
 <div class="theme-info">
-  Theme -
+  主題 -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
     NexT.Muse
   </a>
@@ -594,24 +604,32 @@
 
   
 
+    <script type="text/javascript">
+      var disqus_shortname = 'hashman-blog';
+      var disqus_identifier = 'index.html';
+
+      var disqus_title = "";
 
 
+      function run_disqus_script(disqus_script) {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      }
 
-	
+      run_disqus_script('count.js');
 
+      
 
-
-
-
+    </script>
   
 
 
 
 
 
-  
-
-  
 
 
 
