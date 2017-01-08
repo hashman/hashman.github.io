@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hash&#39;s Blog</title>
+  <subtitle>記錄學習過程中的一切</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hash.tw/"/>
+  <updated>2017-01-08T14:51:32.000Z</updated>
+  <id>http://hash.tw/</id>
+  
+  <author>
+    <name>Hash Lin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</title>
+    <link href="http://hash.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/"/>
+    <id>http://hash.tw/2017/01/08/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day1/</id>
+    <published>2017-01-08T14:49:36.000Z</published>
+    <updated>2017-01-08T14:51:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天第一天上 91 哥的課，也是第一次，看到整間教室坐滿就知道 91 哥的名氣跟課程內容的豐富度一定很高，課程中的學員也有蠻多都是已經上過 91 哥課程的老學員又回來在聽的，隨著時間的增長，課程中的實務案例與經驗分享也更為豐富。</p>
+<h2 id="前景提要"><a href="#前景提要" class="headerlink" title="前景提要"></a>前景提要</h2><ul>
+<li>在 KKBOX 其實已經有一定的 Unit Test 與 CI 自動化的導入機制，所以其實在上這門課以前，我就已經有不少的測試開發經驗，雖說大部分都還是撰寫 Unit Test ，但對於 TDD 也是有一定的基礎在。</li>
+<li>91 哥上課使採用 C# 上課，上課前 91 哥都會提供相當仔細的課程環境建設，如果你本身有在寫 C# 那恭喜你在這邊應該是沒有任何問題的，但如果你是 Mac or 沒有寫過 C# 的開發者那 … 你應該在於建置環境上面需要多花點心力處理，以下提供幾個朋友實際安裝環境所會費的時間參考。<ul>
+<li>Mac + Virtual Box + Visual Studio(Full install) 在 <strong>SSD</strong> 上面跑約需要安裝 1.5 hr 。</li>
+<li>Mac + Virtual Box + Visual Studio(上課所需的內容) 在 <strong>SD</strong> 上面跑約需要安裝 2.5 hr 。</li>
+</ul>
+</li>
+<li>如果是用 C# 上課對於一個非 C# 的開發者會不會有困難呢？<ul>
+<li>以我的狀況，我是 PHP 的開發者，平常是使用 PHPStorm 進行開發，對於 IDE 並不陌生，但是面對號稱地表最強的 IDE Visual Studio 說真的還是需要花點時間去習慣。</li>
+<li>至於 Code 會不會看不懂？我個人是覺得不會，只是 C# 有些語法上面是需要去習慣一下的。</li>
+</ul>
+</li>
+<li>如果不是開發者像是 PM or Manager 去上這門課適合嗎？<ul>
+<li>因為 91 哥上課會有大量的 workshop 需要實際去寫 code 進行相關測試，設計觀念與寫 Code 的比例大約是 6:4 吧，我是覺得還是會有收穫的，但可能在於寫 Code 進行測試上面可能稍有些辛苦。</li>
+</ul>
+</li>
+</ul>
+<h2 id="課程重點"><a href="#課程重點" class="headerlink" title="課程重點"></a>課程重點</h2><ol>
+<li>不是教你寫測試程式，而是教你開發跟設計</li>
+<li>如何透過測試同時達到測試方法與測試文件</li>
+<li>如何開發出更為穩定更為安心可以早早下班洗洗睡的 Code</li>
+</ol>
+<h2 id="有趣的上課方式"><a href="#有趣的上課方式" class="headerlink" title="有趣的上課方式"></a>有趣的上課方式</h2><ol>
+<li>生動活潑的上課方式<ul>
+<li>上課會採用分組活動來進行討論與分享。</li>
+<li>記點獎勵來激勵大家多多回答與發問。</li>
+<li>有問必達，可以於上課中隨時提出問題 91 哥都會耐心的解答，或是也可以利用備忘錄或是下課詢問的方式也可以獲得你要的答案 。</li>
+</ul>
+</li>
+<li>學習地圖與強調學習重點<ul>
+<li>上課一開始就將 TDD Skill Tree 整個展開給學員們看，非常明瞭三天的學習方向、學習步驟與關連。</li>
+<li>本次開始提供課前講義（填空版與答案版），填空版主要為複習使用，可以知道空格的地方都是上課的重點，答案版可以隨時尋找答案。</li>
+</ul>
+</li>
+<li>實戰演練<ul>
+<li>透過 Lab 的題目（原始題目、答案與步驟）進行操作，更可以針對不同的情境去撰寫自己的測試方法。</li>
+<li>透過老師提供的步驟說明，在自己回家後如果對於 Lab 有不清楚的時候可以翻開步驟一步一步的跟著進行操練。</li>
+</ul>
+</li>
+</ol>
+<h2 id="了解實務上所遇到的問題與其解法"><a href="#了解實務上所遇到的問題與其解法" class="headerlink" title="了解實務上所遇到的問題與其解法"></a>了解實務上所遇到的問題與其解法</h2><p>雖說 KKBOX 已經是一個已經有導入自動化測試開發的公司，但還是有需多的專案都是 <strong>0</strong> 測試的，如果將這些 0 測試的專案開始導入測試也是一個 Big Step 。</p>
+<p>在實務上面常常會遇到測試對象與外部服務相依的狀況，應該要將這些外部服務切斷進而達到測試的獨立性。</p>
+<p>常常也會遇到測試覺得複雜且不容易，也有可能說明了測試的對象並非為最小的測試單元或真的這個 Method 的業務邏輯相當複雜，進而可能需要進行 Refactor 或是確認需求等。</p>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>在上課前總是會覺得，測試真的很麻煩，寫測試會增加我們的開發時間，但上完第一週的課程後，我了解了掌握開發的技巧、方法與順序，了解開發的重點，其實會發現測試一點都不花時間，掌握問題並且解決問題，開發出更有信心且穩定的程式碼是我們該邁向的目標。</p>
+<p>期待未來兩週的課程。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天第一天上 91 哥的課，也是第一次，看到整間教室坐滿就知道 91 哥的名氣跟課程內容的豐富度一定很高，課程中的學員也有蠻多都是已經上過 91 哥課程的老學員又回來在聽的，隨著時間的增長，課程中的實務案例與經驗分享也更為豐富。&lt;/p&gt;
+&lt;h2 id=&quot;前景提要&quot;&gt;&lt;a h
+    
+    </summary>
+    
+    
+      <category term="TDD" scheme="http://hash.tw/tags/TDD/"/>
+    
+      <category term="SkillTree" scheme="http://hash.tw/tags/SkillTree/"/>
+    
+      <category term="測試" scheme="http://hash.tw/tags/%E6%B8%AC%E8%A9%A6/"/>
+    
+  </entry>
+  
+</feed>
