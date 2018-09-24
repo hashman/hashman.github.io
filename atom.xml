@@ -5,9 +5,9 @@
   <subtitle>記錄學習過程中的一切</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://hashman.tw/"/>
+  <link href="https://blog.hashman.tw/"/>
   <updated>2018-09-24T07:56:48.353Z</updated>
-  <id>http://hashman.tw/</id>
+  <id>https://blog.hashman.tw/</id>
   
   <author>
     <name>Hash Lin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>身為工程師的我如何看近期的 Evernote</title>
-    <link href="http://hashman.tw/2018/09/24/%E8%BA%AB%E7%82%BA%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E6%88%91%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BF%91%E6%9C%9F%E7%9A%84%20Evernote/"/>
-    <id>http://hashman.tw/2018/09/24/身為工程師的我如何看近期的 Evernote/</id>
+    <link href="https://blog.hashman.tw/2018/09/24/%E8%BA%AB%E7%82%BA%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E6%88%91%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BF%91%E6%9C%9F%E7%9A%84%20Evernote/"/>
+    <id>https://blog.hashman.tw/2018/09/24/身為工程師的我如何看近期的 Evernote/</id>
     <published>2018-09-24T07:32:33.000Z</published>
     <updated>2018-09-24T07:56:48.353Z</updated>
     
@@ -35,19 +35,19 @@
     
     </summary>
     
-      <category term="心得分享" scheme="http://hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+      <category term="心得分享" scheme="https://blog.hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="Evernote" scheme="http://hashman.tw/tags/Evernote/"/>
+      <category term="Evernote" scheme="https://blog.hashman.tw/tags/Evernote/"/>
     
-      <category term="GTD" scheme="http://hashman.tw/tags/GTD/"/>
+      <category term="GTD" scheme="https://blog.hashman.tw/tags/GTD/"/>
     
   </entry>
   
   <entry>
     <title>MOPCON 2017 心得文</title>
-    <link href="http://hashman.tw/2017/10/31/MOPCON-2017-%E5%BF%83%E5%BE%97%E6%96%87/"/>
-    <id>http://hashman.tw/2017/10/31/MOPCON-2017-心得文/</id>
+    <link href="https://blog.hashman.tw/2017/10/31/MOPCON-2017-%E5%BF%83%E5%BE%97%E6%96%87/"/>
+    <id>https://blog.hashman.tw/2017/10/31/MOPCON-2017-心得文/</id>
     <published>2017-10-31T03:07:00.000Z</published>
     <updated>2018-09-24T07:30:04.279Z</updated>
     
@@ -60,19 +60,19 @@
     
     </summary>
     
-      <category term="心得分享" scheme="http://hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+      <category term="心得分享" scheme="https://blog.hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="MOPCON" scheme="http://hashman.tw/tags/MOPCON/"/>
+      <category term="MOPCON" scheme="https://blog.hashman.tw/tags/MOPCON/"/>
     
-      <category term="Conf" scheme="http://hashman.tw/tags/Conf/"/>
+      <category term="Conf" scheme="https://blog.hashman.tw/tags/Conf/"/>
     
   </entry>
   
   <entry>
     <title>HITCON CMT 2017 x MOPCON 社群攤位</title>
-    <link href="http://hashman.tw/2017/08/27/HITCON-CMT-2017-x-MOPCON-%E7%A4%BE%E7%BE%A4%E6%94%A4%E4%BD%8D/"/>
-    <id>http://hashman.tw/2017/08/27/HITCON-CMT-2017-x-MOPCON-社群攤位/</id>
+    <link href="https://blog.hashman.tw/2017/08/27/HITCON-CMT-2017-x-MOPCON-%E7%A4%BE%E7%BE%A4%E6%94%A4%E4%BD%8D/"/>
+    <id>https://blog.hashman.tw/2017/08/27/HITCON-CMT-2017-x-MOPCON-社群攤位/</id>
     <published>2017-08-27T03:15:38.000Z</published>
     <updated>2018-09-24T07:30:04.278Z</updated>
     
@@ -101,81 +101,81 @@
     
     </summary>
     
-      <category term="心得分享" scheme="http://hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+      <category term="心得分享" scheme="https://blog.hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="MOPCON" scheme="http://hashman.tw/tags/MOPCON/"/>
+      <category term="MOPCON" scheme="https://blog.hashman.tw/tags/MOPCON/"/>
     
-      <category term="Conference" scheme="http://hashman.tw/tags/Conference/"/>
+      <category term="Conference" scheme="https://blog.hashman.tw/tags/Conference/"/>
     
   </entry>
   
   <entry>
     <title>自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day3</title>
-    <link href="http://hashman.tw/2017/01/22/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day3/"/>
-    <id>http://hashman.tw/2017/01/22/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day3/</id>
+    <link href="https://blog.hashman.tw/2017/01/22/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day3/"/>
+    <id>https://blog.hashman.tw/2017/01/22/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day3/</id>
     <published>2017-01-22T12:57:03.000Z</published>
     <updated>2018-09-24T07:30:04.281Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="前兩週課程回顧"><a href="#前兩週課程回顧" class="headerlink" title="前兩週課程回顧"></a>前兩週課程回顧</h2><blockquote><p>詳細的課程心得可以參考</p><ul><li><a href="http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</a></li><li><a href="http://hashman.tw/2017/01/15/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day2/">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2</a></li></ul></blockquote><p>上週提到了如何透過 Selenium 與 Unit Test 來進行前後搭配完整測試，透過 Unit Test 來進行最小單元測試，確保「<strong>程式照我們預期進行</strong>」，透過 E2E Testing 「<strong>確保程式可以照使用者期望執行</strong>」，透過兩者同時對 Legacy Code 進行完整測試，還有什麼比這個更能放心的去 Refactor Legacy Code 呢？</p><a id="more"></a><h2 id="本週課程重點"><a href="#本週課程重點" class="headerlink" title="本週課程重點"></a>本週課程重點</h2><p>本週課程將學習透過 BDD 來描述使用者需求，透過人的話語來描述測試案例，讓 <a href="https://en.wikipedia.org/wiki/Scrum_(software_development" target="_blank" rel="external">PO</a> 與 <a href="https://en.wikipedia.org/wiki/Research_Development" target="_blank" rel="external">RD</a> 間的 GAP 縮小，那什麼是透過人的話與來描述測試案例呢？</p><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">Feature: PotterShoppingCart</div><div class="line">  In order to 提供最便宜的價格給來買書的爸爸媽媽</div><div class="line">  <span class="keyword">As</span> a 佛心的出版社老闆</div><div class="line">  I want to 設計一個哈利波特的購物車</div><div class="line"></div><div class="line">  Scenario: 第一集買了一本，其他都沒買，價格應為<span class="number">100</span>*<span class="number">1</span>=<span class="number">100</span>元</div><div class="line">    Given 第一集買了 <span class="number">1</span> 本</div><div class="line">    <span class="keyword">And</span> 第二集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第三集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第四集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第五集買了 <span class="number">0</span> 本</div><div class="line">    When 結帳</div><div class="line">    Then 價格應為 <span class="number">100</span> 元</div></pre></td></tr></table></figure><p>看完是否相當的直覺呢，我相信不是工程師也可以相當容易理解情境所要描述的測試案例。透過 BDD 除了可以提昇與 PO 溝通的效率，也可以自動產生 Document 與 Report 相當的方便。</p><h2 id="如何透過-PHP-進行-BDD-測試"><a href="#如何透過-PHP-進行-BDD-測試" class="headerlink" title="如何透過 PHP 進行 BDD 測試"></a>如何透過 PHP 進行 BDD 測試</h2><p>以下簡單的介紹如何將 feature 轉為可以測試的 PHP 程式碼， PHP 有兩套可以實踐 BDD:</p><ul><li><a href="https://github.com/Behat/Behat" target="_blank" rel="external">Behat</a></li><li><a href="https://github.com/phpspec/phpspec" target="_blank" rel="external">PHPSpec</a></li></ul><p>以下會使用 Behat 進行範例解釋。</p><p>首先直接在 Scenario 那邊直接使用 <code>[alt + Enter]</code> 並且點選 <code>Create all steps definition</code> 建立 Feature Context ，如下圖。</p><p><img src="/images/20170122/1.png" alt=""></p><p>預設會將 Feature Context 建置在 <code>features/bootstrap</code> 裡面，即會發現他已經針對每個動作建立了相對應的 method ，如下。</p><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;?php</span></div><div class="line"><span class="keyword">use</span> <span class="title">Behat</span>\<span class="title">Behat</span>\<span class="title">Context</span>\<span class="title">Context</span>;</div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">FeatureContext</span> <span class="keyword">implements</span> <span class="title">Context</span></span></div><div class="line"><span class="class"></span>&#123;</div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第一集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第一集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第二集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第二集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第三集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第三集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第四集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第四集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第五集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第五集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@When</span> /^結帳$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 結帳<span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Then</span> /^價格應為 (\d+) 元$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 價格應為元<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure><p>接下來只需要將相對應 method 的行為修改一下，即可進行 BDD Testing 囉。</p><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;?php</span></div><div class="line"><span class="keyword">use</span> <span class="title">App</span>\<span class="title">PotterShoppingCart</span>;</div><div class="line"><span class="keyword">use</span> <span class="title">Behat</span>\<span class="title">Behat</span>\<span class="title">Context</span>\<span class="title">Context</span>;</div><div class="line"><span class="keyword">use</span> <span class="title">PHPUnit_Framework_Assert</span> <span class="title">as</span> <span class="title">PHPUnit</span>;</div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">FeatureContext</span> <span class="keyword">implements</span> <span class="title">Context</span></span></div><div class="line"><span class="class"></span>&#123;</div><div class="line">    <span class="keyword">private</span> $potterShoppingCart;</div><div class="line">    <span class="keyword">private</span> $total_price;</div><div class="line"></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> <span class="title">__construct</span><span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart = <span class="keyword">new</span> PotterShoppingCart();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第一集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第一集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">1</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第二集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第二集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">2</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第三集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第三集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">3</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第四集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第四集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">4</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第五集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第五集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">5</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@When</span> /^結帳$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 結帳<span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;total_price = <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;getPrice();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Then</span> /^價格應為 (\d+) 元$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> $expected</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 價格應為元<span class="params">($expected)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        PHPUnit::assertEquals($expected, <span class="keyword">$this</span>-&gt;total_price);</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure><p>修改完成後執行測試。</p><p><img src="/images/20170122/2.png" alt=""></p><p>一樣會有紅綠燈可以查看，但還沒結束唷，還可以透過 BDD 來產生文件，在這邊我使用了 「<a href="https://github.com/dutchiexl/BehatHtmlFormatterPlugin" target="_blank" rel="external"><strong>BehatHtmlFormatterPlugin</strong></a>」這個套件來產生漂亮的 HTML 文件。</p><p>安裝完成之後先於根目錄中增加 <code>behat.yml</code> ，範例如下：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># behat.yml</span></div><div class="line"><span class="attr">default:</span></div><div class="line"><span class="attr">  formatters:</span></div><div class="line"><span class="attr">    html:</span></div><div class="line"><span class="attr">      output_path:</span> <span class="string">%paths.base%/build/html/behat</span></div><div class="line"></div><div class="line"><span class="attr">  extensions:</span></div><div class="line">    <span class="string">emuse\BehatHTMLFormatter\BehatHTMLFormatterExtension:</span></div><div class="line"><span class="attr">      name:</span> <span class="string">html</span></div><div class="line"><span class="attr">      renderer:</span> <span class="string">Twig,Behat2</span></div><div class="line"><span class="attr">      file_name:</span> <span class="string">index</span></div><div class="line"><span class="attr">      print_args:</span> <span class="literal">true</span></div><div class="line"><span class="attr">      print_outp:</span> <span class="literal">true</span></div><div class="line"><span class="attr">      loop_break:</span> <span class="literal">true</span></div></pre></td></tr></table></figure><p>直接執行下列指令。</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="meta">$</span><span class="bash"> ./vendor/bin/behat --format html</span></div></pre></td></tr></table></figure><p>即可於 <code>build/html/behat/</code> 資料夾中看到已經 build 好的 html 網頁。</p><p><img src="/images/20170122/3.png" alt=""></p><p><img src="/images/20170122/4.png" alt=""></p><p>看到這邊，是不是覺得既簡單又好使用呢？</p><h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>上完課程後對於 TDD 與 BDD 不管是觀念還是實戰演練都有了更深刻的體會，老師上課透過完整的 Lab 題目讓大家有非常非常多的情境可以進行練習，就連我這個沒有在寫 C# 且沒有用過 Visual Studio 的工程師來說，要跟上老師的課程也是蠻 OK 的，由於老師上課分享的內容實在太豐富了，於本 Blog 中僅能擷取一些重點進行分享，扎實的課程與實戰體驗就是在課程上課已學到的，如果大家尚未使用 TDD 進行開發或是已經有在使用但不是很瞭解或不知該如何導入專案中，相當推薦大家可以來上「<a href="https://skilltree.my/events/7aahq" target="_blank" rel="external">自動測試與 TDD 實務開發</a>」Joey ( 91 哥 ) 的課程，詳細請 Follow <a href="https://skilltree.my/" target="_blank" rel="external">SkillTree</a>，也感謝 91 哥這三天來的指導與分享，真的獲益良多。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="前兩週課程回顧"><a href="#前兩週課程回顧" class="headerlink" title="前兩週課程回顧"></a>前兩週課程回顧</h2><blockquote><p>詳細的課程心得可以參考</p><ul><li><a href="http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/" target="_blank" rel="external">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</a></li><li><a href="http://hashman.tw/2017/01/15/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day2/" target="_blank" rel="external">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2</a></li></ul></blockquote><p>上週提到了如何透過 Selenium 與 Unit Test 來進行前後搭配完整測試，透過 Unit Test 來進行最小單元測試，確保「<strong>程式照我們預期進行</strong>」，透過 E2E Testing 「<strong>確保程式可以照使用者期望執行</strong>」，透過兩者同時對 Legacy Code 進行完整測試，還有什麼比這個更能放心的去 Refactor Legacy Code 呢？</p><a id="more"></a><h2 id="本週課程重點"><a href="#本週課程重點" class="headerlink" title="本週課程重點"></a>本週課程重點</h2><p>本週課程將學習透過 BDD 來描述使用者需求，透過人的話語來描述測試案例，讓 <a href="https://en.wikipedia.org/wiki/Scrum_(software_development" target="_blank" rel="external">PO</a> 與 <a href="https://en.wikipedia.org/wiki/Research_Development" target="_blank" rel="external">RD</a> 間的 GAP 縮小，那什麼是透過人的話與來描述測試案例呢？</p><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">Feature: PotterShoppingCart</div><div class="line">  In order to 提供最便宜的價格給來買書的爸爸媽媽</div><div class="line">  <span class="keyword">As</span> a 佛心的出版社老闆</div><div class="line">  I want to 設計一個哈利波特的購物車</div><div class="line"></div><div class="line">  Scenario: 第一集買了一本，其他都沒買，價格應為<span class="number">100</span>*<span class="number">1</span>=<span class="number">100</span>元</div><div class="line">    Given 第一集買了 <span class="number">1</span> 本</div><div class="line">    <span class="keyword">And</span> 第二集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第三集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第四集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第五集買了 <span class="number">0</span> 本</div><div class="line">    When 結帳</div><div class="line">    Then 價格應為 <span class="number">100</span> 元</div></pre></td></tr></table></figure><p>看完是否相當的直覺呢，我相信不是工程師也可以相當容易理解情境所要描述的測試案例。透過 BDD 除了可以提昇與 PO 溝通的效率，也可以自動產生 Document 與 Report 相當的方便。</p><h2 id="如何透過-PHP-進行-BDD-測試"><a href="#如何透過-PHP-進行-BDD-測試" class="headerlink" title="如何透過 PHP 進行 BDD 測試"></a>如何透過 PHP 進行 BDD 測試</h2><p>以下簡單的介紹如何將 feature 轉為可以測試的 PHP 程式碼， PHP 有兩套可以實踐 BDD:</p><ul><li><a href="https://github.com/Behat/Behat" target="_blank" rel="external">Behat</a></li><li><a href="https://github.com/phpspec/phpspec" target="_blank" rel="external">PHPSpec</a></li></ul><p>以下會使用 Behat 進行範例解釋。</p><p>首先直接在 Scenario 那邊直接使用 <code>[alt + Enter]</code> 並且點選 <code>Create all steps definition</code> 建立 Feature Context ，如下圖。</p><p><img src="/images/20170122/1.png" alt=""></p><p>預設會將 Feature Context 建置在 <code>features/bootstrap</code> 裡面，即會發現他已經針對每個動作建立了相對應的 method ，如下。</p><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;?php</span></div><div class="line"><span class="keyword">use</span> <span class="title">Behat</span>\<span class="title">Behat</span>\<span class="title">Context</span>\<span class="title">Context</span>;</div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">FeatureContext</span> <span class="keyword">implements</span> <span class="title">Context</span></span></div><div class="line"><span class="class"></span>&#123;</div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第一集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第一集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第二集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第二集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第三集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第三集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第四集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第四集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第五集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第五集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@When</span> /^結帳$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 結帳<span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Then</span> /^價格應為 (\d+) 元$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 價格應為元<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure><p>接下來只需要將相對應 method 的行為修改一下，即可進行 BDD Testing 囉。</p><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;?php</span></div><div class="line"><span class="keyword">use</span> <span class="title">App</span>\<span class="title">PotterShoppingCart</span>;</div><div class="line"><span class="keyword">use</span> <span class="title">Behat</span>\<span class="title">Behat</span>\<span class="title">Context</span>\<span class="title">Context</span>;</div><div class="line"><span class="keyword">use</span> <span class="title">PHPUnit_Framework_Assert</span> <span class="title">as</span> <span class="title">PHPUnit</span>;</div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">FeatureContext</span> <span class="keyword">implements</span> <span class="title">Context</span></span></div><div class="line"><span class="class"></span>&#123;</div><div class="line">    <span class="keyword">private</span> $potterShoppingCart;</div><div class="line">    <span class="keyword">private</span> $total_price;</div><div class="line"></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> <span class="title">__construct</span><span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart = <span class="keyword">new</span> PotterShoppingCart();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第一集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第一集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">1</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第二集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第二集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">2</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第三集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第三集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">3</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第四集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第四集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">4</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第五集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第五集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">5</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@When</span> /^結帳$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 結帳<span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;total_price = <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;getPrice();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Then</span> /^價格應為 (\d+) 元$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> $expected</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 價格應為元<span class="params">($expected)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        PHPUnit::assertEquals($expected, <span class="keyword">$this</span>-&gt;total_price);</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure><p>修改完成後執行測試。</p><p><img src="/images/20170122/2.png" alt=""></p><p>一樣會有紅綠燈可以查看，但還沒結束唷，還可以透過 BDD 來產生文件，在這邊我使用了 「<a href="https://github.com/dutchiexl/BehatHtmlFormatterPlugin" target="_blank" rel="external"><strong>BehatHtmlFormatterPlugin</strong></a>」這個套件來產生漂亮的 HTML 文件。</p><p>安裝完成之後先於根目錄中增加 <code>behat.yml</code> ，範例如下：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># behat.yml</span></div><div class="line"><span class="attr">default:</span></div><div class="line"><span class="attr">  formatters:</span></div><div class="line"><span class="attr">    html:</span></div><div class="line"><span class="attr">      output_path:</span> <span class="string">%paths.base%/build/html/behat</span></div><div class="line"></div><div class="line"><span class="attr">  extensions:</span></div><div class="line">    <span class="string">emuse\BehatHTMLFormatter\BehatHTMLFormatterExtension:</span></div><div class="line"><span class="attr">      name:</span> <span class="string">html</span></div><div class="line"><span class="attr">      renderer:</span> <span class="string">Twig,Behat2</span></div><div class="line"><span class="attr">      file_name:</span> <span class="string">index</span></div><div class="line"><span class="attr">      print_args:</span> <span class="literal">true</span></div><div class="line"><span class="attr">      print_outp:</span> <span class="literal">true</span></div><div class="line"><span class="attr">      loop_break:</span> <span class="literal">true</span></div></pre></td></tr></table></figure><p>直接執行下列指令。</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="meta">$</span><span class="bash"> ./vendor/bin/behat --format html</span></div></pre></td></tr></table></figure><p>即可於 <code>build/html/behat/</code> 資料夾中看到已經 build 好的 html 網頁。</p><p><img src="/images/20170122/3.png" alt=""></p><p><img src="/images/20170122/4.png" alt=""></p><p>看到這邊，是不是覺得既簡單又好使用呢？</p><h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>上完課程後對於 TDD 與 BDD 不管是觀念還是實戰演練都有了更深刻的體會，老師上課透過完整的 Lab 題目讓大家有非常非常多的情境可以進行練習，就連我這個沒有在寫 C# 且沒有用過 Visual Studio 的工程師來說，要跟上老師的課程也是蠻 OK 的，由於老師上課分享的內容實在太豐富了，於本 Blog 中僅能擷取一些重點進行分享，扎實的課程與實戰體驗就是在課程上課已學到的，如果大家尚未使用 TDD 進行開發或是已經有在使用但不是很瞭解或不知該如何導入專案中，相當推薦大家可以來上「<a href="https://skilltree.my/events/7aahq" target="_blank" rel="external">自動測試與 TDD 實務開發</a>」Joey ( 91 哥 ) 的課程，詳細請 Follow <a href="https://skilltree.my/" target="_blank" rel="external">SkillTree</a>，也感謝 91 哥這三天來的指導與分享，真的獲益良多。</p>]]></content>
     
     <summary type="html">
     
       &lt;h2 id=&quot;前兩週課程回顧&quot;&gt;&lt;a href=&quot;#前兩週課程回顧&quot; class=&quot;headerlink&quot; title=&quot;前兩週課程回顧&quot;&gt;&lt;/a&gt;前兩週課程回顧&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;詳細的課程心得可以參考&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/&quot;&gt;自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://hashman.tw/2017/01/15/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day2/&quot;&gt;自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hashman.tw/2017/01/15/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day2/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;上週提到了如何透過 Selenium 與 Unit Test 來進行前後搭配完整測試，透過 Unit Test 來進行最小單元測試，確保「&lt;strong&gt;程式照我們預期進行&lt;/strong&gt;」，透過 E2E Testing 「&lt;strong&gt;確保程式可以照使用者期望執行&lt;/strong&gt;」，透過兩者同時對 Legacy Code 進行完整測試，還有什麼比這個更能放心的去 Refactor Legacy Code 呢？&lt;/p&gt;
     
     </summary>
     
-      <category term="心得分享" scheme="http://hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+      <category term="心得分享" scheme="https://blog.hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="TDD" scheme="http://hashman.tw/tags/TDD/"/>
+      <category term="TDD" scheme="https://blog.hashman.tw/tags/TDD/"/>
     
-      <category term="SkillTree" scheme="http://hashman.tw/tags/SkillTree/"/>
+      <category term="SkillTree" scheme="https://blog.hashman.tw/tags/SkillTree/"/>
     
-      <category term="測試" scheme="http://hashman.tw/tags/%E6%B8%AC%E8%A9%A6/"/>
+      <category term="測試" scheme="https://blog.hashman.tw/tags/%E6%B8%AC%E8%A9%A6/"/>
     
   </entry>
   
   <entry>
     <title>自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2</title>
-    <link href="http://hashman.tw/2017/01/15/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day2/"/>
-    <id>http://hashman.tw/2017/01/15/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day2/</id>
+    <link href="https://blog.hashman.tw/2017/01/15/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day2/"/>
+    <id>https://blog.hashman.tw/2017/01/15/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day2/</id>
     <published>2017-01-15T06:40:48.000Z</published>
     <updated>2018-09-24T07:30:04.281Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="上週課程回顧"><a href="#上週課程回顧" class="headerlink" title="上週課程回顧"></a>上週課程回顧</h2><blockquote><p>詳細的上週課程心得可以參考「<a href="http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</a>」。</p></blockquote><p>上週課程提到，什麼是 Unit Test ，好的單元測試需要吻合 F.I.R.S.T 原則，如何針對單一功能撰寫單元測試，了解開發流程與方式，了解業務單位需求撰寫需求文件與單元測試，針對單元程式建構出來的程式架構完成 Production Code 相關邏輯。</p><a id="more"></a><p>有了單元測試，就算需求來了想要調整 Production Code 都不用怕，因為有了單元測試，單元測試會告訴開發者，程式是否還是可以正常的運作<strong>（綠燈）</strong>，如果為<strong>紅燈</strong>就知道有功能被改壞了，可以「即時」發現問題並且進行修正。</p><p>透過 Code Coverage 可以了解我們的單元測試的完整度，是否有遺漏的測試案例。</p><h2 id="本週課前提要"><a href="#本週課前提要" class="headerlink" title="本週課前提要"></a>本週課前提要</h2><p>上週學習了 Unit Test 但可能還是無法直接套用到正在進行中的專案，因為專案上可能都是滿滿的 Legacy Code ，無法針對 Legacy Code 進行測試，需求不斷的來招架不住該怎麼辦？我想今天的課程就是重點了，透過 E2E Testing 、 Unit Test 與 Refactor 來教你，「如何安安心心 Refactor Legacy Code 還可以完成業務單位新需求」。</p><p>該還的技術債還是要還，如果只是在 Legacy Code 上疊床架屋， Code 只會越來越亂， Bug 只會越來越多，只會讓後面維護的工程師越來越不懂這個系統的原貌，趁早治療才是明智之舉，千萬不要放棄治療。</p><h2 id="本週課程前的小故事"><a href="#本週課程前的小故事" class="headerlink" title="本週課程前的小故事"></a>本週課程前的小故事</h2><p>老闆：「Hash，今天有個客戶跟我說他想要在我們的購物車上面加上可以自動進行折扣的功能，明天可以完成嗎？」</p><p>Hash：「痾…. (Hash的內心話：雖說只是加幾行 Code 就可以搞定，但… 會不會改壞其他東西阿)」</p><p>老闆：「怎樣？」</p><p>Hash（心虛的說）：「好…」</p><h2 id="本週課程重點"><a href="#本週課程重點" class="headerlink" title="本週課程重點"></a>本週課程重點</h2><ul><li>TDD</li><li>End-To-End Testing</li><li>Refactor</li></ul><h3 id="End-To-End-Testing"><a href="#End-To-End-Testing" class="headerlink" title="End-To-End Testing"></a>End-To-End Testing</h3><p>課程中透過 Selenium 來指導學員如何透過他來對網頁進行 E2E Testing ， Selenum 除了可以直接針對網站進行測試外還可以匯出 C# 測試原始碼直接無痛整合進行 Visual Studio ，讓 E2E Testing 與 UnitTest 一起來，進而達到完整測試。</p><blockquote><p>上課採雷心得分享： Firefox 的 Selenium 再 Firefox v46.1 之後的版本有 Bug 。</p></blockquote><h3 id="Refactor"><a href="#Refactor" class="headerlink" title="Refactor"></a>Refactor</h3><p>終於來到本週最為精采的「如何針對 Legacy Code 進行 Refactor」，結合網頁測試與單元測試來達成我們的目的 <strong>Refactor</strong> 。</p><p>當我們有了 E2E Testing 可以針對特定功能撰寫網頁測試案例，以使用者為出發點操作系統功能，記錄使用者的行為與預期結果。</p><p>當我們有了單元測試，針對最小的功能進行測試，預期這些功能方法的行為與其回傳值。</p><p>有了他們，修改程式後馬上進行完整 Unit Test 修改程式碼的方法後是否還吻合我們的測試案例預期行為，若為綠燈，則接著進行 E2E Testing 測試是否使用者還可以如預期的操作系統功能，修改程式碼超安心，一點都不擔心會不會改壞程式碼，還有什麼比這個還要更棒的呢？</p><blockquote><p>91 哥補充：重構過程中千萬不可增加新功能，一次只做一件事情，重構完成 -&gt; 綠燈 -&gt; 增加新功能</p></blockquote><h2 id="本週課程後的小故事"><a href="#本週課程後的小故事" class="headerlink" title="本週課程後的小故事"></a>本週課程後的小故事</h2><blockquote><p>同上一樣的故事內容</p></blockquote><p>老闆：「Hash，今天有個客戶跟我說他想要在我們的購物車上面加上可以自動進行折扣的功能，明天可以完成嗎？」</p><p>Hash（心理想著）：「有了 91 哥教我們的測試方法，我想花個一天把相關 Legacy Code Refactor 一下，半天完成老闆功能，沒問題！！」</p><p>Hash（有自信的說）：「好老闆，明天下午給你！」</p><p>老闆：「太好了，謝謝你的幫忙」</p><blockquote><p>其實一樣的故事內容課前與課後Hash的回答的方式是完完全全不一樣的，就算今天要花時間整理 Legacy Code 而無法如期交出功能，也可以跟老闆提出需要進行程式碼重構進而提升系統穩定度，我想老闆的接受度也是高些的。</p></blockquote><h2 id="本週課程心得"><a href="#本週課程心得" class="headerlink" title="本週課程心得"></a>本週課程心得</h2><p>就如同小故事告訴我們的，透過完整的測試流程與方法，可以讓工程師們在修改程式上更為有自信且更為安心，其實只要隨手 Refactor 一隻 Method 與補上幾隻測試程式，就可以達到讓整個專案穩定度提升。</p><p>《Clean Code》 文中提到，童子軍原則：「離開營地前，讓營地使用前更加乾淨」，同樣的原則也可以透用在軟體開發上，程式碼在 Commit 前只要可以讓 Code Coverage 提昇些，讓程式碼看起來更整齊乾淨就是進步。</p><h2 id="課程中相關學習資源"><a href="#課程中相關學習資源" class="headerlink" title="課程中相關學習資源"></a>課程中相關學習資源</h2><ul><li><a href="https://www.amazon.cn/%E9%AB%98%E6%95%88%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E4%BF%AE%E7%82%BC-%E9%98%BF%E7%89%B9%E4%BC%8D%E5%BE%B7/dp/B00DXZFZPO/" target="_blank" rel="external">高效能程序员的修炼</a></li><li><a href="http://www.growing-object-oriented-software.com/" target="_blank" rel="external">Growing Object-Oriented Software(GOOS)</a></li><li><a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00MBQMFLI/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1449822496&amp;sr=1-1" target="_blank" rel="external">单元测试的艺术(第2版)</a></li><li><a href="https://www.cwbook.com.tw/product/ProductAction.shtml?prodId=0000016780" target="_blank" rel="external">在TOYOTA學到的，只要「紙1張」的整理技術 － 彙整資訊、整理思緒、清楚溝通的技巧</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="上週課程回顧"><a href="#上週課程回顧" class="headerlink" title="上週課程回顧"></a>上週課程回顧</h2><blockquote><p>詳細的上週課程心得可以參考「<a href="http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/" target="_blank" rel="external">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</a>」。</p></blockquote><p>上週課程提到，什麼是 Unit Test ，好的單元測試需要吻合 F.I.R.S.T 原則，如何針對單一功能撰寫單元測試，了解開發流程與方式，了解業務單位需求撰寫需求文件與單元測試，針對單元程式建構出來的程式架構完成 Production Code 相關邏輯。</p><a id="more"></a><p>有了單元測試，就算需求來了想要調整 Production Code 都不用怕，因為有了單元測試，單元測試會告訴開發者，程式是否還是可以正常的運作<strong>（綠燈）</strong>，如果為<strong>紅燈</strong>就知道有功能被改壞了，可以「即時」發現問題並且進行修正。</p><p>透過 Code Coverage 可以了解我們的單元測試的完整度，是否有遺漏的測試案例。</p><h2 id="本週課前提要"><a href="#本週課前提要" class="headerlink" title="本週課前提要"></a>本週課前提要</h2><p>上週學習了 Unit Test 但可能還是無法直接套用到正在進行中的專案，因為專案上可能都是滿滿的 Legacy Code ，無法針對 Legacy Code 進行測試，需求不斷的來招架不住該怎麼辦？我想今天的課程就是重點了，透過 E2E Testing 、 Unit Test 與 Refactor 來教你，「如何安安心心 Refactor Legacy Code 還可以完成業務單位新需求」。</p><p>該還的技術債還是要還，如果只是在 Legacy Code 上疊床架屋， Code 只會越來越亂， Bug 只會越來越多，只會讓後面維護的工程師越來越不懂這個系統的原貌，趁早治療才是明智之舉，千萬不要放棄治療。</p><h2 id="本週課程前的小故事"><a href="#本週課程前的小故事" class="headerlink" title="本週課程前的小故事"></a>本週課程前的小故事</h2><p>老闆：「Hash，今天有個客戶跟我說他想要在我們的購物車上面加上可以自動進行折扣的功能，明天可以完成嗎？」</p><p>Hash：「痾…. (Hash的內心話：雖說只是加幾行 Code 就可以搞定，但… 會不會改壞其他東西阿)」</p><p>老闆：「怎樣？」</p><p>Hash（心虛的說）：「好…」</p><h2 id="本週課程重點"><a href="#本週課程重點" class="headerlink" title="本週課程重點"></a>本週課程重點</h2><ul><li>TDD</li><li>End-To-End Testing</li><li>Refactor</li></ul><h3 id="End-To-End-Testing"><a href="#End-To-End-Testing" class="headerlink" title="End-To-End Testing"></a>End-To-End Testing</h3><p>課程中透過 Selenium 來指導學員如何透過他來對網頁進行 E2E Testing ， Selenum 除了可以直接針對網站進行測試外還可以匯出 C# 測試原始碼直接無痛整合進行 Visual Studio ，讓 E2E Testing 與 UnitTest 一起來，進而達到完整測試。</p><blockquote><p>上課採雷心得分享： Firefox 的 Selenium 再 Firefox v46.1 之後的版本有 Bug 。</p></blockquote><h3 id="Refactor"><a href="#Refactor" class="headerlink" title="Refactor"></a>Refactor</h3><p>終於來到本週最為精采的「如何針對 Legacy Code 進行 Refactor」，結合網頁測試與單元測試來達成我們的目的 <strong>Refactor</strong> 。</p><p>當我們有了 E2E Testing 可以針對特定功能撰寫網頁測試案例，以使用者為出發點操作系統功能，記錄使用者的行為與預期結果。</p><p>當我們有了單元測試，針對最小的功能進行測試，預期這些功能方法的行為與其回傳值。</p><p>有了他們，修改程式後馬上進行完整 Unit Test 修改程式碼的方法後是否還吻合我們的測試案例預期行為，若為綠燈，則接著進行 E2E Testing 測試是否使用者還可以如預期的操作系統功能，修改程式碼超安心，一點都不擔心會不會改壞程式碼，還有什麼比這個還要更棒的呢？</p><blockquote><p>91 哥補充：重構過程中千萬不可增加新功能，一次只做一件事情，重構完成 -&gt; 綠燈 -&gt; 增加新功能</p></blockquote><h2 id="本週課程後的小故事"><a href="#本週課程後的小故事" class="headerlink" title="本週課程後的小故事"></a>本週課程後的小故事</h2><blockquote><p>同上一樣的故事內容</p></blockquote><p>老闆：「Hash，今天有個客戶跟我說他想要在我們的購物車上面加上可以自動進行折扣的功能，明天可以完成嗎？」</p><p>Hash（心理想著）：「有了 91 哥教我們的測試方法，我想花個一天把相關 Legacy Code Refactor 一下，半天完成老闆功能，沒問題！！」</p><p>Hash（有自信的說）：「好老闆，明天下午給你！」</p><p>老闆：「太好了，謝謝你的幫忙」</p><blockquote><p>其實一樣的故事內容課前與課後Hash的回答的方式是完完全全不一樣的，就算今天要花時間整理 Legacy Code 而無法如期交出功能，也可以跟老闆提出需要進行程式碼重構進而提升系統穩定度，我想老闆的接受度也是高些的。</p></blockquote><h2 id="本週課程心得"><a href="#本週課程心得" class="headerlink" title="本週課程心得"></a>本週課程心得</h2><p>就如同小故事告訴我們的，透過完整的測試流程與方法，可以讓工程師們在修改程式上更為有自信且更為安心，其實只要隨手 Refactor 一隻 Method 與補上幾隻測試程式，就可以達到讓整個專案穩定度提升。</p><p>《Clean Code》 文中提到，童子軍原則：「離開營地前，讓營地使用前更加乾淨」，同樣的原則也可以透用在軟體開發上，程式碼在 Commit 前只要可以讓 Code Coverage 提昇些，讓程式碼看起來更整齊乾淨就是進步。</p><h2 id="課程中相關學習資源"><a href="#課程中相關學習資源" class="headerlink" title="課程中相關學習資源"></a>課程中相關學習資源</h2><ul><li><a href="https://www.amazon.cn/%E9%AB%98%E6%95%88%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E4%BF%AE%E7%82%BC-%E9%98%BF%E7%89%B9%E4%BC%8D%E5%BE%B7/dp/B00DXZFZPO/" target="_blank" rel="external">高效能程序员的修炼</a></li><li><a href="http://www.growing-object-oriented-software.com/" target="_blank" rel="external">Growing Object-Oriented Software(GOOS)</a></li><li><a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00MBQMFLI/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1449822496&amp;sr=1-1" target="_blank" rel="external">单元测试的艺术(第2版)</a></li><li><a href="https://www.cwbook.com.tw/product/ProductAction.shtml?prodId=0000016780" target="_blank" rel="external">在TOYOTA學到的，只要「紙1張」的整理技術 － 彙整資訊、整理思緒、清楚溝通的技巧</a></li></ul>]]></content>
     
     <summary type="html">
     
       &lt;h2 id=&quot;上週課程回顧&quot;&gt;&lt;a href=&quot;#上週課程回顧&quot; class=&quot;headerlink&quot; title=&quot;上週課程回顧&quot;&gt;&lt;/a&gt;上週課程回顧&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;詳細的上週課程心得可以參考「&lt;a href=&quot;http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/&quot;&gt;自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1&lt;/a&gt;」。&lt;/p&gt;
+&lt;p&gt;詳細的上週課程心得可以參考「&lt;a href=&quot;http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1&lt;/a&gt;」。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;上週課程提到，什麼是 Unit Test ，好的單元測試需要吻合 F.I.R.S.T 原則，如何針對單一功能撰寫單元測試，了解開發流程與方式，了解業務單位需求撰寫需求文件與單元測試，針對單元程式建構出來的程式架構完成 Production Code 相關邏輯。&lt;/p&gt;
     
     </summary>
     
-      <category term="心得分享" scheme="http://hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+      <category term="心得分享" scheme="https://blog.hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="TDD" scheme="http://hashman.tw/tags/TDD/"/>
+      <category term="TDD" scheme="https://blog.hashman.tw/tags/TDD/"/>
     
-      <category term="SkillTree" scheme="http://hashman.tw/tags/SkillTree/"/>
+      <category term="SkillTree" scheme="https://blog.hashman.tw/tags/SkillTree/"/>
     
-      <category term="測試" scheme="http://hashman.tw/tags/%E6%B8%AC%E8%A9%A6/"/>
+      <category term="測試" scheme="https://blog.hashman.tw/tags/%E6%B8%AC%E8%A9%A6/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 採雷大小事</title>
-    <link href="http://hashman.tw/2017/01/11/Hexo-%E6%8E%A1%E9%9B%B7%E5%A4%A7%E5%B0%8F%E4%BA%8B/"/>
-    <id>http://hashman.tw/2017/01/11/Hexo-採雷大小事/</id>
+    <link href="https://blog.hashman.tw/2017/01/11/Hexo-%E6%8E%A1%E9%9B%B7%E5%A4%A7%E5%B0%8F%E4%BA%8B/"/>
+    <id>https://blog.hashman.tw/2017/01/11/Hexo-採雷大小事/</id>
     <published>2017-01-10T16:02:55.000Z</published>
     <updated>2018-09-24T07:30:04.278Z</updated>
     
@@ -187,40 +187,40 @@
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="Hexo" scheme="http://hashman.tw/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://blog.hashman.tw/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>使用 Hexo + GitHub</title>
-    <link href="http://hashman.tw/2017/01/10/%E4%BD%BF%E7%94%A8-Hexo-Github/"/>
-    <id>http://hashman.tw/2017/01/10/使用-Hexo-Github/</id>
+    <link href="https://blog.hashman.tw/2017/01/10/%E4%BD%BF%E7%94%A8-Hexo-Github/"/>
+    <id>https://blog.hashman.tw/2017/01/10/使用-Hexo-Github/</id>
     <published>2017-01-10T15:49:32.000Z</published>
     <updated>2018-09-24T07:30:04.280Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="什麼是-Hexo"><a href="#什麼是-Hexo" class="headerlink" title="什麼是 Hexo"></a>什麼是 Hexo</h2><p>Hexo 是一套用 NodeJS 寫的 blog framework ，可以透過 hexo 的指令非常快速的建立文章，以下會有<a href="#Hexo-Command">簡易指令教學</a></p><p>另外這有記錄我在使用 Hexo 時的採雷狀況與解決方法 - <a href="http://hashman.tw/2017/01/11/Hexo-%E6%8E%A1%E9%9B%B7%E5%A4%A7%E5%B0%8F%E4%BA%8B/">Hexo 採雷大小事</a></p><a id="more"></a><h2 id="什麼是-GitHub-Page"><a href="#什麼是-GitHub-Page" class="headerlink" title="什麼是 GitHub Page"></a>什麼是 GitHub Page</h2><p>GitHub Page 提供所有 GitHub 的用戶可以直接將靜態網頁直接放上 GitHub 中，即可直接於 <code>https://[account].github.io</code> 查看網頁內容的服務。</p><h3 id="如何使用-GitHub-Page"><a href="#如何使用-GitHub-Page" class="headerlink" title="如何使用 GitHub Page"></a>如何使用 GitHub Page</h3><p>直接於自己的 GitHub 帳號直接建立一個 <code>[account].github.io</code> 的 Public Repo ，於 Repo 中上傳靜態網頁即可在 <code>https://[account].github.io</code> 上查看網頁。</p><h2 id="為什麼想要使用-Hexo-GitHub"><a href="#為什麼想要使用-Hexo-GitHub" class="headerlink" title="為什麼想要使用 Hexo + GitHub"></a>為什麼想要使用 Hexo + GitHub</h2><ol><li>Hexo 為 Open Source 軟體可以非常自由的依照自己的需求去調整 Source Code 。</li><li>客製化的網址需求，雖說 LogDown 也可以，但… 需要付費才可以使用，其實還蠻貴的。</li><li>GitHub Public Repository 無空間上限（嚴格來說不是無上限，請參考: <a href="https://help.github.com/articles/what-is-my-disk-quota/" target="_blank" rel="external">GitHub - What is my disk quota?</a>）。</li><li>主機交給 GitHub 管，只需要單純的上 Code 就好不需要去架設與管理主機，相對穩定。</li><li>多了個機會可以了解 GitHub Page 這個服務，詳細參考<a href="https://pages.github.com/" target="_blank" rel="external">這裡</a>。</li><li>幫自己的 GitHub Contributions 多一點色彩，每更新一次 Blog 都會 deploy 到 GitHub 上，也就會增加自己的 Contributions 。</li></ol><h2 id="Hexo-Command"><a href="#Hexo-Command" class="headerlink" title="Hexo Command"></a>Hexo Command</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">// 第一次使用需要先 init hexo folder 與安裝套件</div><div class="line">$ hexo init &lt;folder&gt; // init hexo folder</div><div class="line">$ <span class="built_in">cd</span> &lt;folder&gt;</div><div class="line">$ npm install</div><div class="line"></div><div class="line">// 新增文章</div><div class="line">$ hexo new [layout] &lt;title&gt; // or hexo n [layout] &lt;title&gt;</div><div class="line">// layout 可以不要填寫</div><div class="line">// title 建議使用雙引號刮起來</div><div class="line"></div><div class="line">// 產生靜態檔</div><div class="line">$ hexo generate // or hexo g</div><div class="line"></div><div class="line">// 發表草稿，這個功能我蠻少用的</div><div class="line">$ hexo publish [layout] &lt;filename&gt;</div><div class="line"></div><div class="line">// 啟用 hexo 伺服器</div><div class="line">$ hexo server // or hexo s</div><div class="line"></div><div class="line">// Deploy 至 remote</div><div class="line">$ hexo deploy // or hexo d</div><div class="line"></div><div class="line">// 清除快取檔案</div><div class="line">$ hexo clean</div></pre></td></tr></table></figure><h2 id="Hash-使用-Blog-的歷史"><a href="#Hash-使用-Blog-的歷史" class="headerlink" title="Hash 使用 Blog 的歷史"></a>Hash 使用 Blog 的歷史</h2><ul><li>2011 年開始使用 <a href="https://coosos.blogspot.tw/" target="_blank" rel="external">Google Blogger</a></li><li>2014 想學 <a href="https://zh.wikipedia.org/wiki/Markdown" target="_blank" rel="external">MarkDown</a> 語法所以轉往 <a href="http://hashman-blog.logdown.com/" target="_blank" rel="external">LogDown</a></li><li>2017 將 Blog 轉到 <a href="http://hashman.tw">GitHub</a> 上經營</li></ul><h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul><li>更詳細的說明請參考 <a href="https://hexo.io/zh-tw/docs/index.html" target="_blank" rel="external">Hexo 中文官方網站</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="什麼是-Hexo"><a href="#什麼是-Hexo" class="headerlink" title="什麼是 Hexo"></a>什麼是 Hexo</h2><p>Hexo 是一套用 NodeJS 寫的 blog framework ，可以透過 hexo 的指令非常快速的建立文章，以下會有<a href="#Hexo-Command">簡易指令教學</a></p><p>另外這有記錄我在使用 Hexo 時的採雷狀況與解決方法 - <a href="http://hashman.tw/2017/01/11/Hexo-%E6%8E%A1%E9%9B%B7%E5%A4%A7%E5%B0%8F%E4%BA%8B/" target="_blank" rel="external">Hexo 採雷大小事</a></p><a id="more"></a><h2 id="什麼是-GitHub-Page"><a href="#什麼是-GitHub-Page" class="headerlink" title="什麼是 GitHub Page"></a>什麼是 GitHub Page</h2><p>GitHub Page 提供所有 GitHub 的用戶可以直接將靜態網頁直接放上 GitHub 中，即可直接於 <code>https://[account].github.io</code> 查看網頁內容的服務。</p><h3 id="如何使用-GitHub-Page"><a href="#如何使用-GitHub-Page" class="headerlink" title="如何使用 GitHub Page"></a>如何使用 GitHub Page</h3><p>直接於自己的 GitHub 帳號直接建立一個 <code>[account].github.io</code> 的 Public Repo ，於 Repo 中上傳靜態網頁即可在 <code>https://[account].github.io</code> 上查看網頁。</p><h2 id="為什麼想要使用-Hexo-GitHub"><a href="#為什麼想要使用-Hexo-GitHub" class="headerlink" title="為什麼想要使用 Hexo + GitHub"></a>為什麼想要使用 Hexo + GitHub</h2><ol><li>Hexo 為 Open Source 軟體可以非常自由的依照自己的需求去調整 Source Code 。</li><li>客製化的網址需求，雖說 LogDown 也可以，但… 需要付費才可以使用，其實還蠻貴的。</li><li>GitHub Public Repository 無空間上限（嚴格來說不是無上限，請參考: <a href="https://help.github.com/articles/what-is-my-disk-quota/" target="_blank" rel="external">GitHub - What is my disk quota?</a>）。</li><li>主機交給 GitHub 管，只需要單純的上 Code 就好不需要去架設與管理主機，相對穩定。</li><li>多了個機會可以了解 GitHub Page 這個服務，詳細參考<a href="https://pages.github.com/" target="_blank" rel="external">這裡</a>。</li><li>幫自己的 GitHub Contributions 多一點色彩，每更新一次 Blog 都會 deploy 到 GitHub 上，也就會增加自己的 Contributions 。</li></ol><h2 id="Hexo-Command"><a href="#Hexo-Command" class="headerlink" title="Hexo Command"></a>Hexo Command</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">// 第一次使用需要先 init hexo folder 與安裝套件</div><div class="line">$ hexo init &lt;folder&gt; // init hexo folder</div><div class="line">$ <span class="built_in">cd</span> &lt;folder&gt;</div><div class="line">$ npm install</div><div class="line"></div><div class="line">// 新增文章</div><div class="line">$ hexo new [layout] &lt;title&gt; // or hexo n [layout] &lt;title&gt;</div><div class="line">// layout 可以不要填寫</div><div class="line">// title 建議使用雙引號刮起來</div><div class="line"></div><div class="line">// 產生靜態檔</div><div class="line">$ hexo generate // or hexo g</div><div class="line"></div><div class="line">// 發表草稿，這個功能我蠻少用的</div><div class="line">$ hexo publish [layout] &lt;filename&gt;</div><div class="line"></div><div class="line">// 啟用 hexo 伺服器</div><div class="line">$ hexo server // or hexo s</div><div class="line"></div><div class="line">// Deploy 至 remote</div><div class="line">$ hexo deploy // or hexo d</div><div class="line"></div><div class="line">// 清除快取檔案</div><div class="line">$ hexo clean</div></pre></td></tr></table></figure><h2 id="Hash-使用-Blog-的歷史"><a href="#Hash-使用-Blog-的歷史" class="headerlink" title="Hash 使用 Blog 的歷史"></a>Hash 使用 Blog 的歷史</h2><ul><li>2011 年開始使用 <a href="https://coosos.blogspot.tw/" target="_blank" rel="external">Google Blogger</a></li><li>2014 想學 <a href="https://zh.wikipedia.org/wiki/Markdown" target="_blank" rel="external">MarkDown</a> 語法所以轉往 <a href="http://hashman-blog.logdown.com/" target="_blank" rel="external">LogDown</a></li><li>2017 將 Blog 轉到 <a href="http://hashman.tw" target="_blank" rel="external">GitHub</a> 上經營</li></ul><h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul><li>更詳細的說明請參考 <a href="https://hexo.io/zh-tw/docs/index.html" target="_blank" rel="external">Hexo 中文官方網站</a></li></ul>]]></content>
     
     <summary type="html">
     
       &lt;h2 id=&quot;什麼是-Hexo&quot;&gt;&lt;a href=&quot;#什麼是-Hexo&quot; class=&quot;headerlink&quot; title=&quot;什麼是 Hexo&quot;&gt;&lt;/a&gt;什麼是 Hexo&lt;/h2&gt;&lt;p&gt;Hexo 是一套用 NodeJS 寫的 blog framework ，可以透過 hexo 的指令非常快速的建立文章，以下會有&lt;a href=&quot;#Hexo-Command&quot;&gt;簡易指令教學&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;另外這有記錄我在使用 Hexo 時的採雷狀況與解決方法 - &lt;a href=&quot;http://hashman.tw/2017/01/11/Hexo-%E6%8E%A1%E9%9B%B7%E5%A4%A7%E5%B0%8F%E4%BA%8B/&quot;&gt;Hexo 採雷大小事&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另外這有記錄我在使用 Hexo 時的採雷狀況與解決方法 - &lt;a href=&quot;http://hashman.tw/2017/01/11/Hexo-%E6%8E%A1%E9%9B%B7%E5%A4%A7%E5%B0%8F%E4%BA%8B/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo 採雷大小事&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="GitHub" scheme="http://hashman.tw/tags/GitHub/"/>
+      <category term="GitHub" scheme="https://blog.hashman.tw/tags/GitHub/"/>
     
   </entry>
   
   <entry>
     <title>自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</title>
-    <link href="http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/"/>
-    <id>http://hashman.tw/2017/01/08/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day1/</id>
+    <link href="https://blog.hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/"/>
+    <id>https://blog.hashman.tw/2017/01/08/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day1/</id>
     <published>2017-01-08T14:49:36.000Z</published>
     <updated>2018-09-24T07:30:04.280Z</updated>
     
@@ -249,21 +249,21 @@
     
     </summary>
     
-      <category term="心得分享" scheme="http://hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+      <category term="心得分享" scheme="https://blog.hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="TDD" scheme="http://hashman.tw/tags/TDD/"/>
+      <category term="TDD" scheme="https://blog.hashman.tw/tags/TDD/"/>
     
-      <category term="SkillTree" scheme="http://hashman.tw/tags/SkillTree/"/>
+      <category term="SkillTree" scheme="https://blog.hashman.tw/tags/SkillTree/"/>
     
-      <category term="測試" scheme="http://hashman.tw/tags/%E6%B8%AC%E8%A9%A6/"/>
+      <category term="測試" scheme="https://blog.hashman.tw/tags/%E6%B8%AC%E8%A9%A6/"/>
     
   </entry>
   
   <entry>
     <title>MOPCON 2016 心得文</title>
-    <link href="http://hashman.tw/2016/10/30/MOPCON-2016-%E5%BF%83%E5%BE%97%E6%96%87/"/>
-    <id>http://hashman.tw/2016/10/30/MOPCON-2016-心得文/</id>
+    <link href="https://blog.hashman.tw/2016/10/30/MOPCON-2016-%E5%BF%83%E5%BE%97%E6%96%87/"/>
+    <id>https://blog.hashman.tw/2016/10/30/MOPCON-2016-心得文/</id>
     <published>2016-10-29T16:11:03.000Z</published>
     <updated>2018-09-24T07:30:04.278Z</updated>
     
@@ -277,19 +277,19 @@
     
     </summary>
     
-      <category term="心得分享" scheme="http://hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+      <category term="心得分享" scheme="https://blog.hashman.tw/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="MOPCON" scheme="http://hashman.tw/tags/MOPCON/"/>
+      <category term="MOPCON" scheme="https://blog.hashman.tw/tags/MOPCON/"/>
     
-      <category term="Conf" scheme="http://hashman.tw/tags/Conf/"/>
+      <category term="Conf" scheme="https://blog.hashman.tw/tags/Conf/"/>
     
   </entry>
   
   <entry>
     <title>PHP ... operator 使用方式</title>
-    <link href="http://hashman.tw/2016/10/02/PHP-operator-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/"/>
-    <id>http://hashman.tw/2016/10/02/PHP-operator-使用方式/</id>
+    <link href="https://blog.hashman.tw/2016/10/02/PHP-operator-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/"/>
+    <id>https://blog.hashman.tw/2016/10/02/PHP-operator-使用方式/</id>
     <published>2016-10-02T14:29:51.000Z</published>
     <updated>2018-09-24T07:30:04.279Z</updated>
     
@@ -306,17 +306,17 @@
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="PHP" scheme="http://hashman.tw/tags/PHP/"/>
+      <category term="PHP" scheme="https://blog.hashman.tw/tags/PHP/"/>
     
   </entry>
   
   <entry>
     <title>如何在 Laravel 5.3 上使用 Slack BOT</title>
-    <link href="http://hashman.tw/2016/10/02/%E5%A6%82%E4%BD%95%E5%9C%A8-Laravel-5-3-%E4%B8%8A%E4%BD%BF%E7%94%A8-Slack-BOT/"/>
-    <id>http://hashman.tw/2016/10/02/如何在-Laravel-5-3-上使用-Slack-BOT/</id>
+    <link href="https://blog.hashman.tw/2016/10/02/%E5%A6%82%E4%BD%95%E5%9C%A8-Laravel-5-3-%E4%B8%8A%E4%BD%BF%E7%94%A8-Slack-BOT/"/>
+    <id>https://blog.hashman.tw/2016/10/02/如何在-Laravel-5-3-上使用-Slack-BOT/</id>
     <published>2016-10-02T11:59:52.000Z</published>
     <updated>2018-09-24T07:30:04.280Z</updated>
     
@@ -331,21 +331,21 @@
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="Laravel" scheme="http://hashman.tw/tags/Laravel/"/>
+      <category term="Laravel" scheme="https://blog.hashman.tw/tags/Laravel/"/>
     
-      <category term="PHP" scheme="http://hashman.tw/tags/PHP/"/>
+      <category term="PHP" scheme="https://blog.hashman.tw/tags/PHP/"/>
     
-      <category term="Slack" scheme="http://hashman.tw/tags/Slack/"/>
+      <category term="Slack" scheme="https://blog.hashman.tw/tags/Slack/"/>
     
   </entry>
   
   <entry>
     <title>GitHub 也支援 Rebase Pull Request 了</title>
-    <link href="http://hashman.tw/2016/09/27/GitHub-%E4%B9%9F%E6%94%AF%E6%8F%B4-Rebase-Pull-Request-%E4%BA%86/"/>
-    <id>http://hashman.tw/2016/09/27/GitHub-也支援-Rebase-Pull-Request-了/</id>
+    <link href="https://blog.hashman.tw/2016/09/27/GitHub-%E4%B9%9F%E6%94%AF%E6%8F%B4-Rebase-Pull-Request-%E4%BA%86/"/>
+    <id>https://blog.hashman.tw/2016/09/27/GitHub-也支援-Rebase-Pull-Request-了/</id>
     <published>2016-09-27T03:17:44.000Z</published>
     <updated>2018-09-24T07:30:04.277Z</updated>
     
@@ -358,17 +358,17 @@
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="GitHub" scheme="http://hashman.tw/tags/GitHub/"/>
+      <category term="GitHub" scheme="https://blog.hashman.tw/tags/GitHub/"/>
     
   </entry>
   
   <entry>
     <title>MySQL 5.7 新增 JSON Data type</title>
-    <link href="http://hashman.tw/2016/08/25/MySQL-5-7-%E6%96%B0%E5%A2%9E-JSON-Data-type/"/>
-    <id>http://hashman.tw/2016/08/25/MySQL-5-7-新增-JSON-Data-type/</id>
+    <link href="https://blog.hashman.tw/2016/08/25/MySQL-5-7-%E6%96%B0%E5%A2%9E-JSON-Data-type/"/>
+    <id>https://blog.hashman.tw/2016/08/25/MySQL-5-7-新增-JSON-Data-type/</id>
     <published>2016-08-25T14:52:37.000Z</published>
     <updated>2018-09-24T07:30:04.279Z</updated>
     
@@ -383,17 +383,17 @@
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="MySQL" scheme="http://hashman.tw/tags/MySQL/"/>
+      <category term="MySQL" scheme="https://blog.hashman.tw/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>Laravel Mail 筆記</title>
-    <link href="http://hashman.tw/2016/04/03/Laravel-Mail-%E7%AD%86%E8%A8%98/"/>
-    <id>http://hashman.tw/2016/04/03/Laravel-Mail-筆記/</id>
+    <link href="https://blog.hashman.tw/2016/04/03/Laravel-Mail-%E7%AD%86%E8%A8%98/"/>
+    <id>https://blog.hashman.tw/2016/04/03/Laravel-Mail-筆記/</id>
     <published>2016-04-03T14:53:33.000Z</published>
     <updated>2018-09-24T07:30:04.278Z</updated>
     
@@ -408,19 +408,19 @@
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="Laravel" scheme="http://hashman.tw/tags/Laravel/"/>
+      <category term="Laravel" scheme="https://blog.hashman.tw/tags/Laravel/"/>
     
-      <category term="PHP" scheme="http://hashman.tw/tags/PHP/"/>
+      <category term="PHP" scheme="https://blog.hashman.tw/tags/PHP/"/>
     
   </entry>
   
   <entry>
     <title>Git 常用指令</title>
-    <link href="http://hashman.tw/2015/12/28/Git-%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
-    <id>http://hashman.tw/2015/12/28/Git-常用指令/</id>
+    <link href="https://blog.hashman.tw/2015/12/28/Git-%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
+    <id>https://blog.hashman.tw/2015/12/28/Git-常用指令/</id>
     <published>2015-12-28T14:55:06.000Z</published>
     <updated>2018-09-24T07:30:04.277Z</updated>
     
@@ -449,17 +449,17 @@ git diff     = git di
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="Git" scheme="http://hashman.tw/tags/Git/"/>
+      <category term="Git" scheme="https://blog.hashman.tw/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>使用 Mac 安裝 gitbook server</title>
-    <link href="http://hashman.tw/2015/12/22/%E4%BD%BF%E7%94%A8-Mac-%E5%AE%89%E8%A3%9D-gitbook-server/"/>
-    <id>http://hashman.tw/2015/12/22/使用-Mac-安裝-gitbook-server/</id>
+    <link href="https://blog.hashman.tw/2015/12/22/%E4%BD%BF%E7%94%A8-Mac-%E5%AE%89%E8%A3%9D-gitbook-server/"/>
+    <id>https://blog.hashman.tw/2015/12/22/使用-Mac-安裝-gitbook-server/</id>
     <published>2015-12-22T15:01:15.000Z</published>
     <updated>2018-09-24T07:30:04.280Z</updated>
     
@@ -472,19 +472,19 @@ git diff     = git di
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="Mac" scheme="http://hashman.tw/tags/Mac/"/>
+      <category term="Mac" scheme="https://blog.hashman.tw/tags/Mac/"/>
     
-      <category term="GitBook" scheme="http://hashman.tw/tags/GitBook/"/>
+      <category term="GitBook" scheme="https://blog.hashman.tw/tags/GitBook/"/>
     
   </entry>
   
   <entry>
     <title>CURL 與 Shell Script 相關使用</title>
-    <link href="http://hashman.tw/2015/12/20/CURL-%E8%88%87-Shell-Script-%E7%9B%B8%E9%97%9C%E4%BD%BF%E7%94%A8/"/>
-    <id>http://hashman.tw/2015/12/20/CURL-與-Shell-Script-相關使用/</id>
+    <link href="https://blog.hashman.tw/2015/12/20/CURL-%E8%88%87-Shell-Script-%E7%9B%B8%E9%97%9C%E4%BD%BF%E7%94%A8/"/>
+    <id>https://blog.hashman.tw/2015/12/20/CURL-與-Shell-Script-相關使用/</id>
     <published>2015-12-20T15:03:12.000Z</published>
     <updated>2018-09-24T07:30:04.277Z</updated>
     
@@ -500,19 +500,19 @@ git diff     = git di
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="Linux" scheme="http://hashman.tw/tags/Linux/"/>
+      <category term="Linux" scheme="https://blog.hashman.tw/tags/Linux/"/>
     
-      <category term="CURL" scheme="http://hashman.tw/tags/CURL/"/>
+      <category term="CURL" scheme="https://blog.hashman.tw/tags/CURL/"/>
     
   </entry>
   
   <entry>
     <title>Javascript callback function 使用方法</title>
-    <link href="http://hashman.tw/2015/12/03/Javascript-callback-function-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
-    <id>http://hashman.tw/2015/12/03/Javascript-callback-function-使用方法/</id>
+    <link href="https://blog.hashman.tw/2015/12/03/Javascript-callback-function-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
+    <id>https://blog.hashman.tw/2015/12/03/Javascript-callback-function-使用方法/</id>
     <published>2015-12-03T15:06:17.000Z</published>
     <updated>2018-09-24T07:30:04.278Z</updated>
     
@@ -524,17 +524,17 @@ git diff     = git di
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="Javascript" scheme="http://hashman.tw/tags/Javascript/"/>
+      <category term="Javascript" scheme="https://blog.hashman.tw/tags/Javascript/"/>
     
   </entry>
   
   <entry>
     <title>AngularJS 事件  與  的使用方式</title>
-    <link href="http://hashman.tw/2015/12/03/AngularJS-%E4%BA%8B%E4%BB%B6-%E8%88%87-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/"/>
-    <id>http://hashman.tw/2015/12/03/AngularJS-事件-與-的使用方式/</id>
+    <link href="https://blog.hashman.tw/2015/12/03/AngularJS-%E4%BA%8B%E4%BB%B6-%E8%88%87-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/"/>
+    <id>https://blog.hashman.tw/2015/12/03/AngularJS-事件-與-的使用方式/</id>
     <published>2015-12-03T12:07:57.000Z</published>
     <updated>2018-09-24T07:30:04.277Z</updated>
     
@@ -548,17 +548,17 @@ git diff     = git di
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="AngularJS" scheme="http://hashman.tw/tags/AngularJS/"/>
+      <category term="AngularJS" scheme="https://blog.hashman.tw/tags/AngularJS/"/>
     
   </entry>
   
   <entry>
     <title>Sublime Text 3 環境分享</title>
-    <link href="http://hashman.tw/2015/11/28/Sublime-Text-3-%E7%92%B0%E5%A2%83%E5%88%86%E4%BA%AB/"/>
-    <id>http://hashman.tw/2015/11/28/Sublime-Text-3-環境分享/</id>
+    <link href="https://blog.hashman.tw/2015/11/28/Sublime-Text-3-%E7%92%B0%E5%A2%83%E5%88%86%E4%BA%AB/"/>
+    <id>https://blog.hashman.tw/2015/11/28/Sublime-Text-3-環境分享/</id>
     <published>2015-11-28T15:10:40.000Z</published>
     <updated>2018-09-24T07:30:04.279Z</updated>
     
@@ -573,12 +573,12 @@ Sublime text 3
     
     </summary>
     
-      <category term="資訊技術" scheme="http://hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
+      <category term="資訊技術" scheme="https://blog.hashman.tw/categories/%E8%B3%87%E8%A8%8A%E6%8A%80%E8%A1%93/"/>
     
     
-      <category term="Sublime Text 3" scheme="http://hashman.tw/tags/Sublime-Text-3/"/>
+      <category term="Sublime Text 3" scheme="https://blog.hashman.tw/tags/Sublime-Text-3/"/>
     
-      <category term="MacOS" scheme="http://hashman.tw/tags/MacOS/"/>
+      <category term="MacOS" scheme="https://blog.hashman.tw/tags/MacOS/"/>
     
   </entry>
   
