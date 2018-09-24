@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<html class="theme-next muse use-motion" lang="en">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=6.4.1" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.4.1">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.4.1">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.4.1">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.4.1" color="#222">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    version: '6.4.1',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  <meta name="description" content="整理一下 git 比較常用的一些指令   如何使用 git 縮寫&amp;gt; vim ~/.gitconfig  # 加上下面內容 [alias]       st = status       co = checkout       br = branch       up = rebase       ci = commit       di = diff git 指令與縮寫後的指令比較git s">
+<meta name="keywords" content="Git">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Git 常用指令">
+<meta property="og:url" content="http://hashman.tw/2015/12/28/Git-常用指令/index.html">
+<meta property="og:site_name" content="Hash&#39;s Blog">
+<meta property="og:description" content="整理一下 git 比較常用的一些指令   如何使用 git 縮寫&amp;gt; vim ~/.gitconfig  # 加上下面內容 [alias]       st = status       co = checkout       br = branch       up = rebase       ci = commit       di = diff git 指令與縮寫後的指令比較git s">
+<meta property="og:locale" content="en">
+<meta property="og:updated_time" content="2018-09-24T07:30:04.277Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Git 常用指令">
+<meta name="twitter:description" content="整理一下 git 比較常用的一些指令   如何使用 git 縮寫&amp;gt; vim ~/.gitconfig  # 加上下面內容 [alias]       st = status       co = checkout       br = branch       up = rebase       ci = commit       di = diff git 指令與縮寫後的指令比較git s">
+
+
+
+  <link rel="alternate" href="/atom.xml" title="Hash's Blog" type="application/atom+xml" />
+
+
+
+
+  <link rel="canonical" href="http://hashman.tw/2015/12/28/Git-常用指令/"/>
+
+
+
+<script type="text/javascript" id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+
+  <title>Git 常用指令 | Hash's Blog</title>
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39414302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39414302-1');
+</script>
+
+
+
+
+
+
+  <noscript>
+  <style type="text/css">
+    .use-motion .motion-element,
+    .use-motion .brand,
+    .use-motion .menu-item,
+    .sidebar-inner,
+    .use-motion .post-block,
+    .use-motion .pagination,
+    .use-motion .comments,
+    .use-motion .post-header,
+    .use-motion .post-body,
+    .use-motion .collection-title { opacity: initial; }
+
+    .use-motion .logo,
+    .use-motion .site-title,
+    .use-motion .site-subtitle {
+      opacity: initial;
+      top: initial;
+    }
+
+    .use-motion {
+      .logo-line-before i { left: initial; }
+      .logo-line-after i { right: initial; }
+    }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Hash's Blog</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+    
+      
+        <p class="site-subtitle">記錄學習過程中的一切</p>
+      
+    
+  </div>
+
+  <div class="site-nav-toggle">
+    <button aria-label="Toggle navigation bar">
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  
+    <ul id="menu" class="menu">
+      
+        
+        
+        
+          
+          <li class="menu-item menu-item-home">
+    <a href="/" rel="section">
+      <i class="menu-item-icon fa fa-fw fa-home"></i> <br />Home</a>
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-archives">
+    <a href="/archives/" rel="section">
+      <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />Archives</a>
+  </li>
+
+      
+      
+    </ul>
+  
+
+  
+    
+
+  
+
+  
+</nav>
+
+
+
+  
+
+
+
+</div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://hashman.tw/2015/12/28/Git-常用指令/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Hash Lin">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Hash's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">Git 常用指令
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+
+              
+                
+              
+
+              <time title="Created: 2015-12-28 22:55:06" itemprop="dateCreated datePublished" datetime="2015-12-28T22:55:06+08:00">2015-12-28</time>
+            
+
+            
+              
+
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2018-09-24 15:30:04" itemprop="dateModified" datetime="2018-09-24T15:30:04+08:00">2018-09-24</time>
+              
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/資訊技術/" itemprop="url" rel="index"><span itemprop="name">資訊技術</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>整理一下 git 比較常用的一些指令  </p>
+<h2 id="如何使用-git-縮寫"><a href="#如何使用-git-縮寫" class="headerlink" title="如何使用 git 縮寫"></a>如何使用 git 縮寫</h2><pre><code>&gt; vim ~/.gitconfig
+
+# 加上下面內容
+[alias]
+      st = status
+      co = checkout
+      br = branch
+      up = rebase
+      ci = commit
+      di = diff
+</code></pre><h2 id="git-指令與縮寫後的指令比較"><a href="#git-指令與縮寫後的指令比較" class="headerlink" title="git 指令與縮寫後的指令比較"></a>git 指令與縮寫後的指令比較</h2><pre><code>git status   = git st
+git checkout = git co
+git branch   = git br
+git rebase   = git up
+git commit   = git ci
+git diff     = git di
+</code></pre><a id="more"></a>
+<h2 id="git-指令-以下都用縮寫"><a href="#git-指令-以下都用縮寫" class="headerlink" title="git 指令(以下都用縮寫)"></a>git 指令(以下都用縮寫)</h2><ol>
+<li><p>Status</p>
+<pre><code>git st
+</code></pre></li>
+<li><p>Branch</p>
+<pre><code># 顯示目前 local git 的 branch
+git br
+
+# 顯示所有 branch （包含 remote branch））
+git br -a
+</code></pre></li>
+<li><p>Add</p>
+<pre><code># add single file
+git add &lt;file_path&gt;
+
+# add all unstage file
+git add .
+
+# 強制新增 ignore file in git
+git add -f [file_path]
+</code></pre></li>
+<li><p>Commit</p>
+<pre><code>git ci -m &quot;content&quot;
+git ci --amend -c {commit hash}
+</code></pre></li>
+<li><p>Checkout</p>
+<pre><code># 切換到任何一個 branch 或是任何一點 commit hash 上
+git co &lt;branch_name&gt;
+git co &lt;commit_hash_number&gt;
+
+# 在現在的 branch 上面新開一個 branch 
+git co -b &lt;new_branch_name&gt;
+
+# checkout 一個 remote branch 
+git co -b &lt;local_branch_name&gt; --track origin/&lt;remote_branch_name&gt;
+EX: git co -b feature/123 --track origin/feature/123
+
+# 清除所有 unstage 檔案到上一次的 commit
+git co -- .
+</code></pre></li>
+<li><p>Diff</p>
+<pre><code># 查看目前所有 git 的更動內容
+git diff
+
+# 查看某個檔案的變動
+git diff &lt;file_path&gt;
+
+# 查看 git 更動內容並且忽略空白
+git diff --ignore-all-space
+</code></pre></li>
+<li><p>Merge</p>
+<pre><code># 一般直接 merge (ex: feature/123 merge to develop)
+# 建議先 pull 在 merge
+git co develop
+git merge feature/123
+
+# 保留 feature branch 上的線
+# 建議先 pull 在 merge
+git co develop
+git merge --no-ff feature/123
+</code></pre></li>
+<li><p>Pull</p>
+<pre><code>git pull or git pull origin &lt;branch_name&gt;
+</code></pre></li>
+<li><p>Push</p>
+<pre><code># 一般的 push 方法
+git push or git push origin &lt;branch_name&gt;
+
+# 與 tag 一起 push
+git push --follow-tags or git push --follow-tags origin &lt;branch_name&gt;
+
+# Delete remote git branch
+git push origin --delete [branch_name]
+</code></pre></li>
+<li><p>Fetch</p>
+<pre><code># 同步目前遠端 git 的狀態
+git fetch origin
+</code></pre></li>
+<li><p>Tag</p>
+<pre><code># 顯示目前的 tag 狀態
+git tag
+
+# 在某個 commit hash 上面加上 tag
+git tag -a &lt;tag_name&gt; -m &quot;&lt;tag_content&gt;&quot; &lt;commit_hash&gt;
+EX: git tag -a v1.1.0 -m &quot;test1&quot; a9bf65b
+
+# 查詢 tag 的詳細資料
+git show &lt;tag_name&gt;
+EX: git show v1.1.0
+</code></pre></li>
+<li><p>Reset</p>
+<pre><code># reset all include unstage
+git reset -q --hard HEAD --
+
+# hard reset 到某次 commit
+ps. 小心使用，中間的所有 commit 都會消失，必須透過 git reflog 去還原之前的 commit
+git reset --hard &lt;commit_hash&gt;
+</code></pre></li>
+<li><p>Rebase</p>
+<pre><code># 針對某個 branch 進行 rebase
+git rebase &lt;branch name&gt;
+
+# 針對某個 commit 之後進行 rebase
+git rebase -i &lt;commit hash&gt;
+
+# 針對 root 進行 rebase
+git rebase -i --root
+</code></pre></li>
+</ol>
+<h2 id="Git-Flow"><a href="#Git-Flow" class="headerlink" title="Git Flow"></a>Git Flow</h2><ul>
+<li>認識 git flow: <a href="https://ihower.tw/blog/archives/5140" target="_blank" rel="external">ihower - Git flow 開發流程</a></li>
+<li>安裝 git flow on mac: <a href="http://danielkummer.github.io/git-flow-cheatsheet/" target="_blank" rel="external">git-flow cheatsheet</a>  </li>
+<li>簡單介紹 git flow 種類<ul>
+<li>feature: 從 develop 分支出去，常用於開發新的功能，開發完成後就會 merge 回 develop 上</li>
+<li>hotfix: 從 master 分支出去，常用於 stable 版的緊急修復，修復完成後會 merge 回 master 跟 develop 上</li>
+<li>release: 從 develop 分支出去，用於開發版本要釋出成 stable 版，釋出完畢會 merge 到 master 跟 develop 上</li>
+</ul>
+</li>
+</ul>
+<h4 id="初始化-git-flow"><a href="#初始化-git-flow" class="headerlink" title="初始化 git flow"></a>初始化 git flow</h4><p>git flow init</p>
+<h4 id="使用-git-flow-feature-流程"><a href="#使用-git-flow-feature-流程" class="headerlink" title="使用 git flow feature 流程"></a>使用 git flow feature 流程</h4><p>git flow feature start 123   // 從 develop 建立一個 feature branch 123 出來<br>git flow feature publish 123 // 將 feature/123 這個 branch push 到 remote git repo 上<br>git flow feature finish 123  // 將 feature/123 這個 feature branch 結束後 merge 回 develop 上，並且會將這個 feature branch 移除</p>
+<h4 id="使用-git-flow-release-流程"><a href="#使用-git-flow-release-流程" class="headerlink" title="使用 git flow release 流程"></a>使用 git flow release 流程</h4><p>git flow release start v1.1.0 // 從 develop 建立一個 release branch v1.1.0<br>git flow feature publish v1.1.0 // 將 release/v1.1.0 這個 branch push 到 remote git repo 上<br>git flow feature finish v1.1.0  // 將 release/v1.1.0 這個 release branch 結束後 merge 進 master 與 develop 上並且壓上版本號，然後將這個 release branch 移除</p>
+<h4 id="使用-git-flow-hotfix-流程"><a href="#使用-git-flow-hotfix-流程" class="headerlink" title="使用 git flow hotfix 流程"></a>使用 git flow hotfix 流程</h4><p>git flow hotfix start v1.1.0 // 從 master 建立一個 hotfix branch v1.1.0<br>git flow hotfix finish v1.1.0  // 將 hotfix/v1.1.0 這個 branch 結束後 merge 回 master 與 develop 上並且壓上版本號，然後將這個 hotfix branch 移除</p>
+
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Git/" rel="tag"># Git</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2015/12/22/使用-Mac-安裝-gitbook-server/" rel="next" title="使用 Mac 安裝 gitbook server">
+                <i class="fa fa-chevron-left"></i> 使用 Mac 安裝 gitbook server
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2016/04/03/Laravel-Mail-筆記/" rel="prev" title="Laravel Mail 筆記">
+                Laravel Mail 筆記 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+  </div>
+
+
+          </div>
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <p class="site-author-name" itemprop="name">Hash Lin</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">21</span>
+                    <span class="site-state-item-name">posts</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  <a href="/categories/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">categories</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">25</span>
+                    <span class="site-state-item-name">tags</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+              
+                <span class="links-of-author-item">
+                  <a href="https://github.com/hashman" target="_blank" title="GitHub"><i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://twitter.com/HashmanL" target="_blank" title="Twitter"><i class="fa fa-fw fa-globe"></i>Twitter</a>
+                  
+                </span>
+              
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#如何使用-git-縮寫"><span class="nav-number">1.</span> <span class="nav-text">如何使用 git 縮寫</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#git-指令與縮寫後的指令比較"><span class="nav-number">2.</span> <span class="nav-text">git 指令與縮寫後的指令比較</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#git-指令-以下都用縮寫"><span class="nav-number">3.</span> <span class="nav-text">git 指令(以下都用縮寫)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Git-Flow"><span class="nav-number">4.</span> <span class="nav-text">Git Flow</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#初始化-git-flow"><span class="nav-number">4.0.1.</span> <span class="nav-text">初始化 git flow</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#使用-git-flow-feature-流程"><span class="nav-number">4.0.2.</span> <span class="nav-text">使用 git flow feature 流程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#使用-git-flow-release-流程"><span class="nav-number">4.0.3.</span> <span class="nav-text">使用 git flow release 流程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#使用-git-flow-hotfix-流程"><span class="nav-number">4.0.4.</span> <span class="nav-text">使用 git flow hotfix 流程</span></a></li></ol></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
+  <span class="with-love" id="animate">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Hash Lin</span>
+
+  
+
+  
+</div>
+
+
+
+
+  <div class="powered-by">Powered by <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> v3.4.0</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">Theme – <a class="theme-link" target="_blank" href="https://theme-next.org">NexT.Muse</a> v6.4.1</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+	
+    
+
+    
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=6.4.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=6.4.1"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.4.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=6.4.1"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.4.1"></script>
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

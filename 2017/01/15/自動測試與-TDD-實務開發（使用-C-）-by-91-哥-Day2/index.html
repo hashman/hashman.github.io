@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<html class="theme-next muse use-motion" lang="en">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=6.4.1" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.4.1">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.4.1">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.4.1">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.4.1" color="#222">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    version: '6.4.1',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  <meta name="description" content="上週課程回顧 詳細的上週課程心得可以參考「自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1」。  上週課程提到，什麼是 Unit Test ，好的單元測試需要吻合 F.I.R.S.T 原則，如何針對單一功能撰寫單元測試，了解開發流程與方式，了解業務單位需求撰寫需求文件與單元測試，針對單元程式建構出來的程式架構完成 Production Code 相關邏輯。">
+<meta name="keywords" content="TDD,SkillTree,測試">
+<meta property="og:type" content="article">
+<meta property="og:title" content="自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2">
+<meta property="og:url" content="http://hashman.tw/2017/01/15/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day2/index.html">
+<meta property="og:site_name" content="Hash&#39;s Blog">
+<meta property="og:description" content="上週課程回顧 詳細的上週課程心得可以參考「自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1」。  上週課程提到，什麼是 Unit Test ，好的單元測試需要吻合 F.I.R.S.T 原則，如何針對單一功能撰寫單元測試，了解開發流程與方式，了解業務單位需求撰寫需求文件與單元測試，針對單元程式建構出來的程式架構完成 Production Code 相關邏輯。">
+<meta property="og:locale" content="en">
+<meta property="og:updated_time" content="2018-09-24T07:30:04.281Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2">
+<meta name="twitter:description" content="上週課程回顧 詳細的上週課程心得可以參考「自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1」。  上週課程提到，什麼是 Unit Test ，好的單元測試需要吻合 F.I.R.S.T 原則，如何針對單一功能撰寫單元測試，了解開發流程與方式，了解業務單位需求撰寫需求文件與單元測試，針對單元程式建構出來的程式架構完成 Production Code 相關邏輯。">
+
+
+
+  <link rel="alternate" href="/atom.xml" title="Hash's Blog" type="application/atom+xml" />
+
+
+
+
+  <link rel="canonical" href="http://hashman.tw/2017/01/15/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day2/"/>
+
+
+
+<script type="text/javascript" id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+
+  <title>自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2 | Hash's Blog</title>
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39414302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39414302-1');
+</script>
+
+
+
+
+
+
+  <noscript>
+  <style type="text/css">
+    .use-motion .motion-element,
+    .use-motion .brand,
+    .use-motion .menu-item,
+    .sidebar-inner,
+    .use-motion .post-block,
+    .use-motion .pagination,
+    .use-motion .comments,
+    .use-motion .post-header,
+    .use-motion .post-body,
+    .use-motion .collection-title { opacity: initial; }
+
+    .use-motion .logo,
+    .use-motion .site-title,
+    .use-motion .site-subtitle {
+      opacity: initial;
+      top: initial;
+    }
+
+    .use-motion {
+      .logo-line-before i { left: initial; }
+      .logo-line-after i { right: initial; }
+    }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Hash's Blog</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+    
+      
+        <p class="site-subtitle">記錄學習過程中的一切</p>
+      
+    
+  </div>
+
+  <div class="site-nav-toggle">
+    <button aria-label="Toggle navigation bar">
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  
+    <ul id="menu" class="menu">
+      
+        
+        
+        
+          
+          <li class="menu-item menu-item-home">
+    <a href="/" rel="section">
+      <i class="menu-item-icon fa fa-fw fa-home"></i> <br />Home</a>
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-archives">
+    <a href="/archives/" rel="section">
+      <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />Archives</a>
+  </li>
+
+      
+      
+    </ul>
+  
+
+  
+    
+
+  
+
+  
+</nav>
+
+
+
+  
+
+
+
+</div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://hashman.tw/2017/01/15/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day2/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Hash Lin">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Hash's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+
+              
+                
+              
+
+              <time title="Created: 2017-01-15 14:40:48" itemprop="dateCreated datePublished" datetime="2017-01-15T14:40:48+08:00">2017-01-15</time>
+            
+
+            
+              
+
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2018-09-24 15:30:04" itemprop="dateModified" datetime="2018-09-24T15:30:04+08:00">2018-09-24</time>
+              
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/心得分享/" itemprop="url" rel="index"><span itemprop="name">心得分享</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h2 id="上週課程回顧"><a href="#上週課程回顧" class="headerlink" title="上週課程回顧"></a>上週課程回顧</h2><blockquote>
+<p>詳細的上週課程心得可以參考「<a href="http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</a>」。</p>
+</blockquote>
+<p>上週課程提到，什麼是 Unit Test ，好的單元測試需要吻合 F.I.R.S.T 原則，如何針對單一功能撰寫單元測試，了解開發流程與方式，了解業務單位需求撰寫需求文件與單元測試，針對單元程式建構出來的程式架構完成 Production Code 相關邏輯。</p>
+<a id="more"></a>
+<p>有了單元測試，就算需求來了想要調整 Production Code 都不用怕，因為有了單元測試，單元測試會告訴開發者，程式是否還是可以正常的運作<strong>（綠燈）</strong>，如果為<strong>紅燈</strong>就知道有功能被改壞了，可以「即時」發現問題並且進行修正。</p>
+<p>透過 Code Coverage 可以了解我們的單元測試的完整度，是否有遺漏的測試案例。</p>
+<h2 id="本週課前提要"><a href="#本週課前提要" class="headerlink" title="本週課前提要"></a>本週課前提要</h2><p>上週學習了 Unit Test 但可能還是無法直接套用到正在進行中的專案，因為專案上可能都是滿滿的 Legacy Code ，無法針對 Legacy Code 進行測試，需求不斷的來招架不住該怎麼辦？我想今天的課程就是重點了，透過 E2E Testing 、 Unit Test 與 Refactor 來教你，「如何安安心心 Refactor Legacy Code 還可以完成業務單位新需求」。</p>
+<p>該還的技術債還是要還，如果只是在 Legacy Code 上疊床架屋， Code 只會越來越亂， Bug 只會越來越多，只會讓後面維護的工程師越來越不懂這個系統的原貌，趁早治療才是明智之舉，千萬不要放棄治療。</p>
+<h2 id="本週課程前的小故事"><a href="#本週課程前的小故事" class="headerlink" title="本週課程前的小故事"></a>本週課程前的小故事</h2><p>老闆：「Hash，今天有個客戶跟我說他想要在我們的購物車上面加上可以自動進行折扣的功能，明天可以完成嗎？」</p>
+<p>Hash：「痾…. (Hash的內心話：雖說只是加幾行 Code 就可以搞定，但… 會不會改壞其他東西阿)」</p>
+<p>老闆：「怎樣？」</p>
+<p>Hash（心虛的說）：「好…」</p>
+<h2 id="本週課程重點"><a href="#本週課程重點" class="headerlink" title="本週課程重點"></a>本週課程重點</h2><ul>
+<li>TDD</li>
+<li>End-To-End Testing</li>
+<li>Refactor</li>
+</ul>
+<h3 id="End-To-End-Testing"><a href="#End-To-End-Testing" class="headerlink" title="End-To-End Testing"></a>End-To-End Testing</h3><p>課程中透過 Selenium 來指導學員如何透過他來對網頁進行 E2E Testing ， Selenum 除了可以直接針對網站進行測試外還可以匯出 C# 測試原始碼直接無痛整合進行 Visual Studio ，讓 E2E Testing 與 UnitTest 一起來，進而達到完整測試。</p>
+<blockquote>
+<p>上課採雷心得分享： Firefox 的 Selenium 再 Firefox v46.1 之後的版本有 Bug 。</p>
+</blockquote>
+<h3 id="Refactor"><a href="#Refactor" class="headerlink" title="Refactor"></a>Refactor</h3><p>終於來到本週最為精采的「如何針對 Legacy Code 進行 Refactor」，結合網頁測試與單元測試來達成我們的目的 <strong>Refactor</strong> 。</p>
+<p>當我們有了 E2E Testing 可以針對特定功能撰寫網頁測試案例，以使用者為出發點操作系統功能，記錄使用者的行為與預期結果。</p>
+<p>當我們有了單元測試，針對最小的功能進行測試，預期這些功能方法的行為與其回傳值。</p>
+<p>有了他們，修改程式後馬上進行完整 Unit Test 修改程式碼的方法後是否還吻合我們的測試案例預期行為，若為綠燈，則接著進行 E2E Testing 測試是否使用者還可以如預期的操作系統功能，修改程式碼超安心，一點都不擔心會不會改壞程式碼，還有什麼比這個還要更棒的呢？</p>
+<blockquote>
+<p>91 哥補充：重構過程中千萬不可增加新功能，一次只做一件事情，重構完成 -&gt; 綠燈 -&gt; 增加新功能</p>
+</blockquote>
+<h2 id="本週課程後的小故事"><a href="#本週課程後的小故事" class="headerlink" title="本週課程後的小故事"></a>本週課程後的小故事</h2><blockquote>
+<p>同上一樣的故事內容</p>
+</blockquote>
+<p>老闆：「Hash，今天有個客戶跟我說他想要在我們的購物車上面加上可以自動進行折扣的功能，明天可以完成嗎？」</p>
+<p>Hash（心理想著）：「有了 91 哥教我們的測試方法，我想花個一天把相關 Legacy Code Refactor 一下，半天完成老闆功能，沒問題！！」</p>
+<p>Hash（有自信的說）：「好老闆，明天下午給你！」</p>
+<p>老闆：「太好了，謝謝你的幫忙」</p>
+<blockquote>
+<p>其實一樣的故事內容課前與課後Hash的回答的方式是完完全全不一樣的，就算今天要花時間整理 Legacy Code 而無法如期交出功能，也可以跟老闆提出需要進行程式碼重構進而提升系統穩定度，我想老闆的接受度也是高些的。</p>
+</blockquote>
+<h2 id="本週課程心得"><a href="#本週課程心得" class="headerlink" title="本週課程心得"></a>本週課程心得</h2><p>就如同小故事告訴我們的，透過完整的測試流程與方法，可以讓工程師們在修改程式上更為有自信且更為安心，其實只要隨手 Refactor 一隻 Method 與補上幾隻測試程式，就可以達到讓整個專案穩定度提升。</p>
+<p>《Clean Code》 文中提到，童子軍原則：「離開營地前，讓營地使用前更加乾淨」，同樣的原則也可以透用在軟體開發上，程式碼在 Commit 前只要可以讓 Code Coverage 提昇些，讓程式碼看起來更整齊乾淨就是進步。</p>
+<h2 id="課程中相關學習資源"><a href="#課程中相關學習資源" class="headerlink" title="課程中相關學習資源"></a>課程中相關學習資源</h2><ul>
+<li><a href="https://www.amazon.cn/%E9%AB%98%E6%95%88%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E4%BF%AE%E7%82%BC-%E9%98%BF%E7%89%B9%E4%BC%8D%E5%BE%B7/dp/B00DXZFZPO/" target="_blank" rel="external">高效能程序员的修炼</a></li>
+<li><a href="http://www.growing-object-oriented-software.com/" target="_blank" rel="external">Growing Object-Oriented Software(GOOS)</a></li>
+<li><a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00MBQMFLI/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1449822496&amp;sr=1-1" target="_blank" rel="external">单元测试的艺术(第2版)</a></li>
+<li><a href="https://www.cwbook.com.tw/product/ProductAction.shtml?prodId=0000016780" target="_blank" rel="external">在TOYOTA學到的，只要「紙1張」的整理技術 － 彙整資訊、整理思緒、清楚溝通的技巧</a></li>
+</ul>
+
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/TDD/" rel="tag"># TDD</a>
+          
+            <a href="/tags/SkillTree/" rel="tag"># SkillTree</a>
+          
+            <a href="/tags/測試/" rel="tag"># 測試</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2017/01/11/Hexo-採雷大小事/" rel="next" title="Hexo 採雷大小事">
+                <i class="fa fa-chevron-left"></i> Hexo 採雷大小事
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2017/01/22/自動測試與-TDD-實務開發（使用-C-）-by-91-哥-Day3/" rel="prev" title="自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day3">
+                自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day3 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+  </div>
+
+
+          </div>
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <p class="site-author-name" itemprop="name">Hash Lin</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">21</span>
+                    <span class="site-state-item-name">posts</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  <a href="/categories/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">categories</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">25</span>
+                    <span class="site-state-item-name">tags</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+              
+                <span class="links-of-author-item">
+                  <a href="https://github.com/hashman" target="_blank" title="GitHub"><i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://twitter.com/HashmanL" target="_blank" title="Twitter"><i class="fa fa-fw fa-globe"></i>Twitter</a>
+                  
+                </span>
+              
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#上週課程回顧"><span class="nav-number">1.</span> <span class="nav-text">上週課程回顧</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#本週課前提要"><span class="nav-number">2.</span> <span class="nav-text">本週課前提要</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#本週課程前的小故事"><span class="nav-number">3.</span> <span class="nav-text">本週課程前的小故事</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#本週課程重點"><span class="nav-number">4.</span> <span class="nav-text">本週課程重點</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#End-To-End-Testing"><span class="nav-number">4.1.</span> <span class="nav-text">End-To-End Testing</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Refactor"><span class="nav-number">4.2.</span> <span class="nav-text">Refactor</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#本週課程後的小故事"><span class="nav-number">5.</span> <span class="nav-text">本週課程後的小故事</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#本週課程心得"><span class="nav-number">6.</span> <span class="nav-text">本週課程心得</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#課程中相關學習資源"><span class="nav-number">7.</span> <span class="nav-text">課程中相關學習資源</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
+  <span class="with-love" id="animate">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Hash Lin</span>
+
+  
+
+  
+</div>
+
+
+
+
+  <div class="powered-by">Powered by <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> v3.4.0</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">Theme – <a class="theme-link" target="_blank" href="https://theme-next.org">NexT.Muse</a> v6.4.1</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+	
+    
+
+    
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=6.4.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=6.4.1"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.4.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=6.4.1"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.4.1"></script>
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[身為工程師的我如何看近期的 Evernote]]></title>
+      <url>http://hashman.tw/2018/09/24/%E8%BA%AB%E7%82%BA%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E6%88%91%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BF%91%E6%9C%9F%E7%9A%84%20Evernote/</url>
+      <content type="html"><![CDATA[<p>最近 Evernote 有不少負面消息了，想說來寫一篇我如何看待這個軟體，先說以下言論我不代表 Evernote 官方，僅僅是以一個 User 的角度來看這件事情，先讓大家回憶一下 Evernote 最近發生了哪些大事件。</p>
+<h3 id="大事件"><a href="#大事件" class="headerlink" title="大事件"></a>大事件</h3><ul>
+<li>2018/09/04: <a href="https://techcrunch.com/2018/09/04/evernote-lost-its-cto-cfo-cpo-and-hr-head-in-the-last-month-as-it-eyes-another-fundraise/" target="_blank" rel="external">Evernote lost its CTO, CFO, CPO and HR head in the last month as it eyes another fundraise</a></li>
+<li>2018/06/06: <a href="https://www.yinxiang.com/blog/blog/2018/06/06/evernote-an-independent-internet-enterprise/" target="_blank" rel="external">Evernote完成中国业务拆分，印象笔记重组为独立的中国互联网企业</a></li>
+</ul>
+<p>上面兩個文章我這裡就不再多做說明，有興趣的朋友可以自行閱讀，但這些事件可以看到 Evernote 國際版經歷了非常大的挑戰，也對於他們的市場照成非常大的衝擊，當然發生的事情絕非我僅列的，另外在 Evernote 的使用者<a href="https://discussion.evernote.com/" target="_blank" rel="external">論壇</a> 也可以看得出一些使用者對於這些新聞與軟體的反應，自己看了幾個月大概可以得出一些使用者常討論的內容</p>
+<ol>
+<li>為什麼 Evernote 不支援 Markdown 語法</li>
+<li>好爛阿離開吧</li>
+<li>沒有什麼新 Feature 感覺沒什麼進步</li>
+<li>Bug, Unstable 等等</li>
+</ol>
+<p>針對第一點，如上方大事件提到，印象筆記已經於 6/6 將中國業務與國際版進行獨立切割，並且於 8/7 就快速的推出了 Markdown 的功能，也引發大家不少的討論，詳細內容也可以看看這篇文章「<a href="https://mp.weixin.qq.com/s/zfLSR1Pg_YXQlgZ3EPrF8A" target="_blank" rel="external">印象笔记终于支持markdown了</a>」。</p>
+<p>其他的項目我個人也有些見解與看法，但就先讓我來說說我自己的想法</p>
+<p>用 Evernote 這個軟體已經 6 年了，對於我來說，我會以 Evernote 就是我 <strong>第二個大腦</strong> 來形容，當時的他不僅支持跨平台（Windows, Mac, Linux, Mobile 等等）筆記，還可以隨時透過 <a href="https://evernote.com/intl/zh-tw/products/webclipper" target="_blank" rel="external">Evernote web clipper</a> 來擷取網頁內容進行留存，在當時真的是相當的驚人，說實話至今我還是沒有找到可以有這麼多功能可以取代的產品，如果有的話真的歡迎可以跟我分享，我很願意試試。</p>
+<p>想要表達的是，大家都會期望這個筆記軟體可以更符合現在使用者的需求，也當然或許增加這個 Feature 可以讓我們對於他的喜愛度更高沒錯，但或許大家可能沒有看到其實 Evernote 還是 Evernote 他的核心價值與他想要帶給大家的功能其實他沒有變過， Evernote 還是 Evernote ，他還是非常方便的讓我們隨時筆記、完成 GTD 、檔案 / 內容搜尋、簡報等等功能整合在這個軟體裡面。</p>
+<p>在今年我參加了由 <a href="https://www.facebook.com/groups/KaohsiungHPX" target="_blank" rel="external">高雄 HPX 讀書會</a> 開的「<a href="https://www.books.com.tw/products/0010688764" target="_blank" rel="external">打開大家的 Evernote 筆記本：50位職人x 50種思考x 50個活用，為什麼這樣做筆記可以解決80%的工作問題</a>」書聚讓我有個機會可以用不同的面向來看這個軟體，這本書不是新書，但是非常多的觀念與思考流程還是適用於每個人的，這邊不會討論這本書的內容，我僅列出幾個本書想要強調給大家。</p>
+<ol>
+<li>記下所有的事情，把他當作是一個大大的 bucket 全部都丟進去就好，當你有需要的時候你就會找的到資料。</li>
+<li>善用他的搜尋功能，這個也是 Evernote 最強的功能，不管是筆記內容、檔案內容、圖片內容搜尋等，都是相當的方便的，總可以讓你再需要的時候找到資料。</li>
+<li>雖然他是一個筆記軟體，但他也可以做到 GTD 管理的功效，也可以透過「記事連結」這個功能將筆記與代辦事項串連起來。</li>
+<li>分享職人如何使用 Evernote 。</li>
+</ol>
+<p>當然本書的內容不僅僅是這四項，每個人解讀可能會有些不同就歡迎有興趣的朋友也可以去嘗試借閱 / 購買來看。</p>
+<h3 id="如何將-Evernote-應用於我的生活"><a href="#如何將-Evernote-應用於我的生活" class="headerlink" title="如何將 Evernote 應用於我的生活"></a>如何將 Evernote 應用於我的生活</h3><ol>
+<li>Slack integration （快速擷取每些日子的對話文章存到 Evernote ，對於使用免費版 slack 的人來說是一大福音）</li>
+<li>XMind 可以將所畫的心智圖，存進 Evernote 中，方便進行關鍵字搜尋與回想</li>
+<li>透過 Evernote 完成 135 代辦事項<a href="https://www.playpcesor.com/2016/08/1-3-5-to-do-list.html" target="_blank" rel="external">Ref: [[時間技客-1] 做得到的每日待辦清單：1-3-5 專注法則</a>]</li>
+<li>透過 RSS 軟體閱讀文章，整理心得存入 Evernote 進行保存</li>
+<li>透過網友開發的 <a href="https://itunes.apple.com/tw/app/evertool-markdown-evernote/id1396383432?mt=12&amp;ign-mpt=uo%3D4" target="_blank" rel="external">Plugin</a> 來將 Markdown 語法討用上 syntax style</li>
+</ol>
+<p><img src="https://www.dropbox.com/s/x0ux0rnoiee5pko/%E6%88%91%E7%9A%84%E9%96%B1%E8%AE%80%E5%BF%83%E6%B5%81.png?dl=1" alt="image"></p>
+<blockquote>
+<p>分享我的閱讀心流</p>
+</blockquote>
+<h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h3><p>其實 Evernote 的核心價值還是存在，並沒有因為產品時代的不同而影響這個產品的核心價值，只是可能沒有支援那接 Nice to Have 的 feature ，或許可以想想那些他能夠帶給你與解決問題的角度來欣賞這個軟體而非否定他，當然在此不是要大家使用 Evernote ，只是覺得 Evernote 對我來說還是非常不錯的，工具還是要看自己的使用習慣，要用順手的工具比較重要，也歡迎大家可以分享你覺得哪些工具很棒。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 心得分享 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Evernote </tag>
+            
+            <tag> GTD </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[MOPCON 2017 心得文]]></title>
+      <url>http://hashman.tw/2017/10/31/MOPCON-2017-%E5%BF%83%E5%BE%97%E6%96%87/</url>
+      <content type="html"><![CDATA[<p>MOPCON 2017 結束了</p>
+<p>算一算也參加 2 年半了，從 2015 年因緣際會下能了解了南部的社群與研討會而加入 MOPCON 當時從行政組組員到場務組副組長，到 2016 年變成場務組長到現在變成總召，我想這個速度比火箭發射還要快速。</p>
+<a id="more"></a>
+<p>於今年春酒確定需要加下總召一職的時候心理的感覺其實相當的複雜，不知道自己有沒有能力去扛下這個重擔，畢竟從跑 Conf 到現在都是以場務為主，技能樹還沒點到財務管理、法人操作、公關行銷、商業禮儀贊助等等，對我來說這些東西還需要花好多好多的時間慢慢的學習與累積經驗，但最後也決定了，就邊學邊做吧，感謝 Eric 與 Miki 在我需要幫忙的時候給了我很多的建議。</p>
+<p>今年的外場活動也是突破天際，不管是<a href="https://www.slideshare.net/Hashman_Lin/ss-80728526" target="_blank" rel="external">成大的 Talk</a> 、<a href="https://www.slideshare.net/Hashman_Lin/tdoh-2017" target="_blank" rel="external">TDOH 2017</a> 的 Talk 等等，也都突破我自己往年的演講經驗，也希望未來可以有更多的機會可以對學校或是社群解說讓讓大家可以看到 MOPCON。</p>
+<p><img src="/images/20171031/2.jpg" alt="MOPCON 2017 Opening"></p>
+<p>這半年來每天開會已經是家常便飯，只希望能夠有更好的活動可以呈現給大家，謝謝這段日子陪著我一起努力的人，也非常感謝這段時間一直支持著我的人，謝謝你們。</p>
+<p>今年想要做的事情很多，也成功的慢慢推向到國際化的第一步，除了重視國外與會者的使用者體驗之外，也希望能夠讓更多人看見 MOPCON ，也感謝各組的 Carry 讓我們達成了第一步。</p>
+<p><img src="/images/20171031/3.jpg" alt="MOPCON 2017 Booth"></p>
+<p>還有幾個目標需要持續努力</p>
+<ol>
+<li>讓更多的人可以知道什麼是 MOPCON</li>
+<li>讓南部的資訊圈與資訊產業更為活絡</li>
+<li>不斷的有心血加入，達到永續經營</li>
+<li>持續走向國際化</li>
+</ol>
+<p>當然這次活動不外乎還是要感謝很多人</p>
+<p>感謝 dada 幫我接下這個擔子，場務的個坑不好接，很多很雜亂的事情需要處理，跨組討論問題也是相當的繁多，在我接下總召之時還願意接下來真的是滿心的感謝。</p>
+<p>感謝 Martian 與培智協助處理議程組大大小小的事情，也感謝這次對於外籍講者的接待相當恰當。</p>
+<p>感謝 Ofa 與 Chloe 兩位 Carry 起整個贊助的狀況，也配合和了很多贊助商大大小小的需求，各個千奇百怪的需求不斷來，還得不斷的跟廠商進行溝通與配合。</p>
+<p>感謝 Chuck 與富棋兩位帶領著組員協助將所有會場的過程記錄的漂亮又完整，不管是攝影品質、直播與聯播品質都是相當的棒的。</p>
+<p>感謝宛儀在今年公關業務龐大的一年撐起來整個 MOPCON 的形象與公關活動，今年的活動真的太多了，從往年的 2 場活動到今年增到 4 場，對外演講的數量也增加了不少，真的是很辛苦你了。</p>
+<p>感謝 Martian 與培智兩位協助打理講師議程狀況，今年的 UnConference 與 Lightning Talk 成效相當的好，辛苦你們了。</p>
+<p>感謝哲岳與資訊組協助配合這次的官網調整達到全雙語與 APP 的支援，需求不斷的變動下還是很感謝你們的全力配合。</p>
+<p>感謝采旻這次帶領美術組產出許多精美漂亮的設計作品與產品，也謝謝你們的擔待配合各組狀況而 Delay 你們的預定時程，還可以好好的跟大家溝通真的是謝謝你們了。</p>
+<p>感謝線路組與樹德科技大學的付出，這次的網路品質明顯提高了，場佈爬上爬下的真的是辛苦各位組員們了，也謝謝你 們六年來的幫忙與付出。</p>
+<p>感謝 Chita 姊協助我這邊配合很多協會與 MOPCON 之間的行政事務，合約也是看到眼花了。</p>
+<p>感謝允文、球魚、阿空三位抽出了許多時間配合我這邊進行行政的相關事務，感謝你們的幫忙。</p>
+<p>當然還有很多很多的人員我沒有辦法一一列出，自己曾經也身為場務組組長，可以體會佈置場地上面的困難與辛苦，也很感謝這些志工的無私奉獻，再此致上最真誠的感謝。</p>
+<p>今年小弟第一次擔任總召一職，可能還有許許多多的事情還有很多的改進空間，還請各位組長、組員們與與會者多多擔待，若有任何建議與 Feedback 還請大家可以幫忙填寫回饋問卷，謝謝大家，我們明年見。</p>
+<ul>
+<li><a href="https://mopcon.org/2017/feedback.php" target="_blank" rel="external">MOPCON 2017 會後問卷</a></li>
+<li><a href="https://youtu.be/tOhTboagvBE?list=PL0ny0trU2gnBou1H_FWfQvky8pyS7kgPT" target="_blank" rel="external">MOPCON 2017 閉幕影片</a></li>
+<li><a href="https://fb.me/mopcon" target="_blank" rel="external">MOPCON 粉絲專頁</a></li>
+<li><a href="https://mopcon.org" target="_blank" rel="external">MOPCON 官方網站</a></li>
+</ul>
+<p>MOPCON 2017 總召集人 Hash 敬上</p>
+<p><img src="/images/20171031/4.jpg" alt="MOPCON 2017 Closing"></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 心得分享 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> MOPCON </tag>
+            
+            <tag> Conf </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[HITCON CMT 2017 x MOPCON 社群攤位]]></title>
+      <url>http://hashman.tw/2017/08/27/HITCON-CMT-2017-x-MOPCON-%E7%A4%BE%E7%BE%A4%E6%94%A4%E4%BD%8D/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>HITCON CMT 2017 簡稱 HITCON<br>Mobile Open Platform Conference 簡稱 MOPCON</p>
+</blockquote>
+<ul>
+<li>HITCON (Hacks In Taiwan Conference)<ul>
+<li>粉專：<a href="https://fb.me/HITCON" target="_blank" rel="external">https://fb.me/HITCON</a></li>
+<li>Twitter: <a href="https://twitter.com/HITCON_Taiwan" target="_blank" rel="external">https://twitter.com/HITCON_Taiwan</a></li>
+<li>官方網站：<a href="https://hitcon.org/2017/CMT/" target="_blank" rel="external">https://hitcon.org/2017/CMT/</a></li>
+</ul>
+</li>
+<li>MOPCON (Mobile Open Platform Conference)<ul>
+<li>粉專：<a href="https://fb.me/mopcon" target="_blank" rel="external">https://fb.me/mopcon</a></li>
+<li>Twitter: <a href="https://twitter.com/mopcon" target="_blank" rel="external">https://twitter.com/mopcon</a></li>
+<li>官方網站：<a href="https://mopcon.org/2017/" target="_blank" rel="external">https://mopcon.org/2017/</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>這次來到 HITCON 有種很不一樣的感覺，代表著兩個不同身份來到這裡。</p>
+<a id="more"></a>
+<p><img src="/images/20170827/IMG_8478.JPG" alt="HITCON CMT 2017 Badge"></p>
+<h3 id="我"><a href="#我" class="headerlink" title="我"></a>我</h3><p>已經 3.4 年沒有參加 HITCON 了，重回這個研討會對我來說真的是充電並且與許多各方強者好友聚聚聊聊的好地方，距離上次到現在從學生到已在職場工作 2 年的工程師，希望可以再這場會議中尋找 KKBOX 在研發與管理中可能會遇到的資安風險與管理存在問題。</p>
+<h3 id="MOPCON"><a href="#MOPCON" class="headerlink" title="MOPCON"></a>MOPCON</h3><p>第一次帶領著 MOPCON 踏入專精資安的研討會進行交流、宣傳與學習，非常感謝 HITCON 給了我們這個機會可以參與這場盛會。</p>
+<p>13 ， HITCON 13 年了， 總召 allenown 說：「 13 這個數字剛好是一個小學生讀書讀到大學畢業的時間，述說著 HITCON 培育著小小資安人才從小萌芽成長茁壯到今年的成就」。</p>
+<h2 id="學習與衝擊"><a href="#學習與衝擊" class="headerlink" title="學習與衝擊"></a>學習與衝擊</h2><h3 id="HITCON-本年特色"><a href="#HITCON-本年特色" class="headerlink" title="HITCON 本年特色"></a>HITCON 本年特色</h3><ul>
+<li>與聯發科合作非常新潮的電子 Badge<ul>
+<li>獲得方式：<ul>
+<li>需購買「尊榮一般票 ($3,500)」或「尊榮學生票 ($2,000)」才可以獲得。</li>
+</ul>
+</li>
+<li>Badge 特色：<ul>
+<li>依照 BLE(Bluetooth Low Energy) 的信號抓取神奇寶貝（HITCON GO）並且獲得相對應的 key。</li>
+<li>貪食蛇。</li>
+</ul>
+</li>
+<li>也聽幾位好友提到這個 Badge 的不良率其實蠻高的，另外是研發先關的功能，人力成本投入也是相當的驚人。</li>
+</ul>
+</li>
+<li>Mini Wargame<ul>
+<li>Wargame 一直以來都是 HITCON 的傳統，自從 2014 年 <a href="http://www.ithome.com.tw/news/102969" target="_blank" rel="external">Capture The Flag, CTF</a> 正夯，將 HITCON 的 Wargame 轉為 CTF 競賽， HITCON 今年希望可以將 Wargame 重返 HITCON。</li>
+</ul>
+</li>
+<li>講師陣容<ul>
+<li>HITCON 每年的講師陣容都是非常的堅強，今年也不例外的近乎一半已上都是外國講師或全英語議程，當然現場也提供了即時同步口譯的平台工會場的大家進行使用，但需要自行攜帶耳機與電腦。</li>
+</ul>
+</li>
+<li><a href="https://zeroday.hitcon.org/" target="_blank" rel="external">ZeroDay 漏洞通報平台</a><ul>
+<li>希望持續提升台灣企業資安水準，也希望更多的白帽駭客可以參與這個漏洞通報的一環，提升企業與個人資安水平。</li>
+</ul>
+</li>
+</ul>
+<h3 id="對於自己的衝擊"><a href="#對於自己的衝擊" class="headerlink" title="對於自己的衝擊"></a>對於自己的衝擊</h3><p>來到 HITCON 就是一個網友大拜拜的感覺，見了許多朋友，也看到許多朋友在資安圈上的貢獻與努力持續成長茁壯，回想起大學時期跟著一些朋友學習著資安，而開始寫起程式 <del>怎麼感覺是反過來的</del> ，到大學後期慢慢轉網 Web 的路程走下去，除了常見的 Web Security 會去關注，但其他的資安議題也漸漸放下了，出了社會成了前端工程師到現在來到 KK 為全端工程師，這個路程離著資安也漸行漸遠，參加完 HITCON 希望可以找回自己對於資安的那塊熱情與初衷。</p>
+<h3 id="對於-MOPCON-的學習"><a href="#對於-MOPCON-的學習" class="headerlink" title="對於 MOPCON 的學習"></a>對於 MOPCON 的學習</h3><p>MOPCON 第一次參與 HITCON 這個盛會，除了讓很多 MOPCON 的工作人員第一次見識到全台灣「網路」最不安全的研討會 xDD ，也看到不一樣類型的會眾與廠商，讓 MOPCON 有非常多的機會可以跟這些會眾好好交流與曝光，再次非常感謝 HITCON 給了我們這個機會。</p>
+<p><img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/21077671_1292268214232225_259284674214999562_n.jpg?oh=0a281850e58133531e62f0ff29120331&amp;oe=5A1F64AF" alt="MOPCON @ HITCON CMT 擺攤"></p>
+<blockquote>
+<p>MOPCON 2017 社群攤位 at HITCON CMT 2017</p>
+</blockquote>
+<p><img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/21105976_1293220080803705_820739265144906295_n.jpg?oh=e526a387e3cc78dd1f4f7e2e414c87ec&amp;oe=5A28E631" alt="MOPCON @ HITCON CMT Lighting Talk 1"><br><img src="https://www.dropbox.com/s/88388cut14gnhy4/Hash%20at%20hitcon.png?dl=1" alt="MOPCON @ HITCON CMT Lighting Talk 1"></p>
+<blockquote>
+<p>MOPCON 2017 Lighting Talk at HITCON CMT 2017</p>
+</blockquote>
+<h3 id="台灣駭客協會-x-chrO-ot"><a href="#台灣駭客協會-x-chrO-ot" class="headerlink" title="台灣駭客協會 x chrO.ot"></a>台灣駭客協會 x chrO.ot</h3><p>來到 HITCON 其實可以非常明顯的感受到台灣駭客協會對於台灣政府、企業、個人與 NGO 的影響與改變，希望可以提升基本資安觀念與教育，像是透過 Zeroday 漏洞通報平台，嘗試將企業、政府或是學術單位的漏洞透過台灣駭客協會、 <a href="https://www.twcert.org.tw/" target="_blank" rel="external">TWCERT/CC</a> 與 <a href="http://tacert.tanet.edu.tw/prog/aboutus.php" target="_blank" rel="external">TACERT</a> ，讓通報者與政府學術單位等通報流程更為順利順暢。</p>
+<p>也有像是 Civil Society Cyber Shield(CSCS) 資安工作坊，希望可以增加人權倡議者等 NGO 團體，提升他們的資訊安全素質，這些都是近年來台灣的變化。</p>
+<p>或許 5 年成長了一點， 10 年成長了一點， 15 年也成長了一點，但回頭看這 10 幾年的時光，其實台灣資安重視狀況是有進步的，很感謝台灣駭客協會的貢獻與努力。</p>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
+<li><a href="https://hackmd.io/KbCMGYBYBME4CYC0wDG4BsjIAZzUQIawCswi4w0k84pA7NvHUA==" target="_blank" rel="external">HITCON 2017 CMT 議程共筆</a></li>
+<li><a href="http://www.chroot.org/" target="_blank" rel="external">chrO.ot</a></li>
+<li><a href="https://ocf.neticrm.tw/civicrm/mailing/view?reset=1&amp;id=56" target="_blank" rel="external">OCF 2017/6 電子報</a></li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 心得分享 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> MOPCON </tag>
+            
+            <tag> Conference </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day3]]></title>
+      <url>http://hashman.tw/2017/01/22/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day3/</url>
+      <content type="html"><![CDATA[<h2 id="前兩週課程回顧"><a href="#前兩週課程回顧" class="headerlink" title="前兩週課程回顧"></a>前兩週課程回顧</h2><blockquote>
+<p>詳細的課程心得可以參考</p>
+<ul>
+<li><a href="http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</a></li>
+<li><a href="http://hashman.tw/2017/01/15/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day2/">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2</a></li>
+</ul>
+</blockquote>
+<p>上週提到了如何透過 Selenium 與 Unit Test 來進行前後搭配完整測試，透過 Unit Test 來進行最小單元測試，確保「<strong>程式照我們預期進行</strong>」，透過 E2E Testing 「<strong>確保程式可以照使用者期望執行</strong>」，透過兩者同時對 Legacy Code 進行完整測試，還有什麼比這個更能放心的去 Refactor Legacy Code 呢？</p>
+<a id="more"></a>
+<h2 id="本週課程重點"><a href="#本週課程重點" class="headerlink" title="本週課程重點"></a>本週課程重點</h2><p>本週課程將學習透過 BDD 來描述使用者需求，透過人的話語來描述測試案例，讓 <a href="https://en.wikipedia.org/wiki/Scrum_(software_development" target="_blank" rel="external">PO</a> 與 <a href="https://en.wikipedia.org/wiki/Research_Development" target="_blank" rel="external">RD</a> 間的 GAP 縮小，那什麼是透過人的話與來描述測試案例呢？</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">Feature: PotterShoppingCart</div><div class="line">  In order to 提供最便宜的價格給來買書的爸爸媽媽</div><div class="line">  <span class="keyword">As</span> a 佛心的出版社老闆</div><div class="line">  I want to 設計一個哈利波特的購物車</div><div class="line"></div><div class="line">  Scenario: 第一集買了一本，其他都沒買，價格應為<span class="number">100</span>*<span class="number">1</span>=<span class="number">100</span>元</div><div class="line">    Given 第一集買了 <span class="number">1</span> 本</div><div class="line">    <span class="keyword">And</span> 第二集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第三集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第四集買了 <span class="number">0</span> 本</div><div class="line">    <span class="keyword">And</span> 第五集買了 <span class="number">0</span> 本</div><div class="line">    When 結帳</div><div class="line">    Then 價格應為 <span class="number">100</span> 元</div></pre></td></tr></table></figure>
+<p>看完是否相當的直覺呢，我相信不是工程師也可以相當容易理解情境所要描述的測試案例。透過 BDD 除了可以提昇與 PO 溝通的效率，也可以自動產生 Document 與 Report 相當的方便。</p>
+<h2 id="如何透過-PHP-進行-BDD-測試"><a href="#如何透過-PHP-進行-BDD-測試" class="headerlink" title="如何透過 PHP 進行 BDD 測試"></a>如何透過 PHP 進行 BDD 測試</h2><p>以下簡單的介紹如何將 feature 轉為可以測試的 PHP 程式碼， PHP 有兩套可以實踐 BDD:</p>
+<ul>
+<li><a href="https://github.com/Behat/Behat" target="_blank" rel="external">Behat</a></li>
+<li><a href="https://github.com/phpspec/phpspec" target="_blank" rel="external">PHPSpec</a></li>
+</ul>
+<p>以下會使用 Behat 進行範例解釋。</p>
+<p>首先直接在 Scenario 那邊直接使用 <code>[alt + Enter]</code> 並且點選 <code>Create all steps definition</code> 建立 Feature Context ，如下圖。</p>
+<p><img src="/images/20170122/1.png" alt=""></p>
+<p>預設會將 Feature Context 建置在 <code>features/bootstrap</code> 裡面，即會發現他已經針對每個動作建立了相對應的 method ，如下。</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;?php</span></div><div class="line"><span class="keyword">use</span> <span class="title">Behat</span>\<span class="title">Behat</span>\<span class="title">Context</span>\<span class="title">Context</span>;</div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">FeatureContext</span> <span class="keyword">implements</span> <span class="title">Context</span></span></div><div class="line"><span class="class"></span>&#123;</div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第一集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第一集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第二集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第二集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第三集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第三集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第四集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第四集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第五集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第五集買了本<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@When</span> /^結帳$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 結帳<span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Then</span> /^價格應為 (\d+) 元$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 價格應為元<span class="params">($arg1)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">throw</span> <span class="keyword">new</span> \Behat\Behat\Tester\<span class="keyword">Exception</span>\PendingException();</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>接下來只需要將相對應 method 的行為修改一下，即可進行 BDD Testing 囉。</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;?php</span></div><div class="line"><span class="keyword">use</span> <span class="title">App</span>\<span class="title">PotterShoppingCart</span>;</div><div class="line"><span class="keyword">use</span> <span class="title">Behat</span>\<span class="title">Behat</span>\<span class="title">Context</span>\<span class="title">Context</span>;</div><div class="line"><span class="keyword">use</span> <span class="title">PHPUnit_Framework_Assert</span> <span class="title">as</span> <span class="title">PHPUnit</span>;</div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">FeatureContext</span> <span class="keyword">implements</span> <span class="title">Context</span></span></div><div class="line"><span class="class"></span>&#123;</div><div class="line">    <span class="keyword">private</span> $potterShoppingCart;</div><div class="line">    <span class="keyword">private</span> $total_price;</div><div class="line"></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> <span class="title">__construct</span><span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart = <span class="keyword">new</span> PotterShoppingCart();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第一集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第一集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">1</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第二集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第二集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">2</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第三集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第三集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">3</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第四集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第四集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">4</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Given</span> /^第五集買了 (\d+) 本$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> int $number</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 第五集買了本<span class="params">(int $number)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;addBook(<span class="number">5</span>, $number);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@When</span> /^結帳$/</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 結帳<span class="params">()</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        <span class="keyword">$this</span>-&gt;total_price = <span class="keyword">$this</span>-&gt;potterShoppingCart-&gt;getPrice();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">/**</span></div><div class="line"><span class="comment">     * <span class="doctag">@Then</span> /^價格應為 (\d+) 元$/</span></div><div class="line"><span class="comment">     * <span class="doctag">@param</span> $expected</span></div><div class="line"><span class="comment">     */</span></div><div class="line">    <span class="keyword">public</span> <span class="function"><span class="keyword">function</span> 價格應為元<span class="params">($expected)</span></span></div><div class="line"><span class="function">    </span>&#123;</div><div class="line">        PHPUnit::assertEquals($expected, <span class="keyword">$this</span>-&gt;total_price);</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>修改完成後執行測試。</p>
+<p><img src="/images/20170122/2.png" alt=""></p>
+<p>一樣會有紅綠燈可以查看，但還沒結束唷，還可以透過 BDD 來產生文件，在這邊我使用了 「<a href="https://github.com/dutchiexl/BehatHtmlFormatterPlugin" target="_blank" rel="external"><strong>BehatHtmlFormatterPlugin</strong></a>」這個套件來產生漂亮的 HTML 文件。</p>
+<p>安裝完成之後先於根目錄中增加 <code>behat.yml</code> ，範例如下：</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># behat.yml</span></div><div class="line"><span class="attr">default:</span></div><div class="line"><span class="attr">  formatters:</span></div><div class="line"><span class="attr">    html:</span></div><div class="line"><span class="attr">      output_path:</span> <span class="string">%paths.base%/build/html/behat</span></div><div class="line"></div><div class="line"><span class="attr">  extensions:</span></div><div class="line">    <span class="string">emuse\BehatHTMLFormatter\BehatHTMLFormatterExtension:</span></div><div class="line"><span class="attr">      name:</span> <span class="string">html</span></div><div class="line"><span class="attr">      renderer:</span> <span class="string">Twig,Behat2</span></div><div class="line"><span class="attr">      file_name:</span> <span class="string">index</span></div><div class="line"><span class="attr">      print_args:</span> <span class="literal">true</span></div><div class="line"><span class="attr">      print_outp:</span> <span class="literal">true</span></div><div class="line"><span class="attr">      loop_break:</span> <span class="literal">true</span></div></pre></td></tr></table></figure>
+<p>直接執行下列指令。</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="meta">$</span><span class="bash"> ./vendor/bin/behat --format html</span></div></pre></td></tr></table></figure>
+<p>即可於 <code>build/html/behat/</code> 資料夾中看到已經 build 好的 html 網頁。</p>
+<p><img src="/images/20170122/3.png" alt=""></p>
+<p><img src="/images/20170122/4.png" alt=""></p>
+<p>看到這邊，是不是覺得既簡單又好使用呢？</p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>上完課程後對於 TDD 與 BDD 不管是觀念還是實戰演練都有了更深刻的體會，老師上課透過完整的 Lab 題目讓大家有非常非常多的情境可以進行練習，就連我這個沒有在寫 C# 且沒有用過 Visual Studio 的工程師來說，要跟上老師的課程也是蠻 OK 的，由於老師上課分享的內容實在太豐富了，於本 Blog 中僅能擷取一些重點進行分享，扎實的課程與實戰體驗就是在課程上課已學到的，如果大家尚未使用 TDD 進行開發或是已經有在使用但不是很瞭解或不知該如何導入專案中，相當推薦大家可以來上「<a href="https://skilltree.my/events/7aahq" target="_blank" rel="external">自動測試與 TDD 實務開發</a>」Joey ( 91 哥 ) 的課程，詳細請 Follow <a href="https://skilltree.my/" target="_blank" rel="external">SkillTree</a>，也感謝 91 哥這三天來的指導與分享，真的獲益良多。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 心得分享 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> TDD </tag>
+            
+            <tag> SkillTree </tag>
+            
+            <tag> 測試 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day2]]></title>
+      <url>http://hashman.tw/2017/01/15/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day2/</url>
+      <content type="html"><![CDATA[<h2 id="上週課程回顧"><a href="#上週課程回顧" class="headerlink" title="上週課程回顧"></a>上週課程回顧</h2><blockquote>
+<p>詳細的上週課程心得可以參考「<a href="http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/">自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1</a>」。</p>
+</blockquote>
+<p>上週課程提到，什麼是 Unit Test ，好的單元測試需要吻合 F.I.R.S.T 原則，如何針對單一功能撰寫單元測試，了解開發流程與方式，了解業務單位需求撰寫需求文件與單元測試，針對單元程式建構出來的程式架構完成 Production Code 相關邏輯。</p>
+<a id="more"></a>
+<p>有了單元測試，就算需求來了想要調整 Production Code 都不用怕，因為有了單元測試，單元測試會告訴開發者，程式是否還是可以正常的運作<strong>（綠燈）</strong>，如果為<strong>紅燈</strong>就知道有功能被改壞了，可以「即時」發現問題並且進行修正。</p>
+<p>透過 Code Coverage 可以了解我們的單元測試的完整度，是否有遺漏的測試案例。</p>
+<h2 id="本週課前提要"><a href="#本週課前提要" class="headerlink" title="本週課前提要"></a>本週課前提要</h2><p>上週學習了 Unit Test 但可能還是無法直接套用到正在進行中的專案，因為專案上可能都是滿滿的 Legacy Code ，無法針對 Legacy Code 進行測試，需求不斷的來招架不住該怎麼辦？我想今天的課程就是重點了，透過 E2E Testing 、 Unit Test 與 Refactor 來教你，「如何安安心心 Refactor Legacy Code 還可以完成業務單位新需求」。</p>
+<p>該還的技術債還是要還，如果只是在 Legacy Code 上疊床架屋， Code 只會越來越亂， Bug 只會越來越多，只會讓後面維護的工程師越來越不懂這個系統的原貌，趁早治療才是明智之舉，千萬不要放棄治療。</p>
+<h2 id="本週課程前的小故事"><a href="#本週課程前的小故事" class="headerlink" title="本週課程前的小故事"></a>本週課程前的小故事</h2><p>老闆：「Hash，今天有個客戶跟我說他想要在我們的購物車上面加上可以自動進行折扣的功能，明天可以完成嗎？」</p>
+<p>Hash：「痾…. (Hash的內心話：雖說只是加幾行 Code 就可以搞定，但… 會不會改壞其他東西阿)」</p>
+<p>老闆：「怎樣？」</p>
+<p>Hash（心虛的說）：「好…」</p>
+<h2 id="本週課程重點"><a href="#本週課程重點" class="headerlink" title="本週課程重點"></a>本週課程重點</h2><ul>
+<li>TDD</li>
+<li>End-To-End Testing</li>
+<li>Refactor</li>
+</ul>
+<h3 id="End-To-End-Testing"><a href="#End-To-End-Testing" class="headerlink" title="End-To-End Testing"></a>End-To-End Testing</h3><p>課程中透過 Selenium 來指導學員如何透過他來對網頁進行 E2E Testing ， Selenum 除了可以直接針對網站進行測試外還可以匯出 C# 測試原始碼直接無痛整合進行 Visual Studio ，讓 E2E Testing 與 UnitTest 一起來，進而達到完整測試。</p>
+<blockquote>
+<p>上課採雷心得分享： Firefox 的 Selenium 再 Firefox v46.1 之後的版本有 Bug 。</p>
+</blockquote>
+<h3 id="Refactor"><a href="#Refactor" class="headerlink" title="Refactor"></a>Refactor</h3><p>終於來到本週最為精采的「如何針對 Legacy Code 進行 Refactor」，結合網頁測試與單元測試來達成我們的目的 <strong>Refactor</strong> 。</p>
+<p>當我們有了 E2E Testing 可以針對特定功能撰寫網頁測試案例，以使用者為出發點操作系統功能，記錄使用者的行為與預期結果。</p>
+<p>當我們有了單元測試，針對最小的功能進行測試，預期這些功能方法的行為與其回傳值。</p>
+<p>有了他們，修改程式後馬上進行完整 Unit Test 修改程式碼的方法後是否還吻合我們的測試案例預期行為，若為綠燈，則接著進行 E2E Testing 測試是否使用者還可以如預期的操作系統功能，修改程式碼超安心，一點都不擔心會不會改壞程式碼，還有什麼比這個還要更棒的呢？</p>
+<blockquote>
+<p>91 哥補充：重構過程中千萬不可增加新功能，一次只做一件事情，重構完成 -&gt; 綠燈 -&gt; 增加新功能</p>
+</blockquote>
+<h2 id="本週課程後的小故事"><a href="#本週課程後的小故事" class="headerlink" title="本週課程後的小故事"></a>本週課程後的小故事</h2><blockquote>
+<p>同上一樣的故事內容</p>
+</blockquote>
+<p>老闆：「Hash，今天有個客戶跟我說他想要在我們的購物車上面加上可以自動進行折扣的功能，明天可以完成嗎？」</p>
+<p>Hash（心理想著）：「有了 91 哥教我們的測試方法，我想花個一天把相關 Legacy Code Refactor 一下，半天完成老闆功能，沒問題！！」</p>
+<p>Hash（有自信的說）：「好老闆，明天下午給你！」</p>
+<p>老闆：「太好了，謝謝你的幫忙」</p>
+<blockquote>
+<p>其實一樣的故事內容課前與課後Hash的回答的方式是完完全全不一樣的，就算今天要花時間整理 Legacy Code 而無法如期交出功能，也可以跟老闆提出需要進行程式碼重構進而提升系統穩定度，我想老闆的接受度也是高些的。</p>
+</blockquote>
+<h2 id="本週課程心得"><a href="#本週課程心得" class="headerlink" title="本週課程心得"></a>本週課程心得</h2><p>就如同小故事告訴我們的，透過完整的測試流程與方法，可以讓工程師們在修改程式上更為有自信且更為安心，其實只要隨手 Refactor 一隻 Method 與補上幾隻測試程式，就可以達到讓整個專案穩定度提升。</p>
+<p>《Clean Code》 文中提到，童子軍原則：「離開營地前，讓營地使用前更加乾淨」，同樣的原則也可以透用在軟體開發上，程式碼在 Commit 前只要可以讓 Code Coverage 提昇些，讓程式碼看起來更整齊乾淨就是進步。</p>
+<h2 id="課程中相關學習資源"><a href="#課程中相關學習資源" class="headerlink" title="課程中相關學習資源"></a>課程中相關學習資源</h2><ul>
+<li><a href="https://www.amazon.cn/%E9%AB%98%E6%95%88%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E4%BF%AE%E7%82%BC-%E9%98%BF%E7%89%B9%E4%BC%8D%E5%BE%B7/dp/B00DXZFZPO/" target="_blank" rel="external">高效能程序员的修炼</a></li>
+<li><a href="http://www.growing-object-oriented-software.com/" target="_blank" rel="external">Growing Object-Oriented Software(GOOS)</a></li>
+<li><a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00MBQMFLI/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1449822496&amp;sr=1-1" target="_blank" rel="external">单元测试的艺术(第2版)</a></li>
+<li><a href="https://www.cwbook.com.tw/product/ProductAction.shtml?prodId=0000016780" target="_blank" rel="external">在TOYOTA學到的，只要「紙1張」的整理技術 － 彙整資訊、整理思緒、清楚溝通的技巧</a></li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 心得分享 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> TDD </tag>
+            
+            <tag> SkillTree </tag>
+            
+            <tag> 測試 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hexo 採雷大小事]]></title>
+      <url>http://hashman.tw/2017/01/11/Hexo-%E6%8E%A1%E9%9B%B7%E5%A4%A7%E5%B0%8F%E4%BA%8B/</url>
+      <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在使用 Hexo 的過程中，總是會遇到官方文件沒有寫的很詳細、不知道該如何使用或是有問題的功能，這邊把我有遇到的採雷狀況記錄在這邊。</p>
+<a id="more"></a>
+<h3 id="GitHub-page-custom-domain-會跑掉"><a href="#GitHub-page-custom-domain-會跑掉" class="headerlink" title="GitHub page custom domain 會跑掉"></a>GitHub page custom domain 會跑掉</h3><p>每當我重新 deploy 上去 github 後，custom domain 就會被清空，後來發現只要在 <code>source</code> 目錄下新增 <code>CNAME</code> 這個檔案，內容是您所希望的 URL 如 <code>hashman.tw</code> or <code>www.hashman.tw</code> ，神奇的事情發生了，真的就不會被清空了。</p>
+<h3 id="依照-hexo-next-上面的文件去進行-config-的設定，卻不-work"><a href="#依照-hexo-next-上面的文件去進行-config-的設定，卻不-work" class="headerlink" title="依照 hexo next 上面的文件去進行 config 的設定，卻不 work"></a>依照 hexo next 上面的文件去進行 config 的設定，卻不 work</h3><p>一開始直接都是更新根目錄上的 <code>_config.yml</code> 按著官方文件上面來操作，但 Blog 就是不會變更，最後發現原來是要修改 theme/next 中的 <code>_config.yml</code> 才是，修改後一切正常。</p>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
+<li><a href="https://hexo.io/zh-tw/docs/" target="_blank" rel="external">https://hexo.io/zh-tw/docs/</a></li>
+<li><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">http://theme-next.iissnan.com/getting-started.html</a></li>
+<li><a href="http://jr0cket.co.uk/hexo/generate-deploy-your-hexo-website.html" target="_blank" rel="external">http://jr0cket.co.uk/hexo/generate-deploy-your-hexo-website.html</a></li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[使用 Hexo + GitHub]]></title>
+      <url>http://hashman.tw/2017/01/10/%E4%BD%BF%E7%94%A8-Hexo-Github/</url>
+      <content type="html"><![CDATA[<h2 id="什麼是-Hexo"><a href="#什麼是-Hexo" class="headerlink" title="什麼是 Hexo"></a>什麼是 Hexo</h2><p>Hexo 是一套用 NodeJS 寫的 blog framework ，可以透過 hexo 的指令非常快速的建立文章，以下會有<a href="#Hexo-Command">簡易指令教學</a></p>
+<p>另外這有記錄我在使用 Hexo 時的採雷狀況與解決方法 - <a href="http://hashman.tw/2017/01/11/Hexo-%E6%8E%A1%E9%9B%B7%E5%A4%A7%E5%B0%8F%E4%BA%8B/">Hexo 採雷大小事</a></p>
+<a id="more"></a>
+<h2 id="什麼是-GitHub-Page"><a href="#什麼是-GitHub-Page" class="headerlink" title="什麼是 GitHub Page"></a>什麼是 GitHub Page</h2><p>GitHub Page 提供所有 GitHub 的用戶可以直接將靜態網頁直接放上 GitHub 中，即可直接於 <code>https://[account].github.io</code> 查看網頁內容的服務。</p>
+<h3 id="如何使用-GitHub-Page"><a href="#如何使用-GitHub-Page" class="headerlink" title="如何使用 GitHub Page"></a>如何使用 GitHub Page</h3><p>直接於自己的 GitHub 帳號直接建立一個 <code>[account].github.io</code> 的 Public Repo ，於 Repo 中上傳靜態網頁即可在 <code>https://[account].github.io</code> 上查看網頁。</p>
+<h2 id="為什麼想要使用-Hexo-GitHub"><a href="#為什麼想要使用-Hexo-GitHub" class="headerlink" title="為什麼想要使用 Hexo + GitHub"></a>為什麼想要使用 Hexo + GitHub</h2><ol>
+<li>Hexo 為 Open Source 軟體可以非常自由的依照自己的需求去調整 Source Code 。</li>
+<li>客製化的網址需求，雖說 LogDown 也可以，但… 需要付費才可以使用，其實還蠻貴的。</li>
+<li>GitHub Public Repository 無空間上限（嚴格來說不是無上限，請參考: <a href="https://help.github.com/articles/what-is-my-disk-quota/" target="_blank" rel="external">GitHub - What is my disk quota?</a>）。</li>
+<li>主機交給 GitHub 管，只需要單純的上 Code 就好不需要去架設與管理主機，相對穩定。</li>
+<li>多了個機會可以了解 GitHub Page 這個服務，詳細參考<a href="https://pages.github.com/" target="_blank" rel="external">這裡</a>。</li>
+<li>幫自己的 GitHub Contributions 多一點色彩，每更新一次 Blog 都會 deploy 到 GitHub 上，也就會增加自己的 Contributions 。</li>
+</ol>
+<h2 id="Hexo-Command"><a href="#Hexo-Command" class="headerlink" title="Hexo Command"></a>Hexo Command</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">// 第一次使用需要先 init hexo folder 與安裝套件</div><div class="line">$ hexo init &lt;folder&gt; // init hexo folder</div><div class="line">$ <span class="built_in">cd</span> &lt;folder&gt;</div><div class="line">$ npm install</div><div class="line"></div><div class="line">// 新增文章</div><div class="line">$ hexo new [layout] &lt;title&gt; // or hexo n [layout] &lt;title&gt;</div><div class="line">// layout 可以不要填寫</div><div class="line">// title 建議使用雙引號刮起來</div><div class="line"></div><div class="line">// 產生靜態檔</div><div class="line">$ hexo generate // or hexo g</div><div class="line"></div><div class="line">// 發表草稿，這個功能我蠻少用的</div><div class="line">$ hexo publish [layout] &lt;filename&gt;</div><div class="line"></div><div class="line">// 啟用 hexo 伺服器</div><div class="line">$ hexo server // or hexo s</div><div class="line"></div><div class="line">// Deploy 至 remote</div><div class="line">$ hexo deploy // or hexo d</div><div class="line"></div><div class="line">// 清除快取檔案</div><div class="line">$ hexo clean</div></pre></td></tr></table></figure>
+<h2 id="Hash-使用-Blog-的歷史"><a href="#Hash-使用-Blog-的歷史" class="headerlink" title="Hash 使用 Blog 的歷史"></a>Hash 使用 Blog 的歷史</h2><ul>
+<li>2011 年開始使用 <a href="https://coosos.blogspot.tw/" target="_blank" rel="external">Google Blogger</a></li>
+<li>2014 想學 <a href="https://zh.wikipedia.org/wiki/Markdown" target="_blank" rel="external">MarkDown</a> 語法所以轉往 <a href="http://hashman-blog.logdown.com/" target="_blank" rel="external">LogDown</a></li>
+<li>2017 將 Blog 轉到 <a href="http://hashman.tw">GitHub</a> 上經營</li>
+</ul>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ul>
+<li>更詳細的說明請參考 <a href="https://hexo.io/zh-tw/docs/index.html" target="_blank" rel="external">Hexo 中文官方網站</a></li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[自動測試與 TDD 實務開發（使用 C#） by 91 哥 Day1]]></title>
+      <url>http://hashman.tw/2017/01/08/%E8%87%AA%E5%8B%95%E6%B8%AC%E8%A9%A6%E8%88%87-TDD-%E5%AF%A6%E5%8B%99%E9%96%8B%E7%99%BC%EF%BC%88%E4%BD%BF%E7%94%A8-C-%EF%BC%89-by-91-%E5%93%A5-Day1/</url>
+      <content type="html"><![CDATA[<p>今天第一天上 91 哥的課，也是第一次，看到整間教室坐滿就知道 91 哥的名氣跟課程內容的豐富度一定很高，課程中的學員也有蠻多都是已經上過 91 哥課程的老學員又回來在聽的，隨著時間的增長，課程中的實務案例與經驗分享也更為豐富。</p>
+<h2 id="前景提要"><a href="#前景提要" class="headerlink" title="前景提要"></a>前景提要</h2><ul>
+<li>在 KKBOX 其實已經有一定的 Unit Test 與 CI 自動化的導入機制，所以其實在上這門課以前，我就已經有不少的測試開發經驗，雖說大部分都還是撰寫 Unit Test ，但對於 TDD 也是有一定的基礎在。</li>
+<li>91 哥上課使採用 C# 上課，上課前 91 哥都會提供相當仔細的課程環境建設，如果你本身有在寫 C# 那恭喜你在這邊應該是沒有任何問題的，但如果你是 Mac or 沒有寫過 C# 的開發者那 … 你應該在於建置環境上面需要多花點心力處理，以下提供幾個朋友實際安裝環境所會費的時間參考。<ul>
+<li>Mac + Virtual Box + Visual Studio(Full install) 在 <strong>SSD</strong> 上面跑約需要安裝 1.5 hr 。</li>
+<li>Mac + Virtual Box + Visual Studio(上課所需的內容) 在 <strong>SD</strong> 上面跑約需要安裝 2.5 hr 。</li>
+</ul>
+</li>
+<li>如果是用 C# 上課對於一個非 C# 的開發者會不會有困難呢？<ul>
+<li>以我的狀況，我是 PHP 的開發者，平常是使用 PHPStorm 進行開發，對於 IDE 並不陌生，但是面對號稱地表最強的 IDE Visual Studio 說真的還是需要花點時間去習慣。</li>
+<li>至於 Code 會不會看不懂？我個人是覺得不會，只是 C# 有些語法上面是需要去習慣一下的。</li>
+</ul>
+</li>
+<li>如果不是開發者像是 PM or Manager 去上這門課適合嗎？<ul>
+<li>因為 91 哥上課會有大量的 workshop 需要實際去寫 code 進行相關測試，設計觀念與寫 Code 的比例大約是 6:4 吧，我是覺得還是會有收穫的，但可能在於寫 Code 進行測試上面可能稍有些辛苦。</li>
+</ul>
+</li>
+</ul>
+<a id="more"></a>
+<h2 id="課程重點"><a href="#課程重點" class="headerlink" title="課程重點"></a>課程重點</h2><ol>
+<li>不是教你寫測試程式，而是教你開發跟設計</li>
+<li>如何透過測試同時達到測試方法與測試文件</li>
+<li>如何開發出更為穩定更為安心可以早早下班洗洗睡的 Code</li>
+</ol>
+<h2 id="有趣的上課方式"><a href="#有趣的上課方式" class="headerlink" title="有趣的上課方式"></a>有趣的上課方式</h2><ol>
+<li>生動活潑的上課方式<ul>
+<li>上課會採用分組活動來進行討論與分享。</li>
+<li>記點獎勵來激勵大家多多回答與發問。</li>
+<li>有問必達，可以於上課中隨時提出問題 91 哥都會耐心的解答，或是也可以利用備忘錄或是下課詢問的方式也可以獲得你要的答案 。</li>
+</ul>
+</li>
+<li>學習地圖與強調學習重點<ul>
+<li>上課一開始就將 TDD Skill Tree 整個展開給學員們看，非常明瞭三天的學習方向、學習步驟與關連。</li>
+<li>本次開始提供課前講義（填空版與答案版），填空版主要為複習使用，可以知道空格的地方都是上課的重點，答案版可以隨時尋找答案。</li>
+</ul>
+</li>
+<li>實戰演練<ul>
+<li>透過 Lab 的題目（原始題目、答案與步驟）進行操作，更可以針對不同的情境去撰寫自己的測試方法。</li>
+<li>透過老師提供的步驟說明，在自己回家後如果對於 Lab 有不清楚的時候可以翻開步驟一步一步的跟著進行操練。</li>
+</ul>
+</li>
+</ol>
+<h2 id="了解實務上所遇到的問題與其解法"><a href="#了解實務上所遇到的問題與其解法" class="headerlink" title="了解實務上所遇到的問題與其解法"></a>了解實務上所遇到的問題與其解法</h2><p>雖說 KKBOX 已經是一個已經有導入自動化測試開發的公司，但還是有需多的專案都是 <strong>0</strong> 測試的，如果將這些 0 測試的專案開始導入測試也是一個 Big Step 。</p>
+<p>在實務上面常常會遇到測試對象與外部服務相依的狀況，應該要將這些外部服務切斷進而達到測試的獨立性。</p>
+<p>常常也會遇到測試覺得複雜且不容易，也有可能說明了測試的對象並非為最小的測試單元或真的這個 Method 的業務邏輯相當複雜，進而可能需要進行 Refactor 或是確認需求等。</p>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>在上課前總是會覺得，測試真的很麻煩，寫測試會增加我們的開發時間，但上完第一週的課程後，我了解了掌握開發的技巧、方法與順序，了解開發的重點，其實會發現測試一點都不花時間，掌握問題並且解決問題，開發出更有信心且穩定的程式碼是我們該邁向的目標。</p>
+<p>期待未來兩週的課程。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 心得分享 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> TDD </tag>
+            
+            <tag> SkillTree </tag>
+            
+            <tag> 測試 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[MOPCON 2016 心得文]]></title>
+      <url>http://hashman.tw/2016/10/30/MOPCON-2016-%E5%BF%83%E5%BE%97%E6%96%87/</url>
+      <content type="html"><![CDATA[<p>MOPCON 2016 結束了</p>
+<p>講句坦白的，今年真的比去年還要有些不順利，不順利的原因是什麼？不是因為工作人員們，而是場地的狀況真的蠻多的（八卦就不多講了），靠著 MOPCON 的大家還是將這個活動圓滿的結束了，只能說這三天的成果真的是用汗水、喉嚨造就出來的。</p>
+<p>今年有蠻多議程我也想聽，但因為忙碌而也沒辦法聽了，只好回家上 <a href="https://www.youtube.com/channel/UCMyMchq3WLtN0DD9QE5gZww" target="_blank" rel="external">Youtube</a> 了 T_T</p>
+<a id="more"></a>
+<p>阿吉：感謝你這幾天的幫忙，我在處理一些場地事務無法分身的時候還有你協助帶領著大家完成各個大大小小的事情</p>
+<p>報到：Day1 要報到前十分鐘說網路不通，聽到這個魂都跑到美國去了，幸好報到前五分鐘回來了，彷彿我的靈魂繞了地球一圈，票種時間設定的有些問題，造成報到股的大家製造了不少麻煩</p>
+<p>餐飲：我想今年的點心應該是比歷年的點心都還來的有份量了，也是大家努力出來的成果。</p>
+<p>服務台：今年的告示牌真的是蠻漂亮的，除了亮晶晶之外 xD ，今年沒有聽到標示不清楚的反應，第一天有會眾提出不知道哪裡報到也在第二天出動了大聲公來解決這個問題，也辛苦大家與 「 Chita 姐姐」的幫忙。</p>
+<p>攤位：還是很感謝三位的幫忙，雖說第一天聽到寄了 8 箱包裹只來了 1 箱，我的臉都白了一半了，趕緊去 ICCK 確認，結果是….烏龍 xDDD</p>
+<p>門機：感謝各方研討會、學校與海青學弟的支持，我們也順利的達成了很多事情</p>
+<p>物流：今年達成了在 6 點前將所有物資整理完成並且離場，大家募集的物資也都有順利的物歸原主，也是你們的功勞，但…我還是不敢想像有幾十箱的包裹禮拜二在等著我….</p>
+<p>另外感謝各組組長的幫忙與機會，讓我學習到了不少東西</p>
+<p>感謝 miki 與 eric Day0 與 Day1 的協調，你們的喉嚨應該蠻痛的，第一次遇到研討會樓下是電音趴的 xDD，我想有參加的會眾應該都有感受到 4 層樓的震動了</p>
+<p>今年是 MOPCON 的第五年了，第一次接觸公關信箱，第一次協助國外的與會者來參加濁水溪以南的最大研討會，另外是我們踏上了海港巨蛋店，感謝 MOPCON 的大家讓我們又回到了海港還升級到巨蛋店 xDD 雖說沒有吃什麼東西就是了。</p>
+<p>很感謝會眾與工作人員們對於 MOPCON 的支持，MOPCON 2016 正式結束</p>
+<p>場務組組長 Hash 敬上</p>
+<p><a href="https://www.facebook.com/mopcon/" target="_blank" rel="external">#Mobile Open Platform Conference</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 心得分享 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> MOPCON </tag>
+            
+            <tag> Conf </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[PHP ... operator 使用方式]]></title>
+      <url>http://hashman.tw/2016/10/02/PHP-operator-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/</url>
+      <content type="html"><![CDATA[<p>今天發現一個很酷的 php 5.6 以後的 feature </p>
+<p>直接 show code 比較快</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;?php</span></div><div class="line"></div><div class="line">$string = <span class="string">"Controller@home"</span>;</div><div class="line"></div><div class="line">test(...explode(<span class="string">"@"</span>, $string));</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">test</span><span class="params">($controller_name, $funciton_name)</span></span></div><div class="line"><span class="function"></span>&#123;</div><div class="line">    var_dump($controller_name, $funciton_name);</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">// print result</span></div><div class="line"><span class="comment">// string(10) "Controller"</span></div><div class="line"><span class="comment">// string(4) "home"</span></div></pre></td></tr></table></figure>
+<p>這個 operator 會直接將 explode 出來的 array 直接依序的放入 function 中</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> PHP </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[如何在 Laravel 5.3 上使用 Slack BOT]]></title>
+      <url>http://hashman.tw/2016/10/02/%E5%A6%82%E4%BD%95%E5%9C%A8-Laravel-5-3-%E4%B8%8A%E4%BD%BF%E7%94%A8-Slack-BOT/</url>
+      <content type="html"><![CDATA[<p>今天在 <a href="http://learninglaravel.net/" target="_blank" rel="external">Learning Laravel</a> 網站上面看到 「<a href="http://learninglaravel.net/how-to-build-a-slack-bot-using-laravel" target="_blank" rel="external"><em>Learn how to build a Slack Bot using Laravel</em></a>」 這篇文章</p>
+<p>原文在這邊「<a href="https://www.cloudways.com/blog/build-laravel-powered-slack-bot/?id=46703" target="_blank" rel="external"><em>How To Build A Slack Bot Using Laravel</em></a>」，其實是使用 <a href="https://github.com/maknz/slack" target="_blank" rel="external"><em>maknz/slack</em></a> 這個 package 並將他整合近 Laravel 5.3 一同使用</p>
+<p>這個 package 真的蠻輕量的有興趣的可以看一下作者的 <a href="https://github.com/maknz/slack" target="_blank" rel="external">GitHub</a></p>
+<p>使用方法也相當簡單，詳細請參考原文。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Laravel </tag>
+            
+            <tag> PHP </tag>
+            
+            <tag> Slack </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[GitHub 也支援 Rebase Pull Request 了]]></title>
+      <url>http://hashman.tw/2016/09/27/GitHub-%E4%B9%9F%E6%94%AF%E6%8F%B4-Rebase-Pull-Request-%E4%BA%86/</url>
+      <content type="html"><![CDATA[<p>今天看到 GitHub 發出開始支援 Rebase Pull Request 詳細可以<a href="https://github.com/blog/2243-rebase-and-merge-pull-requests" target="_blank" rel="external">參考這裡</a></p>
+<p>稍微小玩了一下</p>
+<a id="more"></a>
+<ol>
+<li><p>先對 push 一個 feature branch<br><img src="/images/20160927/1.png" alt="push feature branch"></p>
+</li>
+<li><p>開啟一個新的 Pull Request<br><img src="/images/20160927/2.png" alt="螢幕快照 2016-09-27 上午11.13.27.png"></p>
+</li>
+<li><p>開啟完之後會長這樣<br><img src="/images/20160927/3.png" alt="螢幕快照 2016-09-27 上午11.13.38.png"></p>
+</li>
+<li><p>選擇「Rebase and merge」<br><img src="/images/20160927/4.png" alt="螢幕快照 2016-09-27 上午11.13.45.png"></p>
+</li>
+<li><p>Merge 完成<br><img src="/images/20160927/5.png" alt="螢幕快照 2016-09-27 上午11.14.10.png"></p>
+</li>
+</ol>
+<p>對於希望 tree 比較漂亮的人應該蠻喜愛這個功能的</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[MySQL 5.7 新增 JSON Data type]]></title>
+      <url>http://hashman.tw/2016/08/25/MySQL-5-7-%E6%96%B0%E5%A2%9E-JSON-Data-type/</url>
+      <content type="html"><![CDATA[<p>於 MySQL 5.7 版正式加上 JSON 這個 Data Type 詳細可以<a href="https://dev.mysql.com/doc/refman/5.7/en/json.html" target="_blank" rel="external">參考</a>。</p>
+<p>Create 與 Insert 的用法</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">mysql&gt; CREATE TABLE t1 (jdoc JSON);</div><div class="line">Query OK, 0 rows affected (0.20 sec)</div><div class="line"></div><div class="line">mysql&gt; INSERT INTO t1 VALUES(&apos;&#123;&quot;key1&quot;: &quot;value1&quot;, &quot;key2&quot;: &quot;value2&quot;&#125;&apos;);</div><div class="line">Query OK, 1 row affected (0.01 sec)</div></pre></td></tr></table></figure>
+<p>Select 的用法</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">mysql&gt; SELECT JSON_TYPE(&apos;[&quot;a&quot;, &quot;b&quot;, 1]&apos;);</div><div class="line">+----------------------------+</div><div class="line">| JSON_TYPE(&apos;[&quot;a&quot;, &quot;b&quot;, 1]&apos;) |</div><div class="line">+----------------------------+</div><div class="line">| ARRAY                      |</div><div class="line">+----------------------------+</div><div class="line"></div><div class="line">mysql&gt; SELECT JSON_TYPE(&apos;&quot;hello&quot;&apos;);</div><div class="line">+----------------------+</div><div class="line">| JSON_TYPE(&apos;&quot;hello&quot;&apos;) |</div><div class="line">+----------------------+</div><div class="line">| STRING               |</div><div class="line">+----------------------+</div></pre></td></tr></table></figure>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Laravel Mail 筆記]]></title>
+      <url>http://hashman.tw/2016/04/03/Laravel-Mail-%E7%AD%86%E8%A8%98/</url>
+      <content type="html"><![CDATA[<h1 id="透過-blade-email-template-寄-email"><a href="#透過-blade-email-template-寄-email" class="headerlink" title="透過 blade email template 寄 email"></a>透過 blade email template 寄 email</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">$user = User::find(1); // user information</div><div class="line"></div><div class="line">Mail::send(&apos;emails.register&apos;, compact(&apos;user&apos;), function (message) &#123;</div><div class="line">    $message-&gt;from([from user email account], [from user nickname])</div><div class="line">            -&gt;to([receiver email account], [receiver name])</div><div class="line">            -&gt;subject(&apos;This is email title&apos;);</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
+<h1 id="不透過-blade-email-template-寄-email"><a href="#不透過-blade-email-template-寄-email" class="headerlink" title="不透過 blade email template 寄 email"></a>不透過 blade email template 寄 email</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">$user = User::find(1); // user information</div><div class="line">$body = &apos;Something you want to email&apos;;</div><div class="line"></div><div class="line">Mail::send([], [], function (message) use($body) &#123;</div><div class="line">    $message-&gt;from([from user email account], [from user nickname])</div><div class="line">            -&gt;to([receiver email account], [receiver name])</div><div class="line">            -&gt;subject(&apos;This is email title&apos;)</div><div class="line">            -&gt;setBody($body, &apos;text/html&apos;);</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
+<p>如果沒有想要以 html 的格式寄出，可以將 ‘text/html’ 拿掉</p>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ul>
+<li><a href="https://laravel.com/api/5.1/Illuminate/Mail/Mailer.html" title="官方 Mailer API 文件" target="_blank" rel="external">官方 Mailer API 文件</a></li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Laravel </tag>
+            
+            <tag> PHP </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Git 常用指令]]></title>
+      <url>http://hashman.tw/2015/12/28/Git-%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</url>
+      <content type="html"><![CDATA[<p>整理一下 git 比較常用的一些指令  </p>
+<h2 id="如何使用-git-縮寫"><a href="#如何使用-git-縮寫" class="headerlink" title="如何使用 git 縮寫"></a>如何使用 git 縮寫</h2><pre><code>&gt; vim ~/.gitconfig
+
+# 加上下面內容
+[alias]
+      st = status
+      co = checkout
+      br = branch
+      up = rebase
+      ci = commit
+      di = diff
+</code></pre><h2 id="git-指令與縮寫後的指令比較"><a href="#git-指令與縮寫後的指令比較" class="headerlink" title="git 指令與縮寫後的指令比較"></a>git 指令與縮寫後的指令比較</h2><pre><code>git status   = git st
+git checkout = git co
+git branch   = git br
+git rebase   = git up
+git commit   = git ci
+git diff     = git di
+</code></pre><a id="more"></a>
+<h2 id="git-指令-以下都用縮寫"><a href="#git-指令-以下都用縮寫" class="headerlink" title="git 指令(以下都用縮寫)"></a>git 指令(以下都用縮寫)</h2><ol>
+<li><p>Status</p>
+<pre><code>git st
+</code></pre></li>
+<li><p>Branch</p>
+<pre><code># 顯示目前 local git 的 branch
+git br
+
+# 顯示所有 branch （包含 remote branch））
+git br -a
+</code></pre></li>
+<li><p>Add</p>
+<pre><code># add single file
+git add &lt;file_path&gt;
+
+# add all unstage file
+git add .
+
+# 強制新增 ignore file in git
+git add -f [file_path]
+</code></pre></li>
+<li><p>Commit</p>
+<pre><code>git ci -m &quot;content&quot;
+git ci --amend -c {commit hash}
+</code></pre></li>
+<li><p>Checkout</p>
+<pre><code># 切換到任何一個 branch 或是任何一點 commit hash 上
+git co &lt;branch_name&gt;
+git co &lt;commit_hash_number&gt;
+
+# 在現在的 branch 上面新開一個 branch 
+git co -b &lt;new_branch_name&gt;
+
+# checkout 一個 remote branch 
+git co -b &lt;local_branch_name&gt; --track origin/&lt;remote_branch_name&gt;
+EX: git co -b feature/123 --track origin/feature/123
+
+# 清除所有 unstage 檔案到上一次的 commit
+git co -- .
+</code></pre></li>
+<li><p>Diff</p>
+<pre><code># 查看目前所有 git 的更動內容
+git diff
+
+# 查看某個檔案的變動
+git diff &lt;file_path&gt;
+
+# 查看 git 更動內容並且忽略空白
+git diff --ignore-all-space
+</code></pre></li>
+<li><p>Merge</p>
+<pre><code># 一般直接 merge (ex: feature/123 merge to develop)
+# 建議先 pull 在 merge
+git co develop
+git merge feature/123
+
+# 保留 feature branch 上的線
+# 建議先 pull 在 merge
+git co develop
+git merge --no-ff feature/123
+</code></pre></li>
+<li><p>Pull</p>
+<pre><code>git pull or git pull origin &lt;branch_name&gt;
+</code></pre></li>
+<li><p>Push</p>
+<pre><code># 一般的 push 方法
+git push or git push origin &lt;branch_name&gt;
+
+# 與 tag 一起 push
+git push --follow-tags or git push --follow-tags origin &lt;branch_name&gt;
+
+# Delete remote git branch
+git push origin --delete [branch_name]
+</code></pre></li>
+<li><p>Fetch</p>
+<pre><code># 同步目前遠端 git 的狀態
+git fetch origin
+</code></pre></li>
+<li><p>Tag</p>
+<pre><code># 顯示目前的 tag 狀態
+git tag
+
+# 在某個 commit hash 上面加上 tag
+git tag -a &lt;tag_name&gt; -m &quot;&lt;tag_content&gt;&quot; &lt;commit_hash&gt;
+EX: git tag -a v1.1.0 -m &quot;test1&quot; a9bf65b
+
+# 查詢 tag 的詳細資料
+git show &lt;tag_name&gt;
+EX: git show v1.1.0
+</code></pre></li>
+<li><p>Reset</p>
+<pre><code># reset all include unstage
+git reset -q --hard HEAD --
+
+# hard reset 到某次 commit
+ps. 小心使用，中間的所有 commit 都會消失，必須透過 git reflog 去還原之前的 commit
+git reset --hard &lt;commit_hash&gt;
+</code></pre></li>
+<li><p>Rebase</p>
+<pre><code># 針對某個 branch 進行 rebase
+git rebase &lt;branch name&gt;
+
+# 針對某個 commit 之後進行 rebase
+git rebase -i &lt;commit hash&gt;
+
+# 針對 root 進行 rebase
+git rebase -i --root
+</code></pre></li>
+</ol>
+<h2 id="Git-Flow"><a href="#Git-Flow" class="headerlink" title="Git Flow"></a>Git Flow</h2><ul>
+<li>認識 git flow: <a href="https://ihower.tw/blog/archives/5140" target="_blank" rel="external">ihower - Git flow 開發流程</a></li>
+<li>安裝 git flow on mac: <a href="http://danielkummer.github.io/git-flow-cheatsheet/" target="_blank" rel="external">git-flow cheatsheet</a>  </li>
+<li>簡單介紹 git flow 種類<ul>
+<li>feature: 從 develop 分支出去，常用於開發新的功能，開發完成後就會 merge 回 develop 上</li>
+<li>hotfix: 從 master 分支出去，常用於 stable 版的緊急修復，修復完成後會 merge 回 master 跟 develop 上</li>
+<li>release: 從 develop 分支出去，用於開發版本要釋出成 stable 版，釋出完畢會 merge 到 master 跟 develop 上</li>
+</ul>
+</li>
+</ul>
+<h4 id="初始化-git-flow"><a href="#初始化-git-flow" class="headerlink" title="初始化 git flow"></a>初始化 git flow</h4><p>git flow init</p>
+<h4 id="使用-git-flow-feature-流程"><a href="#使用-git-flow-feature-流程" class="headerlink" title="使用 git flow feature 流程"></a>使用 git flow feature 流程</h4><p>git flow feature start 123   // 從 develop 建立一個 feature branch 123 出來<br>git flow feature publish 123 // 將 feature/123 這個 branch push 到 remote git repo 上<br>git flow feature finish 123  // 將 feature/123 這個 feature branch 結束後 merge 回 develop 上，並且會將這個 feature branch 移除</p>
+<h4 id="使用-git-flow-release-流程"><a href="#使用-git-flow-release-流程" class="headerlink" title="使用 git flow release 流程"></a>使用 git flow release 流程</h4><p>git flow release start v1.1.0 // 從 develop 建立一個 release branch v1.1.0<br>git flow feature publish v1.1.0 // 將 release/v1.1.0 這個 branch push 到 remote git repo 上<br>git flow feature finish v1.1.0  // 將 release/v1.1.0 這個 release branch 結束後 merge 進 master 與 develop 上並且壓上版本號，然後將這個 release branch 移除</p>
+<h4 id="使用-git-flow-hotfix-流程"><a href="#使用-git-flow-hotfix-流程" class="headerlink" title="使用 git flow hotfix 流程"></a>使用 git flow hotfix 流程</h4><p>git flow hotfix start v1.1.0 // 從 master 建立一個 hotfix branch v1.1.0<br>git flow hotfix finish v1.1.0  // 將 hotfix/v1.1.0 這個 branch 結束後 merge 回 master 與 develop 上並且壓上版本號，然後將這個 hotfix branch 移除</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[使用 Mac 安裝 gitbook server]]></title>
+      <url>http://hashman.tw/2015/12/22/%E4%BD%BF%E7%94%A8-Mac-%E5%AE%89%E8%A3%9D-gitbook-server/</url>
+      <content type="html"><![CDATA[<p>##安裝 node.js</p>
+<p>先到 node js 的官方網站依照自己的 OS 下載 node js 安裝檔<br><a href="https://nodejs.org/en/" target="_blank" rel="external">https://nodejs.org/en/</a></p>
+<a id="more"></a>
+<p>##確認 node js 是否安裝</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">node -v    </div><div class="line">npm -v</div></pre></td></tr></table></figure>
+<p>##安裝 gitbook cli<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g gitbook-cli</div></pre></td></tr></table></figure></p>
+<p>##開啟本機 gitbook 專案<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">cd</span> [gitbook folder]</div><div class="line"><span class="comment"># 跳至 gitbook 目錄</span></div><div class="line">gitbook install</div><div class="line"><span class="comment"># 安裝 gitbook 相關套件</span></div><div class="line">gitbook serve</div><div class="line"><span class="comment"># 啟動 gitbook server ，預設為 4000 port</span></div></pre></td></tr></table></figure></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Mac </tag>
+            
+            <tag> GitBook </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[CURL 與 Shell Script 相關使用]]></title>
+      <url>http://hashman.tw/2015/12/20/CURL-%E8%88%87-Shell-Script-%E7%9B%B8%E9%97%9C%E4%BD%BF%E7%94%A8/</url>
+      <content type="html"><![CDATA[<p>分享一下最近使用 curl 去 access 網站會需要用到的指令  </p>
+<h2 id="常用語法"><a href="#常用語法" class="headerlink" title="常用語法"></a>常用語法</h2><h3 id="使用-curl-直接-access-網站"><a href="#使用-curl-直接-access-網站" class="headerlink" title="使用 curl 直接 access 網站"></a>使用 curl 直接 access 網站</h3><pre><code>curl http://xxx.xxx.xxx
+</code></pre><h3 id="透過-curl-post-data-給網站"><a href="#透過-curl-post-data-給網站" class="headerlink" title="透過 curl post data 給網站"></a>透過 curl post data 給網站</h3><pre><code>curl --data &quot;Account=xxx&amp;Password=xxx&quot; http://xxx.xxx.xxx
+// 在這個範例中傳送了 Account 跟 Password 兩個參數
+</code></pre><a id="more"></a>
+<h3 id="透過-curl-使用-user-agent"><a href="#透過-curl-使用-user-agent" class="headerlink" title="透過 curl 使用 user agent"></a>透過 curl 使用 user agent</h3><pre><code>curl -A &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&quot; http://xxx.xxx.xxx
+// 此範例為使用 MAC 的 OS 然後還有使用 google chrome 的瀏覽器
+</code></pre><h3 id="透過-curl-去記錄目前所使用的-cookie"><a href="#透過-curl-去記錄目前所使用的-cookie" class="headerlink" title="透過 curl 去記錄目前所使用的 cookie"></a>透過 curl 去記錄目前所使用的 cookie</h3><pre><code>1. 取得第一次驗證的 cookie
+
+curl --cookie cookie_file.txt --cookie-jar cookie_file.txt --data &quot;Account=xxx&amp;Password=xxx&quot; http://xxx.xxx.xxx/check.php
+
+// 將驗證資料傳到 check.php 獲得 cookie ，並且將 cookie 存在同層目錄下面的 cookie_file.txt 中
+
+2. 使用已經取得的 cookie file 進行其他的使用
+
+curl --cookie cookie_file.txt http://xxx.xxx.xxx/something.php
+</code></pre><!-- more -->
+<h2 id="shell-script-額外使用"><a href="#shell-script-額外使用" class="headerlink" title="shell script 額外使用"></a>shell script 額外使用</h2><h3 id="使用額外的-config-file"><a href="#使用額外的-config-file" class="headerlink" title="使用額外的 config file"></a>使用額外的 config file</h3><ul>
+<li><p>vim env.conf</p>
+<pre><code>test1=&quot;test1&quot;
+test2 = &quot;test2&quot;
+# 宣告會使用到的參數
+</code></pre></li>
+<li><p>vim sourcecode.sh</p>
+<pre><code>source env.conf
+
+# 只要在 source code 中引入這個檔案就可以使用了
+
+echo $test1 # test1
+echo $test2 # test2
+</code></pre></li>
+</ul>
+<h3 id="取得當前執行的目錄"><a href="#取得當前執行的目錄" class="headerlink" title="取得當前執行的目錄"></a>取得當前執行的目錄</h3><pre><code>WORKDIR=$(cd &quot;$(dirname &quot;$0&quot;)&quot;; pwd)
+</code></pre><h3 id="在-mac-中可以直接雙擊-sh-檔"><a href="#在-mac-中可以直接雙擊-sh-檔" class="headerlink" title="在 mac 中可以直接雙擊 sh 檔"></a>在 mac 中可以直接雙擊 sh 檔</h3><pre><code>直接將檔名從 .sh 改成 .command
+</code></pre><h2 id="目前遇到的問題"><a href="#目前遇到的問題" class="headerlink" title="目前遇到的問題"></a>目前遇到的問題</h2><h3 id="要傳送兩次-post-data-給-check-php-後的-cookie-file-才可以使用"><a href="#要傳送兩次-post-data-給-check-php-後的-cookie-file-才可以使用" class="headerlink" title="要傳送兩次 post data 給 check.php 後的 cookie_file 才可以使用"></a>要傳送兩次 post data 給 check.php 後的 cookie_file 才可以使用</h3><pre><code>curl --cookie cookie_file.txt --cookie-jar cookie_file.txt --data &quot;Account=xxx&amp;Password=xxx&quot; http://xxx.xxx.xxx/check.php
+curl --cookie cookie_file.txt http://xxx.xxx.xxx/something.php
+
+// 這樣會無法在 something.php 中取得到資料
+
+curl --cookie cookie_file.txt --cookie-jar cookie_file.txt --data &quot;Account=xxx&amp;Password=xxx&quot; http://xxx.xxx.xxx/check.php
+curl --cookie cookie_file.txt --cookie-jar cookie_file.txt --data &quot;Account=xxx&amp;Password=xxx&quot; http://xxx.xxx.xxx/check.php
+curl --cookie cookie_file.txt http://xxx.xxx.xxx/something.php
+
+// 這樣就可以在 something.php 中取得資料
+</code></pre><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><ol>
+<li><a href="http://70tw.spotlight.net.tw/?p=822" target="_blank" rel="external">Linux - shell script 取得當前路徑</a></li>
+<li><a href="http://iphone4.tw/forums/showthread.php?t=139162" target="_blank" rel="external">如何雙擊 shell script file</a></li>
+<li><a href="http://www.cyberciti.biz/faq/mac-osx-applescript-run-shell-script/" target="_blank" rel="external">如何使用 applescript 去呼叫 shell script</a></li>
+<li><a href="http://snippets.aktagon.com/snippets/1-login-to-protected-resources-with-curl" target="_blank" rel="external">如何使用 curl 進行 session 驗證</a></li>
+</ol>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Linux </tag>
+            
+            <tag> CURL </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Javascript callback function 使用方法]]></title>
+      <url>http://hashman.tw/2015/12/03/Javascript-callback-function-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
+      <content type="html"><![CDATA[<p>寫 js 也一段時間了<br>整理一下 js callback funciton 的使用方法  </p>
+<a id="more"></a>
+<h2 id="寫法-1"><a href="#寫法-1" class="headerlink" title="寫法 1"></a>寫法 1</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">function f1(callback) &#123;</div><div class="line">  var data = &quot;123&quot;;</div><div class="line">  callback &amp;&amp; callback(data);</div><div class="line">&#125;</div><div class="line"></div><div class="line">function f2() &#123;</div><div class="line">  f1(function(result) &#123;</div><div class="line">    console.warn(&quot;in function&quot;);</div><div class="line">    console.warn(result);</div><div class="line">  &#125;);</div><div class="line">&#125;</div><div class="line"></div><div class="line">f2();</div></pre></td></tr></table></figure>
+<p>結果是：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">in function</div><div class="line">123</div></pre></td></tr></table></figure>
+<h2 id="寫法-2"><a href="#寫法-2" class="headerlink" title="寫法 2"></a>寫法 2</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">function f1(callback) &#123;</div><div class="line">  var data = &quot;123&quot;;</div><div class="line">  if (typeof callback === &quot;function&quot;) &#123;</div><div class="line">    callback(data);</div><div class="line">  &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">function f2() &#123;</div><div class="line">  f1(function(result) &#123;</div><div class="line">    console.warn(&quot;in function&quot;);</div><div class="line">    console.warn(result);</div><div class="line">  &#125;);</div><div class="line">&#125;</div><div class="line"></div><div class="line">f2();</div></pre></td></tr></table></figure>
+<p>結果是：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">in function</div><div class="line">123</div></pre></td></tr></table></figure>
+<p>基本上兩者的寫法是一樣的東西<br>只是寫法 1 稍稍有些簡潔<br>大家參考一下</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Javascript </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[AngularJS 事件  與  的使用方式]]></title>
+      <url>http://hashman.tw/2015/12/03/AngularJS-%E4%BA%8B%E4%BB%B6-%E8%88%87-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/</url>
+      <content type="html"><![CDATA[<p>用途：跨 Controller 傳遞變數  </p>
+<h2 id="Broadcast"><a href="#Broadcast" class="headerlink" title="Broadcast"></a>Broadcast</h2><p>用於事件發送  </p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$scope.$broadcast</div></pre></td></tr></table></figure>
+<a id="more"></a>
+<h2 id="On"><a href="#On" class="headerlink" title="On"></a>On</h2><p>用於接收事件  </p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$scope.$on</div></pre></td></tr></table></figure>
+<h2 id="範例"><a href="#範例" class="headerlink" title="範例"></a>範例</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">app = angular.module(<span class="string">'TestApp'</span>, []);</div><div class="line"></div><div class="line"><span class="comment">// 發送的 controller</span></div><div class="line">app.controller(<span class="string">'ctl'</span>, <span class="function"><span class="keyword">function</span>(<span class="params">$scope</span>) </span>&#123;</div><div class="line">    <span class="keyword">var</span> myData = <span class="string">'123'</span>;</div><div class="line">    $scope.$broadcast(<span class="string">'EventName'</span>, myData);</div><div class="line">&#125;);</div><div class="line"></div><div class="line"><span class="comment">// 接收的 controller</span></div><div class="line">app.controller(<span class="string">'ctl2'</span>, funciton($scope) &#123;</div><div class="line">    $scope.$on(<span class="string">'EventName'</span>, <span class="function"><span class="keyword">function</span>(<span class="params">event, args</span>) </span>&#123;</div><div class="line">        <span class="built_in">console</span>.warn(args); <span class="comment">// equals to '123'</span></div><div class="line">    &#125;);</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
+<h2 id="程式說明"><a href="#程式說明" class="headerlink" title="程式說明"></a>程式說明</h2><ol>
+<li>宣告 app 為 angular 的 model</li>
+<li>宣告兩個 controller 分別為 ctl 跟 ctl2</li>
+<li>然後我希望可以將 ctl 的變數傳到 ctl2 這個 controller 下面</li>
+<li>EventName 可以自定成不同的事件名稱</li>
+</ol>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> AngularJS </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Sublime Text 3 環境分享]]></title>
+      <url>http://hashman.tw/2015/11/28/Sublime-Text-3-%E7%92%B0%E5%A2%83%E5%88%86%E4%BA%AB/</url>
+      <content type="html"><![CDATA[<p>今天我將我的 sublime 環境分享給大家<br>先來說明一下我的環境</p>
+<pre><code>作業系統：Mac OS X El Capitan 10.11.1
+Sublime text 3
+</code></pre><p><img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/sublime%20overview.png" alt="Sublime Text 3 Overview"></p>
+<a id="more"></a>
+<h2 id="套件說明"><a href="#套件說明" class="headerlink" title="套件說明"></a>套件說明</h2><h3 id="安裝前置作業"><a href="#安裝前置作業" class="headerlink" title="安裝前置作業"></a>安裝前置作業</h3><h4 id="如何安裝-Package-Controller"><a href="#如何安裝-Package-Controller" class="headerlink" title="如何安裝 Package Controller"></a>如何安裝 Package Controller</h4><p>安裝 Package Controller 請參考<a href="https://packagecontrol.io/installation#st3" target="_blank" rel="external">這個</a>網站</p>
+<h2 id="Alignment"><a href="#Alignment" class="headerlink" title="Alignment"></a>Alignment</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/Alignment" target="_blank" rel="external">https://packagecontrol.io/packages/Alignment</a></li>
+<li><p>套件說明：  </p>
+<p>  基本上這個套件是給對於程式碼排版特別要求的人進行使用的工具<br>  他可以很快速的將所有等號排列整齊  </p>
+</li>
+<li><p>Hotkey ：  </p>
+<p>  預設： Super + Control + a<br>  修改成： Super + Control + z</p>
+</li>
+<li><p>操作方式：  </p>
+<p>  這個是使用前的 Code  </p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/Alignment%201.png" alt="image"></p>
+<p>  使用後的樣子</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/Alignment%202.png" alt="image"></p>
+</li>
+</ul>
+<h2 id="AngularJS"><a href="#AngularJS" class="headerlink" title="AngularJS"></a>AngularJS</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/AngularJS" target="_blank" rel="external">https://packagecontrol.io/packages/AngularJS</a></li>
+<li><p>套件說明：  </p>
+<p>  對於 Angular JS 的開發者來說，這是一個非常方便的工具<br>  最常用的功能就是打一些關鍵字他就可以幫你 autocomplete 加快你的開發速度</p>
+</li>
+<li><p>操作方式：  </p>
+<p>  想要使用 ng-click 這個 tag<br>  先打 ng 就會發現很多 option ，原因是因為 Angular JS 很多都是 ng 開頭的</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/Angularjs%201.png" alt="image"></p>
+<p>  這個時候多打 ng-cl 就可以看到 ng-click 了</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/Angularjs%202.png" alt="image"></p>
+</li>
+</ul>
+<h2 id="Bracket-Highlighter"><a href="#Bracket-Highlighter" class="headerlink" title="Bracket Highlighter"></a>Bracket Highlighter</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/BracketHighlighter" target="_blank" rel="external">https://packagecontrol.io/packages/BracketHighlighter</a></li>
+<li><p>套件說明：  </p>
+<p>  可以很快速且明顯的標示出你的括弧位置</p>
+</li>
+<li><p>操作方式：  </p>
+<p>  游標指到程式碼即會出現</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/brackhighlighter.png" alt="image"></p>
+</li>
+</ul>
+<h2 id="Color-Highlighter"><a href="#Color-Highlighter" class="headerlink" title="Color Highlighter"></a>Color Highlighter</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/Color%20Highlighter" target="_blank" rel="external">https://packagecontrol.io/packages/Color%20Highlighter</a></li>
+<li><p>套件說明：  </p>
+<p>  可以直接在程式碼上面看到你所要顯示的顏色</p>
+</li>
+<li><p>操作方式：  </p>
+<p>  程式碼上面有顏色或是色碼，就會在下面看到底線的顏色</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/color%20highlighter%201.png" alt="image"></p>
+<p>  將游標 focus 在 red 上面，就會出現 red 的色塊</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/color%20highlighter%202.png" alt="image"></p>
+<p>  將游標放在色碼上面，也可以看到該顏色的色塊</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/color%20highlighter%203.png" alt="image"></p>
+</li>
+</ul>
+<h2 id="DashDoc"><a href="#DashDoc" class="headerlink" title="DashDoc"></a>DashDoc</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/DashDoc" target="_blank" rel="external">https://packagecontrol.io/packages/DashDoc</a></li>
+<li><p>套件說明：  </p>
+<p>  此套件需要搭配 <a href="https://kapeli.com/dash" target="_blank" rel="external">Dash</a> 這個 App 一起使用<br>  可以直接在程式碼上面快速的查詢這個參數的使用方式</p>
+</li>
+<li><p>Hotkey ：  </p>
+<p>  預設： Control + h  </p>
+</li>
+<li><p>操作方式：  </p>
+<p>  將游標移到想要查詢的參數上面</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/DashDoc%201.png" alt="image"></p>
+<p>  按下 Hotkey 就會打開 Dash 了</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/DashDoc%202.png" alt="image"></p>
+</li>
+</ul>
+<h2 id="Diffy"><a href="#Diffy" class="headerlink" title="Diffy"></a>Diffy</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/Diffy" target="_blank" rel="external">https://packagecontrol.io/packages/Diffy</a></li>
+<li><p>套件說明：  </p>
+<p>  可以比對兩個不同檔案的差異</p>
+</li>
+<li><p>Hotkey ：  </p>
+<ul>
+<li><p>打開雙欄位  </p>
+<p>  預設： Super + Option + 2</p>
+</li>
+<li><p>使用比對差異</p>
+<p>  預設： Super + k then Super + d</p>
+</li>
+<li><p>清除比對差異</p>
+<p>  預設： Super + k then Super + c</p>
+</li>
+</ul>
+</li>
+<li><p>操作方式：  </p>
+<p>  開啟需要比對的兩個檔案</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/Diffy%201.png" alt="image"></p>
+<p>  按下 Hotkey 進行比對即會看到比對結果</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/Diffy%202.png" alt="image"></p>
+<p>  按下 Hotkey 取消比對標記就會消失了</p>
+</li>
+</ul>
+<h2 id="DocBlockr"><a href="#DocBlockr" class="headerlink" title="DocBlockr"></a>DocBlockr</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/DocBlockr" target="_blank" rel="external">https://packagecontrol.io/packages/DocBlockr</a></li>
+<li><p>套件說明：  </p>
+<p>  快速的將程式碼註解 Document 補上<br>  支援語言：</p>
+<ul>
+<li>JavaScript (including ES6)</li>
+<li>PHP</li>
+<li>ActionScript</li>
+<li>Haxe</li>
+<li>CoffeeScript</li>
+<li>TypeScript</li>
+<li>Java</li>
+<li>Apex</li>
+<li>Groovy</li>
+<li>Objective C</li>
+<li>C</li>
+<li>C++</li>
+<li>Rust</li>
+</ul>
+</li>
+<li><p>Hotkey ：  </p>
+<ul>
+<li><p>加入註解 Document  </p>
+<p>  預設： 輸入 [/**] then 按 tab</p>
+</li>
+</ul>
+</li>
+<li><p>操作方式：  </p>
+<p>  將 function 寫完後將游標移到 function 上方</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/DocBlockr%201.png" alt="image"></p>
+<p>  打上 /**</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/DocBlockr%202.png" alt="image"></p>
+<p>  按下 tab</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/DocBlockr%203.png" alt="image"></p>
+</li>
+</ul>
+<h2 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/Git" target="_blank" rel="external">https://packagecontrol.io/packages/Git</a></li>
+<li><p>套件說明：  </p>
+<p>  可以直接在 Sublime text 上面直接操作 Git 指令<br>  對於常常使用 Command Line 來使用 Git 的開發者就不建議安裝了，因為並沒有比較方便</p>
+</li>
+<li><p>Hotkey ：  </p>
+<p>  Super + Shift + p then 打上 git command</p>
+</li>
+<li><p>操作方式：  </p>
+<p>  打開 Command Palette [Super + Shift p]<br>  打 “git”</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/Git%201.png" alt="image"></p>
+<p>  使用 git pull 指令</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/Git%202.jpg" alt="image"></p>
+</li>
+</ul>
+<h2 id="iOpener"><a href="#iOpener" class="headerlink" title="iOpener"></a>iOpener</h2><ul>
+<li>套件官方網址：<a href="https://packagecontrol.io/packages/iOpener" target="_blank" rel="external">https://packagecontrol.io/packages/iOpener</a></li>
+<li><p>套件說明：  </p>
+<p>  可以直接在 Sublime text 上面透過鍵盤打開檔案<br>  就不需要在用到滑鼠了<br>預設是打開 ~/ 這個目錄</p>
+</li>
+<li><p>Hotkey ：  </p>
+<p>  Super + o</p>
+</li>
+<li><p>操作方式：  </p>
+<p>  打開 iOpener 的搜尋 bar [Super + o]  </p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/iOpener%201.jpg" alt="image"></p>
+<p>  想要看該目錄下面的檔案只需要按兩次 tab</p>
+<p>  <img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20151128%20sublime%20%E7%92%B0%E5%A2%83%E9%96%8B%E7%99%BC/iOpener%202.jpg" alt="image"></p>
+</li>
+</ul>
+<h2 id="Stupid-Indent"><a href="#Stupid-Indent" class="headerlink" title="Stupid Indent"></a>Stupid Indent</h2><ul>
+<li><p>套件官方網址：<a href="https://packagecontrol.io/packages/Stupid%20Indent" target="_blank" rel="external">https://packagecontrol.io/packages/Stupid%20Indent</a></p>
+</li>
+<li><p>套件說明：<br>  可以依照不同的檔名去使用不同的 space ，並且也可以將 tab 自動轉成 space</p>
+</li>
+<li><p>參考設定檔：</p>
+</li>
+</ul>
+<figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">    <span class="attr">"configuration"</span>:</div><div class="line">    [</div><div class="line">        &#123;</div><div class="line">            <span class="attr">"patterns"</span>: [ <span class="string">"Gemfile"</span>, <span class="string">"Rakefile"</span>, <span class="string">"*.rb"</span>, <span class="string">"*.erb"</span>, <span class="string">"*.scss"</span>, <span class="string">"*.coffee"</span>, <span class="string">"*.thor"</span>, <span class="string">"*.rake"</span>, <span class="string">"*.rhtml"</span>, <span class="string">"*.less"</span>, <span class="string">"*.yaml"</span>,<span class="string">"*.yml"</span> ],</div><div class="line">            <span class="attr">"tab_size"</span>: <span class="number">2</span>,</div><div class="line">            <span class="attr">"translate_tabs_to_spaces"</span>: <span class="literal">true</span></div><div class="line">        &#125;,</div><div class="line">        &#123;</div><div class="line">            <span class="attr">"patterns"</span>: [ <span class="string">"*.html"</span>, <span class="string">"*.js"</span>, <span class="string">"*.css"</span>, <span class="string">"*.tpl"</span> ],</div><div class="line">            <span class="attr">"tab_size"</span>: <span class="number">2</span>,</div><div class="line">            <span class="attr">"translate_tabs_to_spaces"</span>: <span class="literal">true</span></div><div class="line">        &#125;,</div><div class="line">        &#123;</div><div class="line">            <span class="attr">"patterns"</span>: [ <span class="string">"*.php"</span> ],</div><div class="line">            <span class="attr">"tab_size"</span>: <span class="number">4</span>,</div><div class="line">            <span class="attr">"translate_tabs_to_spaces"</span>: <span class="literal">true</span></div><div class="line">        &#125;,</div><div class="line">        &#123;</div><div class="line">            <span class="attr">"patterns"</span>: [ <span class="string">"*.md"</span>, <span class="string">"*.markdown"</span> ],</div><div class="line">            <span class="attr">"tab_size"</span>: <span class="number">4</span>,</div><div class="line">            <span class="attr">"translate_tabs_to_spaces"</span>: <span class="literal">true</span></div><div class="line">        &#125;,</div><div class="line">        &#123;</div><div class="line">            <span class="attr">"patterns"</span>: [ <span class="string">"*.py"</span> ],</div><div class="line">            <span class="attr">"tab_size"</span>: <span class="number">4</span>,</div><div class="line">            <span class="attr">"translate_tabs_to_spaces"</span>: <span class="literal">true</span></div><div class="line">        &#125;</div><div class="line">    ]</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<blockquote>
+<p>未完待續</p>
+</blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 資訊技術 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Sublime Text 3 </tag>
+            
+            <tag> MacOS </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[服役心得文]]></title>
+      <url>http://hashman.tw/2014/12/11/%E6%9C%8D%E5%BD%B9%E5%BF%83%E5%BE%97%E6%96%87/</url>
+      <content type="html"><![CDATA[<h2 id="成功嶺流程"><a href="#成功嶺流程" class="headerlink" title="成功嶺流程"></a>成功嶺流程</h2><h3 id="入成功嶺"><a href="#入成功嶺" class="headerlink" title="入成功嶺"></a>入成功嶺</h3><h4 id="流程說明"><a href="#流程說明" class="headerlink" title="流程說明"></a>流程說明</h4><p>入成功嶺 -&gt; 役別徵選 -&gt; 上課 -&gt; 期末鑒測 -&gt; 下單位<br><a id="more"></a></p>
+<pre><code>入成功嶺：
+    會有分隊長與區隊長帶帶領大家進行一些資料填寫、注意事項說明、健康檢查、理髮等動作，務必小心身上所發放的物品都不要弄丟，時間非常的敢所以一定要小心。
+
+役別徵選：
+    會在剛進成功嶺的第一週進行役別徵選，會在徵選前發放這梯可以選填的役別，上面也會有很多該役別的徵選條件與順位，選擇 4~5 個役別當天可以跑役別用
+    個人建議不錯的役別：
+    1. 教育役
+    2. 環保役
+    3. 社會役
+    4. 文化役
+    5. 觀光役
+
+上課：
+    上課的內容就是考試可能會考的東西，通常我在上課的時候都在看題庫，如果不利用那個時間看題庫的話...我也不知道你可以幹嘛xd
+
+期末鑒測：
+    期末評比的分數主要有分幾個： 3000 公尺徒手跑步、基本教練、筆試成績、內務評比。
+    基本上每天早上都要跑越野的 3000 公尺跑步，如果平常時間都可以跑的玩那鑒測一定沒問題，基本上都要拿滿分。
+    基本教練在每天都會又些時間可以進行練習，我相信隊長他們都會交的很好，但要拿滿分幾乎是不可能的事情，所以就盡量去拿了。
+    內務評比是每天都會做的事情，毛巾的擺放、豆腐被子、豆腐蚊帳、鞋板、置物櫃等都屬於內務評比的範圍內，基本上剛開始每天都可能會被扣分，要慢慢加強自己的內務要求，到後面自然就可能會變成加分了。
+</code></pre><h4 id="個人經驗談建議可以攜帶的東西"><a href="#個人經驗談建議可以攜帶的東西" class="headerlink" title="個人經驗談建議可以攜帶的東西"></a>個人經驗談建議可以攜帶的東西</h4><pre><code>牙刷（建議買兩個）
+洗衣袋（買兩個）
+牙膏、牙刷（建議買兩個）
+針線盒(建議買營站賣的)
+三合一的洗澡用品
+平板衛生紙（內務檢查用、可以當天買）
+爽身粉(晚上睡覺很熱)
+行動電源（充手機用就不用帶電源）
+小包面紙(隨身攜帶)
+濕紙巾(看個人需求)
+防蚊液
+襪子、內衣、內褲(建議買多一點)
+</code></pre><h2 id="專訓"><a href="#專訓" class="headerlink" title="專訓"></a>專訓</h2><p>專訓的部份每個役別的內容與時間都不一致，我是以社會役社會及家庭屬為例：<a href="https://docs.google.com/document/d/1F2I17i1NjcIwUovM8o4eiNYLgti2tbBNAMzQ7SlfYn4" target="_blank" rel="external">139T 社會役衛生福利部社會及家庭屬 專訓內容與注意事項</a></p>
+<h2 id="下單位"><a href="#下單位" class="headerlink" title="下單位"></a>下單位</h2><p>兒福中心一景<br><img src="https://dl.dropboxusercontent.com/u/33150136/markdown/20141211%20blog%20use/2014-11-21%2015.35.01%20HDR.jpg" alt=""><br>這邊有之前學長寫的心得文給大家參考一下：<a href="https://www.ptt.cc/bbs/SMSlife/M.1406474550.A.2A8.html" target="_blank" rel="external">兒福中心 - 心得文</a></p>
+<p><del>之後有想到的在補充xd</del></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 心得分享 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 服役 </tag>
+            
+            <tag> 心得 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>

@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<html class="theme-next muse use-motion" lang="en">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=6.4.1" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.4.1">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.4.1">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.4.1">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.4.1" color="#222">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    version: '6.4.1',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  <meta name="description" content="最近 Evernote 有不少負面消息了，想說來寫一篇我如何看待這個軟體，先說以下言論我不代表 Evernote 官方，僅僅是以一個 User 的角度來看這件事情，先讓大家回憶一下 Evernote 最近發生了哪些大事件。 大事件 2018/09/04: Evernote lost its CTO, CFO, CPO and HR head in the last month as it eyes">
+<meta name="keywords" content="Evernote,GTD">
+<meta property="og:type" content="article">
+<meta property="og:title" content="身為工程師的我如何看近期的 Evernote">
+<meta property="og:url" content="http://hashman.tw/2018/09/24/身為工程師的我如何看近期的 Evernote/index.html">
+<meta property="og:site_name" content="Hash&#39;s Blog">
+<meta property="og:description" content="最近 Evernote 有不少負面消息了，想說來寫一篇我如何看待這個軟體，先說以下言論我不代表 Evernote 官方，僅僅是以一個 User 的角度來看這件事情，先讓大家回憶一下 Evernote 最近發生了哪些大事件。 大事件 2018/09/04: Evernote lost its CTO, CFO, CPO and HR head in the last month as it eyes">
+<meta property="og:locale" content="en">
+<meta property="og:image" content="https://www.dropbox.com/s/x0ux0rnoiee5pko/%E6%88%91%E7%9A%84%E9%96%B1%E8%AE%80%E5%BF%83%E6%B5%81.png?dl=1">
+<meta property="og:updated_time" content="2018-09-24T07:36:04.329Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="身為工程師的我如何看近期的 Evernote">
+<meta name="twitter:description" content="最近 Evernote 有不少負面消息了，想說來寫一篇我如何看待這個軟體，先說以下言論我不代表 Evernote 官方，僅僅是以一個 User 的角度來看這件事情，先讓大家回憶一下 Evernote 最近發生了哪些大事件。 大事件 2018/09/04: Evernote lost its CTO, CFO, CPO and HR head in the last month as it eyes">
+<meta name="twitter:image" content="https://www.dropbox.com/s/x0ux0rnoiee5pko/%E6%88%91%E7%9A%84%E9%96%B1%E8%AE%80%E5%BF%83%E6%B5%81.png?dl=1">
+
+
+
+  <link rel="alternate" href="/atom.xml" title="Hash's Blog" type="application/atom+xml" />
+
+
+
+
+  <link rel="canonical" href="http://hashman.tw/2018/09/24/身為工程師的我如何看近期的 Evernote/"/>
+
+
+
+<script type="text/javascript" id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+
+  <title>身為工程師的我如何看近期的 Evernote | Hash's Blog</title>
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39414302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39414302-1');
+</script>
+
+
+
+
+
+
+  <noscript>
+  <style type="text/css">
+    .use-motion .motion-element,
+    .use-motion .brand,
+    .use-motion .menu-item,
+    .sidebar-inner,
+    .use-motion .post-block,
+    .use-motion .pagination,
+    .use-motion .comments,
+    .use-motion .post-header,
+    .use-motion .post-body,
+    .use-motion .collection-title { opacity: initial; }
+
+    .use-motion .logo,
+    .use-motion .site-title,
+    .use-motion .site-subtitle {
+      opacity: initial;
+      top: initial;
+    }
+
+    .use-motion {
+      .logo-line-before i { left: initial; }
+      .logo-line-after i { right: initial; }
+    }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Hash's Blog</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+    
+      
+        <p class="site-subtitle">記錄學習過程中的一切</p>
+      
+    
+  </div>
+
+  <div class="site-nav-toggle">
+    <button aria-label="Toggle navigation bar">
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  
+    <ul id="menu" class="menu">
+      
+        
+        
+        
+          
+          <li class="menu-item menu-item-home">
+    <a href="/" rel="section">
+      <i class="menu-item-icon fa fa-fw fa-home"></i> <br />Home</a>
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-archives">
+    <a href="/archives/" rel="section">
+      <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />Archives</a>
+  </li>
+
+      
+      
+    </ul>
+  
+
+  
+    
+
+  
+
+  
+</nav>
+
+
+
+  
+
+
+
+</div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://hashman.tw/2018/09/24/身為工程師的我如何看近期的 Evernote/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Hash Lin">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Hash's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">身為工程師的我如何看近期的 Evernote
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+
+              
+                
+              
+
+              <time title="Created: 2018-09-24 15:32:33 / Modified: 15:36:04" itemprop="dateCreated datePublished" datetime="2018-09-24T15:32:33+08:00">2018-09-24</time>
+            
+
+            
+              
+
+              
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/心得分享/" itemprop="url" rel="index"><span itemprop="name">心得分享</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>最近 Evernote 有不少負面消息了，想說來寫一篇我如何看待這個軟體，先說以下言論我不代表 Evernote 官方，僅僅是以一個 User 的角度來看這件事情，先讓大家回憶一下 Evernote 最近發生了哪些大事件。</p>
+<h3 id="大事件"><a href="#大事件" class="headerlink" title="大事件"></a>大事件</h3><ul>
+<li>2018/09/04: <a href="https://techcrunch.com/2018/09/04/evernote-lost-its-cto-cfo-cpo-and-hr-head-in-the-last-month-as-it-eyes-another-fundraise/" target="_blank" rel="external">Evernote lost its CTO, CFO, CPO and HR head in the last month as it eyes another fundraise</a></li>
+<li>2018/06/06: <a href="https://www.yinxiang.com/blog/blog/2018/06/06/evernote-an-independent-internet-enterprise/" target="_blank" rel="external">Evernote完成中国业务拆分，印象笔记重组为独立的中国互联网企业</a></li>
+</ul>
+<p>上面兩個文章我這裡就不再多做說明，有興趣的朋友可以自行閱讀，但這些事件可以看到 Evernote 國際版經歷了非常大的挑戰，也對於他們的市場照成非常大的衝擊，當然發生的事情絕非我僅列的，另外在 Evernote 的使用者<a href="https://discussion.evernote.com/" target="_blank" rel="external">論壇</a> 也可以看得出一些使用者對於這些新聞與軟體的反應，自己看了幾個月大概可以得出一些使用者常討論的內容</p>
+<ol>
+<li>為什麼 Evernote 不支援 Markdown 語法</li>
+<li>好爛阿離開吧</li>
+<li>沒有什麼新 Feature 感覺沒什麼進步</li>
+<li>Bug, Unstable 等等</li>
+</ol>
+<p>針對第一點，如上方大事件提到，印象筆記已經於 6/6 將中國業務與國際版進行獨立切割，並且於 8/7 就快速的推出了 Markdown 的功能，也引發大家不少的討論，詳細內容也可以看看這篇文章「<a href="https://mp.weixin.qq.com/s/zfLSR1Pg_YXQlgZ3EPrF8A" target="_blank" rel="external">印象笔记终于支持markdown了</a>」。</p>
+<p>其他的項目我個人也有些見解與看法，但就先讓我來說說我自己的想法</p>
+<p>用 Evernote 這個軟體已經 6 年了，對於我來說，我會以 Evernote 就是我 <strong>第二個大腦</strong> 來形容，當時的他不僅支持跨平台（Windows, Mac, Linux, Mobile 等等）筆記，還可以隨時透過 <a href="https://evernote.com/intl/zh-tw/products/webclipper" target="_blank" rel="external">Evernote web clipper</a> 來擷取網頁內容進行留存，在當時真的是相當的驚人，說實話至今我還是沒有找到可以有這麼多功能可以取代的產品，如果有的話真的歡迎可以跟我分享，我很願意試試。</p>
+<p>想要表達的是，大家都會期望這個筆記軟體可以更符合現在使用者的需求，也當然或許增加這個 Feature 可以讓我們對於他的喜愛度更高沒錯，但或許大家可能沒有看到其實 Evernote 還是 Evernote 他的核心價值與他想要帶給大家的功能其實他沒有變過， Evernote 還是 Evernote ，他還是非常方便的讓我們隨時筆記、完成 GTD 、檔案 / 內容搜尋、簡報等等功能整合在這個軟體裡面。</p>
+<p>在今年我參加了由 <a href="https://www.facebook.com/groups/KaohsiungHPX" target="_blank" rel="external">高雄 HPX 讀書會</a> 開的「<a href="https://www.books.com.tw/products/0010688764" target="_blank" rel="external">打開大家的 Evernote 筆記本：50位職人x 50種思考x 50個活用，為什麼這樣做筆記可以解決80%的工作問題</a>」書聚讓我有個機會可以用不同的面向來看這個軟體，這本書不是新書，但是非常多的觀念與思考流程還是適用於每個人的，這邊不會討論這本書的內容，我僅列出幾個本書想要強調給大家。</p>
+<ol>
+<li>記下所有的事情，把他當作是一個大大的 bucket 全部都丟進去就好，當你有需要的時候你就會找的到資料。</li>
+<li>善用他的搜尋功能，這個也是 Evernote 最強的功能，不管是筆記內容、檔案內容、圖片內容搜尋等，都是相當的方便的，總可以讓你再需要的時候找到資料。</li>
+<li>雖然他是一個筆記軟體，但他也可以做到 GTD 管理的功效，也可以透過「記事連結」這個功能將筆記與代辦事項串連起來。</li>
+<li>分享職人如何使用 Evernote 。</li>
+</ol>
+<p>當然本書的內容不僅僅是這四項，每個人解讀可能會有些不同就歡迎有興趣的朋友也可以去嘗試借閱 / 購買來看。</p>
+<h3 id="如何將-Evernote-應用於我的生活"><a href="#如何將-Evernote-應用於我的生活" class="headerlink" title="如何將 Evernote 應用於我的生活"></a>如何將 Evernote 應用於我的生活</h3><ol>
+<li>Slack integration （快速擷取每些日子的對話文章存到 Evernote ，對於使用免費版 slack 的人來說是一大福音）</li>
+<li>XMind 可以將所畫的心智圖，存進 Evernote 中，方便進行關鍵字搜尋與回想</li>
+<li>透過 Evernote 完成 135 代辦事項<a href="https://www.playpcesor.com/2016/08/1-3-5-to-do-list.html" target="_blank" rel="external">Ref: [[時間技客-1] 做得到的每日待辦清單：1-3-5 專注法則</a>]</li>
+<li>透過 RSS 軟體閱讀文章，整理心得存入 Evernote 進行保存</li>
+<li>透過網友開發的 <a href="https://itunes.apple.com/tw/app/evertool-markdown-evernote/id1396383432?mt=12&amp;ign-mpt=uo%3D4" target="_blank" rel="external">Plugin</a> 來將 Markdown 語法討用上 syntax style</li>
+</ol>
+<p><img src="https://www.dropbox.com/s/x0ux0rnoiee5pko/%E6%88%91%E7%9A%84%E9%96%B1%E8%AE%80%E5%BF%83%E6%B5%81.png?dl=1" alt="image"></p>
+<blockquote>
+<p>分享我的閱讀心流</p>
+</blockquote>
+<h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h3><p>其實 Evernote 的核心價值還是存在，並沒有因為產品時代的不同而影響這個產品的核心價值，只是可能沒有支援那接 Nice to Have 的 feature ，或許可以想想那些他能夠帶給你與解決問題的角度來欣賞這個軟體而非否定他，當然在此不是要大家使用 Evernote ，只是覺得 Evernote 對我來說還是非常不錯的，工具還是要看自己的使用習慣，要用順手的工具比較重要，也歡迎大家可以分享你覺得哪些工具很棒。</p>
+
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Evernote/" rel="tag"># Evernote</a>
+          
+            <a href="/tags/GTD/" rel="tag"># GTD</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2017/10/31/MOPCON-2017-心得文/" rel="next" title="MOPCON 2017 心得文">
+                <i class="fa fa-chevron-left"></i> MOPCON 2017 心得文
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+  </div>
+
+
+          </div>
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <p class="site-author-name" itemprop="name">Hash Lin</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">21</span>
+                    <span class="site-state-item-name">posts</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  <a href="/categories/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">categories</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">25</span>
+                    <span class="site-state-item-name">tags</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+              
+                <span class="links-of-author-item">
+                  <a href="https://github.com/hashman" target="_blank" title="GitHub"><i class="fa fa-fw fa-globe"></i>GitHub</a>
+                  
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://twitter.com/HashmanL" target="_blank" title="Twitter"><i class="fa fa-fw fa-globe"></i>Twitter</a>
+                  
+                </span>
+              
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#大事件"><span class="nav-number">1.</span> <span class="nav-text">大事件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#如何將-Evernote-應用於我的生活"><span class="nav-number">2.</span> <span class="nav-text">如何將 Evernote 應用於我的生活</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#總結"><span class="nav-number">3.</span> <span class="nav-text">總結</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
+  <span class="with-love" id="animate">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Hash Lin</span>
+
+  
+
+  
+</div>
+
+
+
+
+  <div class="powered-by">Powered by <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> v3.4.0</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">Theme – <a class="theme-link" target="_blank" href="https://theme-next.org">NexT.Muse</a> v6.4.1</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+	
+    
+
+    
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=6.4.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=6.4.1"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.4.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=6.4.1"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.4.1"></script>
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
